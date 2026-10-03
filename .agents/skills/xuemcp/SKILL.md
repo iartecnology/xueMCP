@@ -292,14 +292,21 @@ python3 .agents/skills/xuemcp/scripts/search_images.py "<término de búsqueda>"
 
 ---
 
-## 🚀 Módulo 4: Publicación, Edición y Eliminación vía API REST / MCP (Sin Contraseñas de Aplicación)
+## 🚀 Módulo 4: Publicación, Edición y Eliminación vía API REST / MCP (Seguro con Token)
 
-> [!TIP]
-> **Autenticación sin Contraseñas:**
-> El endpoint `/call` de `mcp-listeo` está diseñado para operar de forma nativa sin requerir *Application Passwords* ni autenticación Basic de WordPress.
-> Internamente, el conector eleva el contexto del proceso para ejecutar las operaciones con permisos administrativos seguros.
+> [!IMPORTANT]
+> **Seguridad y Autenticación con Token:**
+> El endpoint `/call` de `mcp-listeo` está completamente protegido contra accesos no autorizados.
+> Para realizar cualquier operación (crear, editar, borrar), se debe enviar la cabecera HTTP `X-MCP-Token` con el token de seguridad del sitio.
+> Esto elimina por completo el riesgo de accesos públicos indeseados y **no requiere exponer contraseñas de WordPress**.
 
-### 1. Creación de Listing (`listeo/create-listing`):
+### 1. Variables de Entorno Recomendadas:
+```bash
+export LISTEO_URL="https://xueturismo.com/wp-json/mcp-listeo/v1"
+export MCP_TOKEN="<TU_TOKEN_DE_SEGURIDAD>"
+```
+
+### 2. Creación de Listing (`listeo/create-listing`):
 Ejemplo con payload JSON:
 ```json
 {
@@ -317,10 +324,11 @@ Ejemplo con payload JSON:
 }
 ```
 
-Llamada directa vía cURL / Python:
+Llamada directa vía cURL / Python (Cabecera `X-MCP-Token` requerida):
 ```bash
 curl -X POST "https://xueturismo.com/wp-json/mcp-listeo/v1/call" \
   -H "Content-Type: application/json" \
+  -H "X-MCP-Token: $MCP_TOKEN" \
   -d '{"ability": "listeo/create-listing", "args": {"title": "Nombre", "status": "publish"}}'
 ```
 
@@ -338,7 +346,7 @@ curl -X POST "https://xueturismo.com/wp-json/mcp-listeo/v1/call" \
 ```
 
 ### 3. Eliminación de Listing o Post (`wp/delete-post`):
-Para enviar a la papelera o eliminar permanentemente un listado o entrada sin contraseñas:
+Para enviar a la papelera o eliminar permanentemente un listado o entrada:
 ```json
 {
   "ability": "wp/delete-post",
@@ -353,6 +361,7 @@ Llamada directa vía cURL:
 ```bash
 curl -X POST "https://xueturismo.com/wp-json/mcp-listeo/v1/call" \
   -H "Content-Type: application/json" \
+  -H "X-MCP-Token: $MCP_TOKEN" \
   -d '{"ability": "wp/delete-post", "args": {"id": 12345, "force": true}}'
 ```
 *(Usa `"force": false` para mover a la papelera o `"force": true` para eliminación definitiva).*
