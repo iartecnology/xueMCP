@@ -1,0 +1,34 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "El Cielo Medellín - Experiencia Gastronómica Molecular de Lujo en El Poblado",
+    "content": "<p><strong>El Cielo</strong> es mucho más que un restaurante: es una <strong>experiencia gastronómica inmersiva</strong> que ha llevado la cocina colombiana a niveles de estrella Michelin. Fundado por el chef <strong>Juan Manuel Barrios</strong>, este restaurante de autor en el corazón de El Poblado transforma cada plato en una obra de arte que desafía los sentidos.</p>
+
+<p><strong>La historia detrás de la magia</strong></p>
+
+<p>El concepto nació en Bogotá y rápidamente conquistó Medellín, la ciudad que lo vio expandirse con una propuesta que fusiona <strong>molecular gastronomy con raíces antioqueñas</strong>. Cada comensal participa de un ritual culinario donde las manos lavadas en esferas de hielo, los postres pintados sobre la mesa y las esferas de chocolate que se derriten son parte del espectáculo.</p>
+
+<p><strong>Platos estrella y experiencia</strong></p>
+
+<p>El menú degustación incluye creaciones icónicas como el <strong>chocolaterapia</strong> (chocolate caliente que se vierte sobre la mesa), la <strong>caracoluda</strong> reinterpretada con técnicas moleculares, y el famoso <strong>beso</strong> que se come con las manos. Cada plato viene acompañado de una narrativa que conecta al comensal con la historia personal del chef y la memoria gastronómica de Colombia.</p>
+
+<p><strong>Ambiente y ubicación</strong></p>
+
+<p>Ubicado en la exclusiva zona de <strong>El Poblado</strong>, el restaurante ofrece un ambiente sofisticado pero cálido, con iluminación tenue y un diseño interior que evoca la naturaleza colombiana. La experiencia completa dura aproximadamente <strong>tres horas</strong> y es ideal para celebraciones especiales o para quienes buscan la cena más memorable de su visita a Medellín.</p>
+
+<p><strong>Cómo llegar</strong></p>
+
+<p>El Cielo se encuentra en El Poblado, la zona gastronómica más prestigiosa de Medellín. Se puede llegar en taxi desde cualquier punto de la ciudad en 15-20 minutos desde el centro. El área cuenta con amplio estacionamiento y es fácilmente accesible desde la estación Aguacatala del Metro.</p>
+
+<p><em>Créditos de imágenes: desktodirtbag.com, theworldkeys.com - Imágenes referenciales de experiencias gastronómicas en Medellín.</em></p>",
+    "keywords": "El Cielo Medellín, restaurante molecular Medellín, gastronomía lujo El Poblado, chef Juan Manuel Barrios, cena especial Medellín, restaurante estrella Michelin Colombia, experiencia gastronómica inmersiva, dining Medellín",
+    "address": "El Poblado, Medellín, Antioquia, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.desktodirtbag.com/wp-content/uploads/2017/04/The-Fanciest-Meal-of-My-Life.webp",
+      "https://theworldkeys.com/wp-content/uploads/2022/10/El-Cielo-Restaurante-Medellin_theworldkeys_6.webp",
+      "https://www.desktodirtbag.com/wp-content/uploads/2017/04/el-cielo-medellin-molecular-gastronomy-1.webp"
+    ]
+  }
+}

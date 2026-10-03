@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Playa Bocagrande Cartagena edificios"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.freepik.es/fotos-premium/imagen-aerea-playa-bocagrande-cartagena-colombia_42594344.htm&quot;,&quot;murl&quot;:&quot;https://img.freepik.com/fotos-premium/imagen-aerea-playa-bocagrande-cartagena-colombia_531091-9157.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://mx.pinterest.com/pin/4644405858805554/&quot;,&quot;murl&quot;:&quot;https://i.pinimg.com/736x/64/9d/95/649d959ce9098840071d8b9657383fac.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://www.freepik.es/fotos-premium/imagen-aerea-playa-bocagrande-cartagena-colombia_42594344.htm&quot;,&quot;murl&quot;:&quot;https://img.freepik.com/fotos-premium/imagen-aerea-playa-bocagrande-cartagena-colombia_531091-9157.jpg"
+  },
+  {
+    "image_url": "https://mx.pinterest.com/pin/4644405858805554/&quot;,&quot;murl&quot;:&quot;https://i.pinimg.com/736x/64/9d/95/649d959ce9098840071d8b9657383fac.jpg"
+  }
+]

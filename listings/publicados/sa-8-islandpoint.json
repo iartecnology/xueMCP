@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Island Point | Comida Raizal Tradicional, San Andres",
+    "content": "<p><strong>Island Point</strong> es un restaurante en San Andres dedicado a preservar y compartir la comida raizal tradicional —aquella que las familias isleñas han preparado por generaciones con recetas que llegaron de Africa, Inglaterra y el Caribe para crear algo completamente unico.</p>\n\n<p><strong>Guardianes de la tradicion:</strong> Island Point nace de la conviccion de que la cocina raizal es un tesoro que merece ser protegido y compartido. Cada plato del menu es una receta que ha sobrevivido en las familias isleñas durante siglos, transmitida de madre a hija, de abuelo a nieto. El restaurante trabaja con cocineras raizales locales que conocen las tecnicas tradicionales y los secretos de cada preparacion.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>rice and beans raizal autentico</strong> —con leche de coco fresca, tomillo isleño y pimienta escocesa— es el corazon de la cocina isleña. El <strong>fish rundown</strong> —pescado guisado en salsa verde de coco con platano verde— es el plato mas representativo de la cocina raizal. El <strong>pan de bono isleño</strong>, el <strong>sweet pork</strong> —cerdo glaseado con especias dulces—, las <strong>patties de carne</strong> —empanadas especiadas estilo caribeno— y el <strong>banana fritter</strong> —buñuelo de platano maduro— completan una experiencia gastronomica que es patrimonio cultural vivo.</p>\n\n<p><strong>Ambiente:</strong> Rustico-authentico, como entrar a la sala de una familia raizal. Las paredes exhiben fotografias antiguas de la isla, utensilios de cocina tradicionales y telas africanas. La musica es calipso y reggae raizal, los sonidos que han acompanado a la comunidad isleña por generaciones. El personal comparte con orgullo la historia de cada receta.</p>\n\n<p><strong>Como llegar:</strong> En zona residencial de San Andres, lejos del turismo masivo. Se llega en taxi o golf cart desde El Centro. Ideal para quienes buscan autenticidad sobre sofisticacion.</p>\n\n<p><em>Creditos de imagenes: El Pais / El Tiempo</em></p>",
+    "keywords": "Island Point San Andres, comida raizal tradicional, rice and beans autentico San Andres, fish rundown raizal, restaurante cultura isleña, calipso San Andres, banana fritter Caribe, patrimonio gastronomico raizal",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.semana.com/resizer/v2/4Z2Q5IHY4BC5BJ5LSQWGBUJKBA.jpeg?auth=78a516d9a79dfdca09112ebb172b3af20480263cc4614219da008c5d5fee8d3f&smart=true&quality=75&width=1280&fitfill=false",
+      "https://imagenes.eltiempo.com/uploads/2023/06/22/6494b4fb42e42.jpeg",
+      "https://blog.sanandresisla.travel/wp-content/uploads/2025/08/image-4.png"
+    ]
+  }
+}

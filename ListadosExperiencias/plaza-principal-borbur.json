@@ -1,0 +1,12 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏛️ Plaza Principal de San Pablo de Borbur - Corazón del Pueblo",
+    "content": "<p>🎯 Por qué visitar la Plaza Principal?</p><p>La <strong>Plaza Principal de San Pablo de Borbur</strong> es el corazón del municipio 🏛️. Un espacio acogedor donde convergen la historia, la cultura y la vida social del pueblo boyacense.</p><p>📜 Sobre el lugar</p><p>Esta plaza, aunque mínima en tamaño, está bellamente decorada con plantas jóvenes y rodeada de los principales sitios de interés. Es el punto de encuentro ideal para conocer la esencia del pueblo.</p><p>🏛️ Qué encontrar</p><ul><li>🌿 <strong>Vegetación</strong> - Plantas locales</li><li>🪑 <strong>Bancos</strong> - Para descansar</li><li>🏠 <strong>Alcaldía</strong> - Edificio colonial</li><li>⛪ <strong>Iglesia</strong> - Estilo gótico</li></ul><p>📅 Clima social</p><ul><li>🎉 <strong>Domingos</strong> - Vida social</li><li>🍺 <strong>Bares cercanos</strong> - Cultura local</li><li>📷 <strong>Fotos</strong> - Arquitectura</li><li>🌅 <strong>Amanecer</strong> - Vista única</li></ul><p>📍 Ubicación</p><p>En el <strong>centro del municipio</strong>, eje vial de San Pablo de Borbur.</p><p>⭐ Por qué visitarla</p><ul><li>🏛️ <strong>Arquitectura única</strong> - Gótica en Boyacá</li><li>🌿 <strong>Naturaleza</strong> - Jardines</li><li>📸 <strong>Fotos</strong> - Instagrammable</li><li>💚 <strong>Experiencia local</strong> - Auténtica</li></ul>",
+    "keywords": "Plaza Principal, San Pablo de Borbur, Boyaca, turismo, parque central",
+    "address": "San Pablo de Borbur, Boyacá, Colombia",
+    "category": "turismo",
+    "status": "publish",
+    "image_urls": []
+  }
+}

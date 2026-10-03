@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Izkalá | Cocina Wayuu y de la Sierra, Santa Marta",
+    "content": "<p><strong>Izkalá</strong> es un restaurante en Santa Marta que abre una ventana a las cocinas indigenas de la Guajira Wayuu y la Sierra Nevada de Santa Marta, ofreciendo una experiencia gastronomica que es tambien un viaje cultural a las raices mas ancestrales del Caribe colombiano.</p>\n\n<p><strong>Herencia Wayuu y de la Sierra:</strong> Izkalá nace del deseo de visibilizar y celebrar las tradiciones culinarias de los pueblos originarios del norte de Colombia. La cocina Wayuu —con sus tecnicas de coccion en tierra, sus especias del desierto guajiro y sus productos del mar y la salina— se une a las tradiciones de la Sierra Nevada en un menu que cuenta historias de resistencia cultural y sabiduria alimentaria.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>chivo wayuu guisado con especias del desierto</strong>, el <strong>pescado salado con suero wayuu</strong>, la <strong>ensalada de cardon con tomate de la Sierra</strong>, el <strong>arroz wayuu con camaron de la Guajira</strong> y la <strong>arepa de maiz pilado con queso costeño</strong>. Las bebidas incluyen <strong>chicha fermentada</strong> y <strong>jugo de pitahaya de la Sierra Nevada</strong>. El <strong>cayeye guajiro</strong> (pure de platano verde con suero) es un plato que define la identidad de la region.</p>\n\n<p><strong>Ambiente:</strong> La decoracion incorpora tejidos Wayuu (mochilas y tapices), ceramica indigena y elementos de las culturas de la Sierra Nevada. El espacio es intimo y narrativo: cada pared cuenta una historia, cada plato tiene una explicacion cultural. Es un restaurante que educa mientras alimenta.</p>\n\n<p><strong>Como llegar:</strong> En Santa Marta, facilmente accesible desde el centro historico. El restaurante ofrece informacion sobre experiencias de turismo comunitario en la Guajira y la Sierra Nevada.</p>\n\n<p><em>Creditos de imagenes: Bienestar Colsanitas / El Tiempo</em></p>",
+    "keywords": "Izkalá Santa Marta, cocina Wayuu Guajira, restaurante indigena Santa Marta, chivo wayuu, gastronomía ancestral Guajira, Sierra Nevada cocina, cayeye guajiro, turismo comunitario La Guajira",
+    "address": "Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.bienestarcolsanitas.com/sites/default/files/inline-images/Cuerpo4_7.webp",
+      "https://imagenes.eltiempo.com/files/image_600_455/files/fp/uploads/2024/08/08/66b53f51309e2.r_d.720-960-4167.jpeg",
+      "https://radionacional-v3.s3.amazonaws.com/s3fs-public/inline-images/Pescado%20frito%20con%20arroz%20de%20coco.jpeg"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🥟 Mercado Campesino — Sabor y Tradición en la Mesa de los Santos",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Mercado Campesino?</strong></p><p>El <strong>Mercado Campesino de la Mesa de los Santos</strong> es el lugar donde el campo santandereano cobra vida 🥟. Ubicado en un entorno fresco y pintoresco, es el punto de encuentro perfecto para quienes buscan la auténtica gastronomía de la región, artesanías locales y el mejor clima de la montaña.</p><p>🥘 <strong>Un Festín Santandereano</strong></p><p>Desde la famosa arepa de maíz 'pelao' hasta el cabro con pepitoria, la carne oreada y el dulce de apio, el mercado es un paraíso para el paladar. Es un espacio vibrante, lleno de colores y aromas, donde los productores locales ofrecen lo mejor de sus cosechas en un ambiente familiar y acogedor.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🍴 <strong>Degustación típica</strong>: No te vayas sin probar un 'pico de gallo' o una hormiga culona (si te atreves).</li><li>🌄 <strong>Miradores</strong>: Muy cerca se encuentran los miradores naturales hacia el imponente Cañón del Chicamocha.</li><li>🧶 <strong>Artesanías</strong>: Encuentra piezas únicas en madera, fique y cerámica hechas por manos locales.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Sábados, domingos y festivos</strong>: 8 AM - 6 PM (Es cuando el mercado está en todo su esplendor).</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Gratuita.</li><li>☕ <strong>Café</strong>: Estás en una zona de cafés especiales; pide una taza de café de origen de la Mesa.</li><li>🚗 <strong>Transporte</strong>: Cuenta con amplias zonas de parqueo para vehículos particulares.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se ubica en la vía principal de la <strong>Mesa de los Santos</strong>, en el sector de Acuarela, a unos 45 minutos de Bucaramanga.</p><p><em>📸 Créditos: haciendaelmadrigal.com, tripadvisor.co</em></p>",
+    "keywords": "Mercado Campesino, Mesa de los Santos, Santander, gastronomia santandereana, arepa de maiz pelao, turismo Santander, mercado local, comida tipica",
+    "address": "Vía Acuarela, Mesa de los Santos, Santander, Colombia",
+    "lat": 6.8333,
+    "lng": -73.0500,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/b8/9f/ca/mercado-campesino-acuarela.jpg",
+      "https://haciendaelmadrigal.com/wp-content/uploads/2025/09/Mercado-campesino-La-Mesa-de-los-Santos-Hacienda-el-Madrigal.jpg",
+      "https://i.pinimg.com/736x/02/22/e0/0222e0a26737e9f72d45d0155c0960f8.jpg",
+      "https://i.ytimg.com/vi/PfuSe70kMH4/maxresdefault.jpg"
+    ]
+  }
+}

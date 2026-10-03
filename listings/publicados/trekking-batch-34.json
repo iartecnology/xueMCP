@@ -1,0 +1,102 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🥾 Caminata por el Páramo de Sumapaz — Silencio en las Alturas",
+      "content": "<p>🎯 <strong>¿Por qué caminar en Sumapaz?</strong></p><p>El <strong>Páramo de Sumapaz</strong> es el ecosistema de este tipo más grande del mundo y la principal fábrica de agua de la capital colombiana 🥾. Caminar por sus senderos es sumergirse en un paisaje místico de frailejones gigantes, lagunas sagradas y una neblina que parece guardar secretos milenarios.</p><p>📸 <strong>Experiencias</strong>: Recorre los senderos autorizados para observar la flora única de alta montaña y entender la importancia vital de este 'pulmón' de agua. La altitud (sobre los 3.500 msnm) exige un ritmo pausado y respetuoso con la montaña.</p>",
+      "address": "Páramo de Sumapaz, Bogotá, Colombia",
+      "lat": 4.025,
+      "lng": -74.225,
+      "keywords": "Sumapaz trekking, paramo mas grande del mundo, caminatas Bogota, ecoturismo Colombia, frailejones, senderismo alta montaña",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/P%C3%A1ramo_de_Sumapaz.jpg/1200px-P%C3%A1ramo_de_Sumapaz.jpg"
+      ],
+      "id": 6389,
+      "link": "https://xueturismo.com/listado/%f0%9f%a5%be-caminata-por-el-paramo-de-sumapaz-silencio-en-las-alturas-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🏜️ Senderismo en el Cañón del Chicamocha — Rutas de los Guanes",
+      "content": "<p>🎯 <strong>¿Por qué caminar el Cañón?</strong></p><p>Descender por las laderas del <strong>Cañón del Chicamocha</strong> es viajar en el tiempo a través de los caminos reales construidos por la cultura Guane y el colonizador Geo Von Lengerke 🏜️. Es una prueba de fuego para los senderistas por su terreno árido y sus pendientes pronunciadas, pero recompensada con vistas que quitan el aliento.</p><p>📸 <strong>Experiencias</strong>: Realiza la ruta entre Jordán y Los Santos, o de Villanueva a Barichara. El contraste entre el calor del fondo del cañón y la brisa de las mesetas es inolvidable.</p>",
+      "address": "Cañón del Chicamocha, Santander, Colombia",
+      "lat": 6.804,
+      "lng": -73.003,
+      "keywords": "Chicamocha trekking, senderismo Santander, caminos reales Colombia, Guanes, aventura Santander, Barichara caminatas",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ca%C3%B1on_del_Chicamocha.jpg/1200px-Ca%C3%B1on_del_Chicamocha.jpg"
+      ],
+      "id": 6390,
+      "link": "https://xueturismo.com/listado/%f0%9f%8f%9c%ef%b8%8f-senderismo-en-el-canon-del-chicamocha-rutas-de-los-guanes-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🌋 Ascenso al Volcán Puracé — El Guardián del Cauca",
+      "content": "<p>🎯 <strong>¿Por qué subir al Puracé?</strong></p><p>El <strong>Volcán Puracé</strong> ofrece una de las caminatas volcánicas más accesibles y espectaculares de Colombia 🌋. El ascenso te lleva a través de zonas de azufrales, fumarolas activas y el imponente cráter, todo bajo la atenta mirada del Cóndor de los Andes que suele planear sobre esta zona.</p><p>📸 <strong>Experiencias</strong>: Siente la fuerza de la tierra en las fumarolas y disfruta de la vista panorámica de la Cordillera Central. Se recomienda ir con guías indígenas de la comunidad Coconuco.</p>",
+      "address": "Parque Nacional Natural Puracé, Cauca, Colombia",
+      "lat": 2.317,
+      "lng": -76.398,
+      "keywords": "Ascenso Puracé, volcanes Colombia, trekking Cauca, Condor de los Andes, senderismo volcanico, Coconuco aventura",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Purac%C3%A9_Volcano.jpg/1200px-Purac%C3%A9_Volcano.jpg"
+      ],
+      "id": 6391,
+      "link": "https://xueturismo.com/listado/%f0%9f%8c%8b-ascenso-al-volcan-purace-el-guardian-del-cauca-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🎨 Trekking en la Serranía de la Lindosa — Pinturas Rupestres",
+      "content": "<p>🎯 <strong>¿Por qué caminar en La Lindosa?</strong></p><p>La <strong>Serranía de la Lindosa</strong> en el Guaviare es un viaje al origen de la humanidad 🎨. Caminar por sus tepuyes milenarios te permite descubrir kilómetros de muros de roca cubiertos con pinturas rupestres de hace más de 12.000 años, representando animales extintos y escenas de caza.</p><p>📸 <strong>Experiencias</strong>: Visita 'Cerro Azul' o 'Nuevo Tolima' para ver los pictogramas rojos que han sobrevivido milenios en la selva. Es una combinación única de arqueología, selva y aventura.</p>",
+      "address": "San José del Guaviare, Guaviare, Colombia",
+      "lat": 2.505,
+      "lng": -72.645,
+      "keywords": "La Lindosa trekking, Guaviare turismo, pinturas rupestres Colombia, arqueologia aventura, Cerro Azul pictogramas",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pictogramas_Guaviare.jpg/1200px-Pictogramas_Guaviare.jpg"
+      ],
+      "id": 6392,
+      "link": "https://xueturismo.com/listado/%f0%9f%8e%a8-trekking-en-la-serrania-de-la-lindosa-pinturas-rupestres-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🌲 Caminata al Bosque de Palmas — Valle de Cocora Profundo",
+      "content": "<p>🎯 <strong>¿Por qué el Trekking en Cocora?</strong></p><p>Más allá de los miradores tradicionales, el trekking profundo en el <strong>Valle de Cocora</strong> te lleva a través de puentes colgantes, selvas de niebla y el santuario de colibríes de Acaime 🌲. Es una ruta circular exigente pero hermosa que termina en el bosque de Palmas de Cera más altas del mundo.</p><p>📸 <strong>Experiencias</strong>: El sendero de la montaña te permite ver las palmas desde lo alto, creando una perspectiva única de este paisaje nacional de Colombia.</p>",
+      "address": "Salento, Quindío, Colombia",
+      "lat": 4.638,
+      "lng": -75.485,
+      "keywords": "Cocora trekking, Salento senderismo, Palmas de Cera, Acaime colibries, Quindio aventura, Valle de Cocora caminata",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Valle_de_Cocora.jpg/1200px-Valle_de_Cocora.jpg"
+      ],
+      "id": 6393,
+      "link": "https://xueturismo.com/listado/%f0%9f%8c%b2-caminata-al-bosque-de-palmas-valle-de-cocora-profundo-2/"
+    }
+  }
+]

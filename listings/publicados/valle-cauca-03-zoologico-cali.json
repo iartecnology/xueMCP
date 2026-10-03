@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐒 Zoológico de Cali — Pasión por la Vida y la Conservación",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Zoológico de Cali?</strong></p><p>El <strong>Zoológico de Cali</strong> es considerado uno de los mejores de América Latina 🐒. Más que un lugar para ver animales, es un centro de conservación y educación ambiental que te sumerge en los diversos ecosistemas de Colombia y el mundo en un entorno natural y sombreado junto al río Cali.</p><p>🌿 <strong>Biodiversidad y Experiencia</strong></p><p>A través de un recorrido serpenteante, podrás conocer desde el majestuoso jaguar hasta los curiosos lémures, pasando por un impresionante acuario y un mariposario que te dejará sin aliento. El zoológico se destaca por el bienestar animal y la recreación de hábitats naturales, lo que lo convierte en una visita obligatoria para familias y amantes de la naturaleza.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🦋 <strong>Mariposario</strong>: Camina entre cientos de mariposas de colores en un entorno tropical.</li><li>🐢 <strong>Acuario y Aviario</strong>: Descubre la riqueza hídrica y de aves de Colombia.</li><li>🐆 <strong>Hábitats de Primates y Felinos</strong>: Observa de cerca la fuerza y agilidad de las especies nativas.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Todos los días</strong>: 9 AM - 4:30 PM (Cierre de taquilla).</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Aproximadamente 25.000 COP - 35.000 COP (sujeto a cambios).</li><li>🚶 <strong>Duración</strong>: Reserva al menos 3 o 4 horas para disfrutar del recorrido completo sin prisas.</li><li>🧴 <strong>Protección</strong>: Lleva repelente y usa ropa cómoda y fresca.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en el oeste de la ciudad, en la <strong>Carrera 2 Oeste con Calle 14</strong>, junto al cauce del Río Cali. Es muy fácil llegar en taxi o en transporte público.</p><p><em>📸 Créditos: tropicanafm.com, arrampicata.co</em></p>",
+    "keywords": "Zoologico de Cali, Cali, animales, conservacion, mariposario Cali, acuario Cali, turismo familiar Cali, biodiversidad Colombia",
+    "address": "Carrera 2 Oeste # 14-02, Cali, Valle del Cauca, Colombia",
+    "lat": 3.4483,
+    "lng": -76.5561,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.tropicanafm.com/wp-content/uploads/2025/01/27012025zoologico-de-cali.jpg",
+      "https://arrampicata.co/wp-content/uploads/2025/03/Zoo1.jpeg",
+      "https://occidente.co/wp-content/uploads/2020/03/loros-zoologico-cali.jpg",
+      "https://i.pinimg.com/originals/16/21/3c/16213c7729a86a3478ad5387e724d783.jpg"
+    ]
+  }
+}

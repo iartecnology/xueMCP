@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "❄️ PNN Nevado del Huila — El Techo de los Andes Colombianos",
+    "content": "<p>🎯 <strong>¿Por qué explorar el Nevado del Huila?</strong></p><p>El <strong>Parque Nacional Natural Nevado del Huila</strong> alberga la cumbre más alta de los Andes en Colombia y el volcán más imponente del país ❄️. Es un territorio sagrado para la comunidad indígena Nasa y un santuario de biodiversidad que protege uno de los glaciares más extensos de la cordillera central.</p><p>🏔️ <strong>Naturaleza y Cultura Ancestral</strong></p><p>A diferencia de otros nevados, el del Huila ofrece una experiencia de naturaleza cruda y poco explorada. Sus paisajes de páramo y bosque andino son el hogar del Oso de Anteojos y una gran variedad de especies endémicas. El parque es vital para el nacimiento de importantes ríos como el Páez y el Símbola. La visita a sus zonas de influencia permite conocer de cerca la mística y el respeto de las comunidades locales por la montaña sagrada.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🏔️ <strong>Contemplación del Glaciar</strong>: Admira la imponente silueta blanca que domina el horizonte del suroccidente colombiano.</li><li>🦅 <strong>Avistamiento de Fauna</strong>: Descubre especies únicas en un entorno de alta montaña virgen.</li><li>🌿 <strong>Recorrido por Páramos</strong>: Camina entre frailejones gigantes en un ecosistema de regulación hídrica vital.</li></ul><p>🕐 <strong>Mejor momento para ver</strong></p><p>📅 <strong>Enero y Febrero</strong>: Son los meses con mayor probabilidad de tener vistas despejadas de la cumbre nevada.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Ingreso</strong>: El acceso al volcán suele estar restringido debido a su actividad constante y fragilidad ecosistémica; consulta siempre en los centros de control.</li><li>🧣 <strong>Ropa</strong>: Imprescindible equipo para frío extremo si te acercas a las zonas altas.</li><li>🙏 <strong>Respeto Cultural</strong>: Recuerda que gran parte del parque es territorio indígena; respeta sus normas y tradiciones.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en la cordillera central, compartiendo límites entre <strong>Huila, Cauca y Tolima</strong>. El acceso principal suele coordinarse desde los municipios de Neiva o Teruel (Huila).</p><p><em>📸 Créditos: huilamagnifica.com, parquesnacionales.gov.co</em></p>",
+    "keywords": "PNN Nevado del Huila, Huila, volcan activo, montaña sagrada, Nasa, ecoturismo Colombia, glaciar Andes, turismo naturaleza",
+    "address": "Parque Nacional Natural Nevado del Huila, Huila, Colombia",
+    "lat": 2.9250,
+    "lng": -76.0333,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://huilamagnifica.com/wp-content/uploads/2022/05/Nevado-del-Huila-Autor-de-la-Fotografia-Oscar-Meneses-Ceron-2021-02-1024x625.jpg",
+      "https://www.parquesnacionales.gov.co/wp-content/uploads/2023/06/nevado-del-huila-est-scaled.jpg",
+      "https://old.parquesnacionales.gov.co/portal/wp-content/uploads/2013/08/Montanas_munchique_La_Gallera1.jpg"
+    ]
+  }
+}

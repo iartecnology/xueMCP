@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Tin Tin Deo | Salsa en Vivo y Comida Caleña, Cali",
+    "content": "<p><strong>Tin Tin Deo</strong> es mucho mas que un restaurante: es una institucion cultural de Cali, la capital mundial de la salsa. Fundado en el emblematico barrio Granada, este local combina la pasion caleña por el baile con la gastronomia tradicional del Valle del Cauca en una experiencia que despierta todos los sentidos.</p>\n\n<p><strong>Historia y legado:</strong> Desde su apertura, Tin Tin Deo se ha consolidado como el punto de encuentro donde la musica y la comida se fusionan en un solo ritmo. Sus paredes han sido testigo de miles de noches donde los comensales pasan del plato a la pista sin transicion, siguiendo los compases de orquestas en vivo que hacen vibrar el lugar.</p>\n\n<p><strong>Platos estrella:</strong> La carta celebra los sabores del Valle con <strong>arroz con pollo al estilo caleño</strong>, <strong>filete de pescado con patacones</strong>, <strong>encebollado de camarones</strong> y la infaltable <strong>lulada</strong> —esa bebida refrescante de fruta de lulo que es pura identidad valluna. Los <strong>chorizos santarrosanos</strong> y las <strong>empanadas de pipian</strong> completan un menu que honra la tradicion gastronomica de la region.</p>\n\n<p><strong>Ambiente:</strong> El ambiente es electrico. La musica salsa suena sin parar, y la pista de baile invita a todos —desde expertos hasta principiantes— a moverse al ritmo del clave. Las noches de viernes y sabado son especialmente vibrantes, con orquestas en vivo que convierten cada cena en una celebracion.</p>\n\n<p><strong>Como llegar:</strong> Ubicado en el corazon del barrio Granada, zona gastronomica de Cali. Se accede facilmente por la Avenida Sexta. El sector cuenta con parqueaderos cercanos y es una de las zonas mas animadas de la ciudad por la noche.</p>\n\n<p><em>Creditos de imagenes: TripAdvisor / Get Lost Magazine</em></p>",
+    "keywords": "Tin Tin Deo Cali, restaurante salsa Cali, salsa en vivo Cali, comida caleña, barrio Granada Cali, musica salsa restaurante, gastronomia Valle del Cauca, lulada Cali, bailar salsa Cali",
+    "address": "Barrio Granada, Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.getlostmagazine.com/wp-content/uploads/2016/06/GL47-COLOMBIA-BAR-TIN_TIN_DEO-2-800x1000.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/15/f7/21/79/photo0jpg.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/2d/32/be/salsaaaa-cali-style.jpg?w=900&h=500&s=1"
+    ]
+  }
+}

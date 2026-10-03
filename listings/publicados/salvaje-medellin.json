@@ -1,0 +1,34 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Salva.je Medellín - Cocina de Autor Colombiana Contemporánea en El Poblado",
+    "content": "<p><strong>Salva.je</strong> representa la <strong>vanguardia de la cocina colombiana contemporánea</strong> en Medellín. Un restaurante donde la creatividad del chef transforma ingredientes ancestrales en platos que son verdaderas obras de arte, desafiando las expectativas de lo que puede ser la gastronomía sudamericana.</p>
+
+<p><strong>Cocina de autor con identidad</strong></p>
+
+<p>La propuesta de Salva.je se basa en la <strong>reinterpretación de la cocina colombiana</strong> a través de técnicas de alta cocina internacional. Cada plato es una investigación gastronómica que toma ingredientes nativos como tubérculos amazónicos, pescados de río, frutas exóticas y hierbas andinas, y los transforma en creaciones que sorprenden tanto por su sabor como por su presentación.</p>
+
+<p><strong>Menú que evoluciona</strong></p>
+
+<p>El menú cambia regularmente según la <strong>disponibilidad de ingredientes de temporada</strong> y la inspiración del chef. Entre los platos más destacados se encuentran las creaciones con pescados de aguas colombianas, las carnes maduradas con técnicas locales, y los postres que incorporan frutas tropicales en preparaciones que van de lo clásico a lo inesperado. Cada plato viene acompañado de una explicación del concepto detrás.</p>
+
+<p><strong>Ambiente de autor</strong></p>
+
+<p>El restaurante, ubicado en <strong>El Poblado</strong>, ofrece un ambiente íntimo y sofisticado con un diseño contemporáneo que prioriza la experiencia del comensal. La iluminación cálida, el servicio atento y la música ambiente crean el escenario perfecto para una <strong>cena memorable</strong> en Medellín.</p>
+
+<p><strong>Cómo llegar</strong></p>
+
+<p>En El Poblado, la zona gastronómica premium de Medellín. Acceso en taxi desde cualquier punto de la ciudad. La zona cuenta con servicio de valet parking en muchos establecimientos. Metro más cercano: Estación Aguacatala o Poblado.</p>
+
+<p><em>Créditos de imágenes: visitarmedellin.com, drifttravel.com, flavorsofbogota.com - Imágenes referenciales de cocina de autor en Medellín.</em></p>",
+    "keywords": "Salvaje Medellín, restaurante cocina autor Colombia, alta cocina colombiana Medellín, restaurante gourmet El Poblado, chef colombiano contemporáneo, dining fino Medellín, gastronomía vanguardista Antioquia",
+    "address": "El Poblado, Medellín, Antioquia, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://visitarmedellin.com/wp-content/uploads/2024/01/Portada-Mar-y-Fuego-2048x2048.jpg",
+      "https://drifttravel.com/wp-content/uploads/2024/08/Best-Restaurants-in-Medellin.webp",
+      "https://i0.wp.com/flavorsofbogota.com/wp-content/uploads/2016/01/Cazuela-de-frijoles-with-additions-on-the-side-Atipico-Restaurant-Bogota.jpg?fit=1200%2C750&ssl=1"
+    ]
+  }
+}

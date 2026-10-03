@@ -1,0 +1,40 @@
+🔍 Searching: "Casa del Florero Bogota exterior fachada"
+📊 Results: 2
+
+✅ Got VQD token: 4-297771922904201747450644874631709218182 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://img.fotocommunity.com/casa-del-florero-a8dafc19-37b0-4c27-9bab-fae8ee01400f.jpg?height=1080
+   Source: https://www.fotocommunity.de/photo/casa-del-florero-hans-joachim-maquet/38576936
+   Title: Casa del Florero Foto & Bild | city, world, america Bilder auf ...
+   Width: 1661 | Height: 1080
+====================================================================================================
+
+📸 Image 2:
+   URL: https://bogota.gov.co/sites/default/files/styles/1050px/public/2025-01/turismo-en-bogota-visita-el-museo-de-la-independencia-casa-del-florero-4.png
+   Source: https://bogota.gov.co/en/node/240453
+   Title: Turismo en Bogotá: visita el Museo de la Independencia o Casa del ...
+   Width: 1050 | Height: 551
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://img.fotocommunity.com/casa-del-florero-a8dafc19-37b0-4c27-9bab-fae8ee01400f.jpg?height=1080",
+    "source_url": "https://www.fotocommunity.de/photo/casa-del-florero-hans-joachim-maquet/38576936",
+    "title": "Casa del Florero Foto & Bild | city, world, america Bilder auf ...",
+    "width": 1661,
+    "height": 1080
+  },
+  {
+    "image_url": "https://bogota.gov.co/sites/default/files/styles/1050px/public/2025-01/turismo-en-bogota-visita-el-museo-de-la-independencia-casa-del-florero-4.png",
+    "source_url": "https://bogota.gov.co/en/node/240453",
+    "title": "Turismo en Bogotá: visita el Museo de la Independencia o Casa del ...",
+    "width": 1050,
+    "height": 551
+  }
+]

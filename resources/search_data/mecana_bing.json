@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Playa Mecana Nuqui Choco"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.zicasso.com/a/colombia/best-beaches&quot;,&quot;murl&quot;:&quot;https://res.cloudinary.com/zicasso/image/fetch/c_fill,f_auto,g_auto,h_576,q_auto,w_865/https://images.zicasso.com/0bae5dc84740c74f43ba5e5b1c57341d.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://portafoliocolombiasena.blogspot.com/2018/03/nuqui-choco.html&quot;,&quot;murl&quot;:&quot;https://2.bp.blogspot.com/-b13Z3pSniwM/Wp9TCl36iHI/AAAAAAAAAIg/rr_dLN6Zb_QPDckrkkWbHew292qfiBNzwCLcBGAs/s1600/014685.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://www.zicasso.com/a/colombia/best-beaches&quot;,&quot;murl&quot;:&quot;https://res.cloudinary.com/zicasso/image/fetch/c_fill,f_auto,g_auto,h_576,q_auto,w_865/https://images.zicasso.com/0bae5dc84740c74f43ba5e5b1c57341d.jpg"
+  },
+  {
+    "image_url": "https://portafoliocolombiasena.blogspot.com/2018/03/nuqui-choco.html&quot;,&quot;murl&quot;:&quot;https://2.bp.blogspot.com/-b13Z3pSniwM/Wp9TCl36iHI/AAAAAAAAAIg/rr_dLN6Zb_QPDckrkkWbHew292qfiBNzwCLcBGAs/s1600/014685.jpg"
+  }
+]

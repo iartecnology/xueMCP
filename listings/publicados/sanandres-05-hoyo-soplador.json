@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "💨 Hoyo Soplador — El Géiser Natural de San Andrés",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Hoyo Soplador?</strong></p><p>El <strong>Hoyo Soplador</strong> es uno de los fenómenos naturales más curiosos y divertidos de San Andrés 🏝️. Ubicado en la punta sur de la isla, es un túnel natural tallado por el mar en la roca coralina que expulsa chorros de agua y aire a gran presión cuando las olas chocan contra la costa.</p><p>🌊 <strong>El Fenómeno Natural</strong></p><p>Cuando el mar está agitado y las olas golpean con fuerza los arrecifes subterráneos, el aire y el agua son empujados a través de una chimenea natural, creando un efecto de géiser que puede alcanzar varios metros de altura. ¡Es el lugar perfecto para sentir la fuerza del Caribe!</p><p>📸 <strong>Experiencias</strong></p><ul><li>💨 <strong>Recibir el soplido</strong>: Párate cerca (con precaución) para sentir la ráfaga de aire y espuma marina.</li><li>🥥 <strong>Gastronomía local</strong>: Alrededor encontrarás puestos de comida típica y el famoso 'Coco Loco'.</li><li>🌊 <strong>Vistas al mar</strong>: Disfruta de la panorámica del mar de los siete colores chocando contra los arrecifes de coral.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Días de viento</strong>: El fenómeno es mucho más impresionante cuando el mar está fuerte.<br>📅 <strong>Horario recomendado</strong>: Entre 10 AM y 4 PM para disfrutar del sol y los colores del agua.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso es gratuito, aunque se acostumbra consumir algo en los locales cercanos.</li><li>🧥 <strong>Ropa</strong>: Prepárate para mojarte un poco con la brisa marina.</li><li>🚗 <strong>Cómo llegar</strong>: Está incluido en la mayoría de los tours de la vuelta a la isla en carrito de golf o taxi.</li></ul><p>🚶 <strong>Ubicación</strong></p><p>Se encuentra en la <strong>Punta Sur</strong> de la Isla de San Andrés, al final de la carretera circunvalar. Es una parada obligatoria en cualquier recorrido por la isla.</p><p><em>📸 Créditos: visitsanandres.co, sanandres.travel</em></p>",
+    "keywords": "Hoyo Soplador, San Andres, geyser natural, punta sur, turismo san andres, arrecife coral, colombia, experiencias",
+    "address": "Punta Sur, San Andrés Isla, Archipiélago de San Andrés, Providencia y Santa Catalina, Colombia",
+    "lat": 12.4764,
+    "lng": -81.7247,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://visitsanandres.co/uploads/0000/18/2024/03/28/foto-2384-ano-2022-colombia-san-andres-y-providencia-san-andres-el-hoyo-soplador-100fotosdelviajecom-ar-1.jpg",
+      "https://blog.theifriend.com/wp-content/uploads/2021/04/hoyo-soplador-colombia-san-andres-ifriend-2-1024x768.jpg",
+      "https://sanandres.travel/uploads/0000/1/2021/06/12/img-2047.jpg",
+      "https://i.pinimg.com/originals/c2/3e/55/c23e5557dcfc8ee42f5d46e5f55740de.jpg"
+    ]
+  }
+}

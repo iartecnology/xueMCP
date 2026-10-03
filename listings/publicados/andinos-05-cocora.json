@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🌴 Valle de Cocora — El Santuario de las Palmas de Cera",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Valle de Cocora?</strong></p><p>El <strong>Valle de Cocora</strong> es uno de los paisajes más emblemáticos y fotografiados de Colombia 🌴. Ubicado en el corazón del Eje Cafetero, este valle es el hogar de la majestuosa Palma de Cera del Quindío, el árbol nacional del país, que se eleva hasta los 60 metros de altura en un entorno de nubes y montañas verdes.</p><p>🌿 <strong>Un Paisaje de Cuento de Hadas</strong></p><p>Caminar por el valle es entrar en un mundo donde el verde es el protagonista. Sus palmas gigantescas emergen entre la neblina, creando una atmósfera surrealista que parece sacada de un libro. El área forma parte de la zona de amortiguación del Parque Nacional Natural Los Nevados y es un paraíso para el senderismo, el avistamiento de aves (como el loro orejiamarillo) y la fotografía de naturaleza.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🚶 <strong>Caminata por el Bosque de Palmas</strong>: Recorre los senderos que te llevan al punto más alto para una vista panorámica espectacular.</li><li>🦅 <strong>Avistamiento de Colibríes</strong>: Visita la reserva Acaime para ver decenas de especies de colibríes en su hábitat.</li><li>🐎 <strong>Cabalgatas</strong>: Disfruta de un recorrido a caballo por las zonas bajas del valle y bordea el río Quindío.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Todos los días</strong>: 8 AM - 6 PM</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se debe pagar un valor de ingreso a los predios privados donde se encuentran las palmas (aprox. 10.000 COP).</li><li>🧣 <strong>Ropa</strong>: Lleva chaqueta impermeable y calzado cómodo; el clima cambia rápidamente y el terreno puede estar lodoso.</li><li>📸 <strong>Fotografía</strong>: La mejor luz y menos gente se encuentra temprano en la mañana (antes de las 9 AM).</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se llega en los tradicionales 'Willys' (Jeeps públicos) desde la plaza principal de <strong>Salento, Quindío</strong>. El trayecto dura unos 25 minutos.</p><p><em>📸 Créditos: elturismoencolombia.com, alamy.com</em></p>",
+    "keywords": "Valle de Cocora, Salento, Quindio, Palma de Cera, Eje Cafetero, turismo Colombia, senderismo Cocora, arbol nacional, paisajes Colombia",
+    "address": "Valle de Cocora, Salento, Quindío, Colombia",
+    "lat": 4.6380,
+    "lng": -75.4850,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://c8.alamy.com/comp/2XPRKNM/palma-de-cera-del-quindo-ceroxylon-quindiuense-valle-del-cocora-salento-quindio-colombia-south-america-2XPRKNM.jpg",
+      "https://elturismoencolombia.com/wp-content/uploads/2018/11/landscape-with-tropical-nature-salento-quindio-cocora-colombia-with-wax-palms.jpg",
+      "https://media02.stockfood.com/largepreviews/MjIwNDUwMzk2MQ==/71113031-Palma-de-Cera-del-Quindío-Ceroxylon-quindiuense-Valle-del-Cocora-Salento-Quindio-Colombia-South-America.jpg"
+    ]
+  }
+}

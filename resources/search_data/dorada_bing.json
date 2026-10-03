@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Playa Dorada Cabo de la Vela"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.flickr.com/photos/sabazoo82/7259390902/&quot;,&quot;murl&quot;:&quot;https://live.staticflickr.com/7082/7259390902_0567dc989e_b.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://fr.pinterest.com/pin/playa-dorada--406449935119667799/&quot;,&quot;murl&quot;:&quot;https://i.pinimg.com/736x/bb/c7/54/bbc754ca1800a9c69976d568824ee906.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://www.flickr.com/photos/sabazoo82/7259390902/&quot;,&quot;murl&quot;:&quot;https://live.staticflickr.com/7082/7259390902_0567dc989e_b.jpg"
+  },
+  {
+    "image_url": "https://fr.pinterest.com/pin/playa-dorada--406449935119667799/&quot;,&quot;murl&quot;:&quot;https://i.pinimg.com/736x/bb/c7/54/bbc754ca1800a9c69976d568824ee906.jpg"
+  }
+]

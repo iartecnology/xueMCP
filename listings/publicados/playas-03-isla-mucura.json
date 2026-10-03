@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏝️ Isla Múcura — Un Edén de Aguas Cristalinas en San Bernardo",
+    "content": "<p>🎯 <strong>¿Por qué visitar Isla Múcura?</strong></p><p><strong>Isla Múcura</strong> es uno de los destinos más idílicos y exclusivos del Caribe colombiano 🏝️. Ubicada en el Archipiélago de San Bernardo, esta pequeña isla es la definición perfecta de paraíso: arena blanca coralina, aguas de un turquesa irreal y una calma que solo se encuentra en las zonas más remotas del mar.</p><p>🌊 <strong>Exclusividad y Relax</strong></p><p>Múcura es conocida por sus hoteles de lujo y sus posadas rústicas que ofrecen una experiencia de desconexión total. Sus aguas son tan tranquilas y transparentes que parecen una piscina natural gigante. Es el lugar perfecto para el buceo, el snorkel o simplemente para dejarse llevar por el ritmo de las olas y la brisa marina bajo la sombra de una palma de coco.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🏊 <strong>Piscinas Naturales</strong>: Nada en aguas poco profundas y cristalinas que rodean toda la isla.</li><li>🤿 <strong>Buceo y Snorkel</strong>: Explora los arrecifes de coral mejor conservados del Caribe colombiano.</li><li>🌙 <strong>Tour del Plancton</strong>: Al igual que en las Islas del Rosario, vive la experiencia mágica del plancton luminoso en las noches sin luna.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Todo el año</strong>: Al estar más al sur, suele tener un clima muy estable, aunque la temporada seca (diciembre-abril) es la más popular.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El ingreso a la isla es libre, pero el transporte desde Cartagena o Tolú es el principal costo.</li><li>🦟 <strong>Protección</strong>: El sol es fuerte y, al ser una zona selvática, el repelente es indispensable al atardecer.</li><li>🧴 <strong>Ecología</strong>: Recuerda que estás en un ecosistema protegido; no extraigas conchas ni caracoles.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Puedes llegar en lancha rápida desde <strong>Cartagena</strong> (2 horas de trayecto) o desde <strong>Tolú</strong> (aprox. 50 minutos), siendo esta última la opción más económica.</p><p><em>📸 Créditos: 7travel.co, tripadvisor.co</em></p>",
+    "keywords": "Isla Mucura, San Bernardo, Caribe colombiano, playa paraiso, turismo exclusivo, snorkel San Bernardo, Tolú, vacaciones tranquilidad",
+    "address": "Isla Múcura, Archipiélago de San Bernardo, Bolívar, Colombia",
+    "lat": 9.7828,
+    "lng": -75.8653,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://7travel.co/assets/img/packages/isla-mucura-san-bernardo2.png",
+      "https://7travel.co/assets/img/packages/isla-mucura-san-bernardo-en-lancha2.png",
+      "https://7travel.co/assets/img/packages/isla-mucura-san-bernardo-en-lancha3.png"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🛶 Laguna de la Cocha — El Pequeño Suiza de los Andes",
+    "content": "<p>🎯 <strong>¿Por qué visitar la Laguna de la Cocha?</strong></p><p>La <strong>Laguna de la Cocha</strong>, también conocida como Lago Guamuez, es un humedal de importancia internacional (Ramsar) y uno de los paisajes más hermosos del sur de Colombia 🛶. Rodeada de montañas y neblina, sus aguas tranquilas y sus casas de madera con flores en los balcones te harán sentir en una pequeña aldea de los Alpes.</p><p>🏠 <strong>El Encano y la Isla Corota</strong></p><p>El recorrido comienza en el pintoresco puerto de El Encano, donde las lanchas decoradas con colores vivos te esperan. En medio de la laguna se encuentra la Isla de La Corota, el santuario de flora y fauna más pequeño del país, hogar de un bosque de niebla único y de leyendas ancestrales de los pueblos indígenas Quillasinga.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🚤 <strong>Paseo en Lancha</strong>: Navega por la laguna hasta la Isla Corota y recorre su sendero ecológico.</li><li>🐟 <strong>Gastronomía</strong>: Prueba la famosa trucha arcoíris en todas sus presentaciones en los restaurantes del puerto.</li><li>🏡 <strong>Arquitectura en Madera</strong>: Camina por 'El Puerto', un sector con arquitectura de estilo suizo llena de color.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Cualquier día</strong>: El clima frío y la neblina son parte de su encanto permanente.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso a la laguna es libre. El transporte en lancha a la isla cuesta unos 40.000 COP - 60.000 COP por bote.</li><li>🧣 <strong>Ropa</strong>: Lleva ropa muy abrigada e impermeable. La temperatura puede bajar rápidamente.</li><li>🛶 <strong>Sostenibilidad</strong>: Respeta el entorno natural; este es un ecosistema de páramo muy frágil.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a 22 kilómetros de la ciudad de <strong>Pasto</strong> (unos 45 minutos por carretera pavimentada). Puedes llegar en bus intermunicipal o transporte privado.</p><p><em>📸 Créditos: colombiaturismo.com.co, alamy.com</em></p>",
+    "keywords": "Laguna de la Cocha, El Encano, Pasto, Nariño, Isla Corota, trucha arcoiris, humedal Ramsar, turismo naturaleza Colombia, lago Guamuez",
+    "address": "El Encano, Pasto, Nariño, Colombia",
+    "lat": 1.1022,
+    "lng": -77.1472,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.colombiaturismo.com.co/img/900/laguna-de-la-cocha.jpg",
+      "https://c8.alamy.com/comp/2C9RF5Y/laguna-de-la-cocha-at-el-encano-with-wooden-briges-and-stilt-houses-near-pasto-colombia-2C9RF5Y.jpg",
+      "https://i.pinimg.com/originals/57/70/c5/5770c5f692e00c80266ceb1c84e4b09c.jpg",
+      "https://i.pinimg.com/originals/ce/e0/dc/cee0dc5fb3d8a8ed9739ba4b72531cf2.jpg"
+    ]
+  }
+}

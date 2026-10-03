@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐳 Bahía Solano — Inmensidad y Biodiversidad en el Chocó",
+    "content": "<p>🎯 <strong>¿Por qué descubrir Bahía Solano?</strong></p><p><strong>Bahía Solano</strong> es uno de los destinos de naturaleza más potentes de Colombia 🐳. Ubicada en el extremo norte del Pacífico chocoano, esta bahía protegida por acantilados y selva es el punto de encuentro de investigadores, fotógrafos de naturaleza y viajeros que buscan una experiencia cruda y auténtica en el trópico.</p><p>🌊 <strong>Un Escenario de Contraste</strong></p><p>Desde la imponente Playa Huina hasta el tranquilo puerto de Ciudad Mutis, Bahía Solano ofrece una variedad de paisajes impresionante. Sus aguas son ricas en vida marina, siendo uno de los mejores lugares para la pesca deportiva responsable y el avistamiento de delfines y ballenas. La combinación de montañas que mueren en el mar y ríos que desembocan en playas vírgenes crea una atmósfera de aventura permanente.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🛥️ <strong>Avistamiento de Ballenas</strong>: Siente la emoción de ver a las ballenas jorobadas en las tranquilas aguas de la bahía.</li><li>🎣 <strong>Pesca Deportiva</strong>: Disfruta de una de las zonas más ricas del mundo para la pesca responsable de especies como el pez vela y marlín.</li><li>🌴 <strong>Playa Huina</strong>: Relájate en una de las pocas playas de arena dorada de la región, protegida del oleaje fuerte.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>De julio a octubre</strong>: Temporada reina por las ballenas.<br>📅 <strong>Marzo a Mayo</strong>: Ideal para la pesca y para disfrutar de un clima un poco menos lluvioso.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El ingreso al municipio es libre, pero se debe pagar una tasa turística al aterrizar en el aeropuerto.</li><li>🦟 <strong>Protección</strong>: El clima es muy húmedo; lleva ropa adecuada y protección contra insectos.</li><li>💵 <strong>Efectivo</strong>: Lleva suficiente dinero en efectivo, ya que los cajeros automáticos pueden ser limitados.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se llega volando al Aeropuerto José Celestino Mutis de <strong>Bahía Solano</strong> desde Medellín, Quibdó o Bogotá. No hay acceso por carretera.</p><p><em>📸 Créditos: bahiasolano.com.co, expedia.mx</em></p>",
+    "keywords": "Bahia Solano, Choco, Pacifico colombiano, ballenas jorobadas, pesca deportiva, Playa Huina, turismo aventura, biodiversidad Choco",
+    "address": "Bahía Solano, Chocó, Colombia",
+    "lat": 6.2167,
+    "lng": -77.4000,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://bahiasolano.com.co/wp-content/uploads/2019/06/Playa_Huina_Bahía_Solano_04-e1573422244330.jpg",
+      "https://mediaim.expedia.com/destination/1/98781dcc26b2cfcf5c2d8632ef76d25f.jpg",
+      "https://i.pinimg.com/originals/6b/03/4e/6b034e651ee7ffe14e2e2ab18fd97836.jpg"
+    ]
+  }
+}

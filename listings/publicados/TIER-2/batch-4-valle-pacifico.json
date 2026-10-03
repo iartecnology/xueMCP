@@ -1,0 +1,87 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Cali — Capital Mundial de la Salsa 💃",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Santiago de Cali es una de las ciudades más vibrantes y alegres de Colombia 🇨🇴. Conocida mundialmente como la <strong>Capital de la Salsa</strong>, Cali ofrece una mezcla única de ritmo, sabor y calidez humana. Su clima tropical, su deliciosa gastronomía vallecaucana y su vida nocturna inigualable la convierten en un destino obligatorio para quienes buscan cultura y diversión.</p><p>📜 <strong>Historia</strong></p><p>Fundada en 1536 por el conquistador Sebastián de Belalcázar, Cali es una de las ciudades más antiguas de América. A lo largo de los siglos, se transformó de un pequeño asentamiento agrícola en el epicentro económico y cultural del suroccidente colombiano, fusionando influencias indígenas, españolas y africanas.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>✝️ <strong>Cristo Rey:</strong> Un imponente monumento de 26 metros de altura con las mejores vistas panorámicas de la ciudad.</li><li>🎨 <strong>Barrio San Antonio:</strong> El sector histórico y bohemio, lleno de casas coloniales, talleres de artistas y cafés encantadores.</li><li>🐈 <strong>El Gato del Río:</strong> Una escultura icónica de Hernando Tejada rodeada por 'las novias del gato' en un hermoso paseo junto al río.</li><li>💃 <strong>Delirio:</strong> Un espectáculo de salsa y circo de clase mundial que captura la esencia caleña.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>👟 Usa ropa ligera y calzado cómodo, el clima suele ser caluroso (25-30°C).</li><li>🍹 No te vayas sin probar un <strong>Lulada</strong> o un <strong>Champús</strong>, bebidas típicas refrescantes.</li><li>🕺 Atrévete a tomar una clase de salsa; hay escuelas para todos los niveles en cada esquina.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Cali cuenta con el Aeropuerto Internacional Alfonso Bonilla Aragón, que recibe vuelos nacionales e internacionales. Por tierra, está conectada por excelentes carreteras con Bogotá (10h), Medellín (8h) y el puerto de Buenaventura.</p><p><em>📸 Créditos: Dance Papi, Wandering Trader, El Turismo en Colombia</em></p>",
+      "keywords": "Cali, salsa, Valle del Cauca, Cristo Rey, San Antonio, gastronomía colombiana, turismo Cali",
+      "address": "Cali, Valle del Cauca, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "http://dancepapi.com/wp-content/uploads/2016/08/Cristo-Rey-Columbia-Salsa.jpg",
+        "http://wanderingtrader.com/wp-content/uploads/2011/08/Jesus-Statue-in-Cali-Colombia.jpg",
+        "https://elturismoencolombia.com/storage/2016/04/monumento_cristo_rey_cali_colombia.jpg",
+        "https://brokenbootstravel.com/wp-content/uploads/2024/02/Cali-21.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Popayán — Ciudad Blanca de Colombia ⛪",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Popayán es una joya colonial detenida en el tiempo. Conocida como la <strong>Ciudad Blanca</strong> debido al color de sus fachadas en el centro histórico, es famosa por su arquitectura religiosa, su prestigiosa Universidad del Cauca y su gastronomía, declarada Patrimonio Cultural e Inmaterial de la Humanidad por la UNESCO 🍲. Es un destino de paz, historia y cultura profunda.</p><p>📜 <strong>Historia</strong></p><p>Fundada en 1537, Popayán fue durante la época colonial uno de los centros administrativos, religiosos y educativos más importantes del Virreinato de la Nueva Granada. Ha sido cuna de numerosos presidentes, poetas y próceres de la independencia de Colombia.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🌉 <strong>Puente del Humilladero:</strong> Una majestuosa estructura de arcos de ladrillo que solía ser la entrada principal a la ciudad.</li><li>⛰️ <strong>El Morro de Tulcán:</strong> Una pirámide indígena truncada que ofrece una vista espectacular del centro histórico.</li><li>⛪ <strong>Iglesia de San Francisco:</strong> Una de las iglesias más bellas del país, con una torre que alberga una de las campanas más grandes de América.</li><li>🖼️ <strong>Museo Arquidiocesano de Arte Religioso:</strong> Posee una de las colecciones de arte sacro más importantes del continente.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>🥘 Prueba las <strong>Empanadas de Pipián</strong> y el <strong>Salpicón de Payanés</strong>.</li><li>🚶 Recorre el centro histórico a pie para apreciar los detalles de sus balcones y puertas coloniales.</li><li>🎭 Si puedes, visítala durante la Semana Santa, cuyas procesiones son famosas mundialmente.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se llega fácilmente por tierra desde Cali (aprox. 3 horas en bus). El Aeropuerto Guillermo León Valencia conecta a la ciudad con Bogotá y otras regiones.</p><p><em>📸 Créditos: Traveler.es, Absolut Viajes, El Periódico Viajar</em></p>",
+      "keywords": "Popayán, Ciudad Blanca, Cauca, turismo religioso, gastronomía UNESCO, centro histórico, Colombia",
+      "address": "Popayán, Cauca, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://media.traveler.es/photos/61376f8bd4923f67e298ef5b/master/w_1600%2Cc_limit/130738.jpg",
+        "https://www.absolutviajes.com/wp-content/uploads/2020/11/colombia-3621359_1920.jpg",
+        "https://estaticos-cdn.prensaiberica.es/clip/c94ee057-0a18-4103-8cc4-08143cb8c3ef_woman-libre-1200_default_0.jpg",
+        "https://viajerosocultos.com/wp-content/uploads/2023/12/Calle_5_Popayan_02-scaled.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Ipiales — Santuario de Las Lajas ⛪✨",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Ipiales es el hogar del <strong>Santuario de Nuestra Señora de las Lajas</strong>, considerado por muchos como 'el milagro de Dios sobre el abismo'. Esta basílica neogótica, construida sobre el cañón del río Guáitara, ha sido catalogada por diarios internacionales como la iglesia más hermosa del mundo 🌍. Es un lugar de peregrinación y asombro arquitectónico absoluto.</p><p>📜 <strong>Historia</strong></p><p>El santuario celebra la aparición de la Virgen María a una mujer indígena y su hija en 1754. El templo actual fue construido entre 1916 y 1949, reemplazando capillas anteriores, y está integrado literalmente al paisaje rocoso del cañón.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🏰 <strong>El Santuario:</strong> Admira su arquitectura neogótica y la imagen de la Virgen pintada directamente en la piedra (laja).</li><li>🚠 <strong>Teleférico de Las Lajas:</strong> Disfruta de una vista aérea impresionante del santuario y el río mientras desciendes al fondo del cañón.</li><li>🖼️ <strong>Museo del Santuario:</strong> Conoce la historia de la construcción y los milagros atribuidos a la Virgen.</li><li>🚶 <strong>Caminata por el sendero:</strong> Baja hasta el río Guáitara para ver el templo desde su base.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>🧥 Lleva abrigo pesado, ya que Ipiales es una ciudad fría y el viento en el cañón puede ser fuerte.</li><li>🌙 Quédate hasta el anochecer para ver la iluminación del templo, que cambia de colores.</li><li>🛂 Si vas a cruzar a Ecuador, el Puente Internacional de Rumichaca está a solo 10 minutos.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Desde Pasto, son aproximadamente 2 horas en bus por una carretera con paisajes andinos espectaculares. Ipiales también cuenta con el Aeropuerto San Luis.</p><p><em>📸 Créditos: Travel to Blank, Wikipedia, Turismo Pasto, Chip Viajero</em></p>",
+      "keywords": "Ipiales, Las Lajas, Nariño, Santuario, turismo religioso, arquitectura neogótica, frontera Ecuador",
+      "address": "Ipiales, Nariño, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://i1.wp.com/traveltoblank.com/wp-content/uploads/2017/08/DSC_0613.jpg?resize=1200%2C800",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Santuario_de_Las_Lajas%2C_Ipiales%2C_Colombia%2C_2015-07-21%2C_DD_19.JPG/1200px-Santuario_de_Las_Lajas%2C_Ipiales%2C_Colombia%2C_2015-07-21%2C_DD_19.JPG",
+        "https://www.turismopasto.com/wp-content/uploads/2018/03/santuario-hermoso-del-mundo-las-lajas-turismo-ipiales-colombia.jpg",
+        "http://chipviajero.com/wp-content/uploads/2018/10/Como-Llegar-Al-Santuario-De-Las-Lajas-En-Ipiales-Colombia-Chip-Viajero-2.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Mompox — Pueblo Mágico del Magdalena 🕰️",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Santa Cruz de Mompox parece detenida en el tiempo. Ubicada en una isla rodeada por el río Magdalena, esta joya colonial es famosa por su arquitectura romántica, sus talleres de filigrana en plata y su ambiente melancólico que inspiró a Gabriel García Márquez 📖. Es Patrimonio de la Humanidad por la UNESCO y un refugio de paz absoluta.</p><p>📜 <strong>Historia</strong></p><p>Fundada en 1537, Mompox fue un puerto vital durante la Colonia, sirviendo de refugio para los tesoros de la corona y centro de comercio. Fue la primera ciudad del Reino de la Nueva Granada en declarar su independencia absoluta de España en 1810.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>⛪ <strong>Iglesia de Santa Bárbara:</strong> Famosa por su torre de estilo barroco andaluz, única en su tipo.</li><li>💍 <strong>Talleres de Filigrana:</strong> Observa a los maestros artesanos tejer finos hilos de plata para crear joyas exquisitas.</li><li>🌅 <strong>La Albarrada:</strong> Un paseo junto al río Magdalena, perfecto para ver el atardecer y sentir la brisa fluvial.</li><li>🪦 <strong>Cementerio Municipal:</strong> Un lugar lleno de gatos y mausoleos hermosos, reflejo de la historia momposina.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>🦟 Lleva repelente de mosquitos y ropa fresca de lino o algodón.</li><li>🛥️ Toma un tour en lancha por la Ciénaga de Pijiño para ver aves y naturaleza.</li><li>🧀 No dejes de probar el <strong>Queso de Capa</strong>, una delicia local.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Mompox es ahora más accesible por tierra gracias a los puentes sobre el río. Se puede llegar desde Cartagena (5-6 horas) o Magangué. También hay vuelos pequeños desde Cartagena o Medellín.</p><p><em>📸 Créditos: Colombia Travel, Mompox Colombia Blog, Alamy, El Colombiano</em></p>",
+      "keywords": "Mompox, Bolívar, río Magdalena, filigrana, pueblo patrimonio, UNESCO, turismo colonial",
+      "address": "Mompox, Bolívar, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://colombia.travel/sites/default/files/181_Bolivar_Mompox_paisaje_(4)_Retocada.jpg",
+        "https://1.bp.blogspot.com/-J-1Bfz1NQrQ/X6XciUs0RWI/AAAAAAAAqvM/Ams4aCgW6pIjGdhicPWcUXNpalk_GM5GQCLcBGAsYHQ/s2048/IMG_6288.jpg",
+        "https://c8.alamy.com/comp/2B003KH/iglesia-de-santa-brbara-church-in-colonial-santa-cruz-de-mompox-bolivar-colombia-2B003KH.jpg",
+        "https://estaticos.elcolombiano.com/binrepository/628x348/0c0/0d0/none/11101/BXEA/mompo_48860362_20250924221736.png"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Pasto — Carnaval de Negros y Blancos 🎭",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>San Juan de Pasto es la 'Ciudad Sorpresa de Colombia'. Es el epicentro de una de las festividades más grandes del país: el <strong>Carnaval de Negros y Blancos</strong>, declarado Patrimonio Inmaterial de la Humanidad por la UNESCO 🎭. Rodeada de volcanes y lagunas, Pasto ofrece una cultura andina auténtica, artesanías exquisitas y paisajes de montaña únicos.</p><p>📜 <strong>Historia</strong></p><p>Pasto fue un punto clave de resistencia durante la Independencia y ha mantenido una identidad cultural muy fuerte. Sus tradiciones se remontan a épocas prehispánicas y coloniales, fusionadas en sus celebraciones y artes manuales.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🛶 <strong>Laguna de la Cocha:</strong> Un espejo de agua cristalina donde puedes visitar la pequeña isla de La Corota, el parque nacional más pequeño de Colombia.</li><li>🌋 <strong>Volcán Galeras:</strong> El guardián de la ciudad, visible desde casi cualquier punto y destino para senderismo controlado.</li><li>🎨 <strong>Barniz de Pasto:</strong> Descubre la técnica de la resina de Mopa-Mopa, única en el mundo, usada para decorar objetos de madera.</li><li>🏰 <strong>Templo de San Juan Bautista:</strong> Una de las muchas iglesias hermosas del centro histórico con altares tallados.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>🐹 Atrévete a probar el <strong>Cuy</strong>, el plato más representativo de la región.</li><li>🧴 Si vas al Carnaval en enero, ¡prepárate para quedar cubierto de talco y cosmético!</li><li>🧣 Compra ruanas y textiles de lana de alta calidad producidos localmente.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El Aeropuerto Antonio Nariño en Chachagüí sirve a la ciudad. Por tierra, está conectada con Popayán e Ipiales por la vía Panamericana.</p><p><em>📸 Créditos: YouTube, Pinterest, RedBus, El Derecho</em></p>",
+      "keywords": "Pasto, Nariño, Carnaval de Negros y Blancos, Laguna de la Cocha, volcán Galeras, barniz de Pasto, turismo andino",
+      "address": "Pasto, Nariño, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://i.ytimg.com/vi/7YZviEi0sOc/maxresdefault.jpg",
+        "https://i.pinimg.com/736x/7a/0b/06/7a0b063347c8c9567efd918fc3769b96--san-juan-folklore.jpg",
+        "https://blog.redbus.co/wp-content/uploads/2018/12/negros-blancos-5.jpg",
+        "https://elderecho.com.co/wp-content/uploads/2024/01/desfile-2024-pasto3-1024x683.jpeg"
+      ]
+    }
+  }
+]

@@ -1,0 +1,40 @@
+🔍 Searching: "Museo de Historia Natural Popayan"
+📊 Results: 2
+
+✅ Got VQD token: 4-27757847995909526288938786736474631405 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/pp.jpg
+   Source: https://www.radionacional.co/cultura/museo-historia-natural-universidad-del-cauca-ubicacion-e-historia
+   Title: Museo Historia Natural Universidad del Cauca: ubicación e historia
+   Width: 1800 | Height: 1000
+====================================================================================================
+
+📸 Image 2:
+   URL: https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1014841090768245
+   Source: https://www.facebook.com/photo/?fbid=1014841090768245
+   Title: Popayán - Maravillosa 😍 la nueva fachada del Museo de Historia Natural ...
+   Width: 1024 | Height: 683
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/pp.jpg",
+    "source_url": "https://www.radionacional.co/cultura/museo-historia-natural-universidad-del-cauca-ubicacion-e-historia",
+    "title": "Museo Historia Natural Universidad del Cauca: ubicación e historia",
+    "width": 1800,
+    "height": 1000
+  },
+  {
+    "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1014841090768245",
+    "source_url": "https://www.facebook.com/photo/?fbid=1014841090768245",
+    "title": "Popayán - Maravillosa 😍 la nueva fachada del Museo de Historia Natural ...",
+    "width": 1024,
+    "height": 683
+  }
+]

@@ -1,0 +1,40 @@
+🔍 Searching: "Museo del Oro Guatavita El Dorado"
+📊 Results: 2
+
+✅ Got VQD token: 4-170058594650941997742102091040397007603 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.triviantes.com/wp-content/uploads/2022/11/laguna-de-guatavita-21.jpg
+   Source: https://www.triviantes.com/turismo-en-la-laguna-de-guatavita/
+   Title: Turismo en la Laguna de Guatavita ¿Qué hacer y cómo llegar?
+   Width: 1900 | Height: 1300
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.aguafrescaglamping.com/wp-content/uploads/2024/05/la-leyenda-del-dorado-el-cacique-de-la-laguna-de-guatavita.webp
+   Source: https://www.aguafrescaglamping.com/el-mito-de-el-dorado-el-cacique-de-la-laguna-de-guatavita/
+   Title: El mito de El Dorado, El Cacique de la laguna de Guatavita - Agua Fresca
+   Width: 1500 | Height: 1125
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://www.triviantes.com/wp-content/uploads/2022/11/laguna-de-guatavita-21.jpg",
+    "source_url": "https://www.triviantes.com/turismo-en-la-laguna-de-guatavita/",
+    "title": "Turismo en la Laguna de Guatavita ¿Qué hacer y cómo llegar?",
+    "width": 1900,
+    "height": 1300
+  },
+  {
+    "image_url": "https://www.aguafrescaglamping.com/wp-content/uploads/2024/05/la-leyenda-del-dorado-el-cacique-de-la-laguna-de-guatavita.webp",
+    "source_url": "https://www.aguafrescaglamping.com/el-mito-de-el-dorado-el-cacique-de-la-laguna-de-guatavita/",
+    "title": "El mito de El Dorado, El Cacique de la laguna de Guatavita - Agua Fresca",
+    "width": 1500,
+    "height": 1125
+  }
+]

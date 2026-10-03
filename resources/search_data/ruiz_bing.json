@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Termales del Ruiz Manizales"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.youtube.com/watch?v=GL7e2ZBa2z4&quot;,&quot;murl&quot;:&quot;https://i.ytimg.com/vi/GL7e2ZBa2z4/maxresdefault.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.booking.com/hotel/co/termales-del-ruiz.html&quot;,&quot;murl&quot;:&quot;https://cf.bstatic.com/xdata/images/hotel/max1024x768/149065533.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://www.youtube.com/watch?v=GL7e2ZBa2z4&quot;,&quot;murl&quot;:&quot;https://i.ytimg.com/vi/GL7e2ZBa2z4/maxresdefault.jpg"
+  },
+  {
+    "image_url": "https://www.booking.com/hotel/co/termales-del-ruiz.html&quot;,&quot;murl&quot;:&quot;https://cf.bstatic.com/xdata/images/hotel/max1024x768/149065533.jpg"
+  }
+]

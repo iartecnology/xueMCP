@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "❄️ PNN Sumapaz — El Páramo más Grande del Mundo",
+    "content": "<p>🎯 <strong>¿Por qué descubrir el PNN Sumapaz?</strong></p><p>El <strong>Parque Nacional Natural Sumapaz</strong> ostenta el título de ser el complejo de páramos más extenso del planeta ❄️. Situado en la cordillera oriental, este lugar es un mar de frailejones y lagunas de alta montaña que conforman uno de los reservorios de agua dulce más importantes de Colombia y del mundo.</p><p>🏔️ <strong>Un Paisaje de Resiliencia</strong></p><p>Caminar por Sumapaz es sentir la fuerza de la naturaleza en su estado más puro y frío. El parque es el hogar de especies emblemáticas como el cóndor de los Andes, el oso de anteojos y la danta de montaña. Sus paisajes, a menudo envueltos en neblina, ofrecen una sensación de inmensidad y paz absoluta. Es un lugar de gran importancia histórica, habiendo sido territorio de tránsito y refugio desde épocas prehispánicas.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🌿 <strong>Bosque de Frailejones</strong>: Camina entre miles de estas plantas milenarias que crecen solo un centímetro al año.</li><li>💧 <strong>Lagunas de Páramo</strong>: Descubre espejos de agua cristalina como la Laguna de Chisacá en un entorno silencioso.</li><li>🦅 <strong>Avistamiento de Cóndores</strong>: Con suerte, observa el vuelo del ave nacional sobre las crestas de las montañas.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>De diciembre a marzo</strong>: Los días suelen ser más soleados, permitiendo mejores vistas de las cumbres y lagunas.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso es controlado por Parques Nacionales; infórmate sobre los sectores abiertos al público.</li><li>🧥 <strong>Ropa</strong>: Indispensable llevar varias capas de ropa para frío extremo e impermeable de alta calidad.</li><li>🚶 <strong>Caminata</strong>: Debido a la altura (más de 3.500 msnm), el esfuerzo físico es mayor; camina con precaución.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El acceso principal desde <strong>Bogotá</strong> se hace por la localidad de Usme, siguiendo la vía hacia el sector de Chisacá. Es un trayecto de aproximadamente 2 a 3 horas desde el centro de la ciudad.</p><p><em>📸 Créditos: bogota.gov.co, parquesnacionales.gov.co</em></p>",
+    "keywords": "PNN Sumapaz, Bogota, paramo mas grande del mundo, frailejones, ecoturismo Colombia, agua dulce, alta montaña, senderismo paramo",
+    "address": "Parque Nacional Natural Sumapaz, Bogotá / Meta / Huila, Colombia",
+    "lat": 4.2500,
+    "lng": -74.1500,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://bogota.gov.co/sites/default/files/inline-images/frailejones-sumapaz.jpg",
+      "https://old.parquesnacionales.gov.co/portal/wp-content/uploads/2013/07/PNN_SUMAPAZ_14-SANDRA_PATRICIA_URREA_CAMARGO-781x435.jpg",
+      "https://old.parquesnacionales.gov.co/portal/wp-content/uploads/2018/07/frailejon.jpg"
+    ]
+  }
+}

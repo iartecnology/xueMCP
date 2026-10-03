@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Anticucheria | Anticuchos y Parrilla, Cali",
+    "content": "<p><strong>Anticucheria</strong> trae a Cali la tradicion del anticucho —ese espeto de carne marinada que es puro sabor— fusionandolo con la parrilla colombiana para crear una experiencia de comida callejera elevada a categoria gourmet.</p>\n\n<p><strong>El concepto:</strong> Los anticuchos son una tradicion culinaria de origen andino que ha conquistado toda Latinoamerica. En esta anticuchería caleña, se reinventan con marinados que incorporan especias del Pacifico colombiano, salsas de frutas tropicales y cortes de carne seleccionados que rinden homenaje tanto a la tradicion peruana como a la parrilla valluna.</p>\n\n<p><strong>Platos estrella:</strong> Los <strong>anticuchos de corazon</strong> con salsa de mani y aji panca, los <strong>anticuchos de pollo con salsas tropicales</strong> de lulo y maracuya, las <strong>brochetas de res con chimichurri colombiano</strong>, el <strong>ceviche de la casa</strong> con toque picante y las <strong>papas criollas fritas</strong> como acompañamiento. Las <strong>chicharrones de cerdo crocantes</strong> y la <strong>morcilla asada</strong> complementan la oferta de parrilla.</p>\n\n<p><strong>Ambiente:</strong> Informal, vibrante y con ese toque de comida de calle que te hace sentir en un festival gastronomico. El humo de la parrilla, las salsas caseras en la mesa y la musica de fondo crean una experiencia autentica y sin pretensiones.</p>\n\n<p><strong>Como llegar:</strong> Ubicado en zona accesible de Cali con buena conectividad. Ideal para una cena informal entre amigos o una salida rapida donde lo importante es comer bien.</p>\n\n<p><em>Creditos de imagenes: Las2Orillas / El Comercio</em></p>",
+    "keywords": "Anticucheria Cali, anticuchos Cali, parrilla Cali, comida de calle Cali, brochetas Cali, ceviche Cali, restaurante informal Cali, gastronomia andina Cali",
+    "address": "Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.las2orillas.co/wp-content/uploads/2024/12/ceviche-la-anticucheria-scaled.jpg",
+      "https://elcomercio.pe/resizer/v2/R3XQOEUZ7BFFJNT5HBLMEGOYPA.jpg?auth=c272d89714bc04193de5d1b7daa186bfe4de2fd6f7249f365912309cba613a03&width=4407&height=4407&quality=75&smart=true",
+      "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=279776693801141"
+    ]
+  }
+}

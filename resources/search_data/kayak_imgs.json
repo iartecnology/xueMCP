@@ -1,0 +1,54 @@
+🔍 Searching: "Kayak Cañón del Chicamocha Santander"
+📊 Results: 3
+
+✅ Got VQD token: 4-73137453830151955201235897082572956442 
+
+✅ Found 3 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://posadasrurales.co/10158-large_default/rafting-en-el-canon-del-chicamocha-san-gil-santander.jpg
+   Source: https://posadasrurales.co/inicio/731-rafting-en-el-canon-del-chicamocha-san-gil-santander.html
+   Title: Rafting en el cañon del Chicamocha, San Gil Santander
+   Width: 800 | Height: 800
+====================================================================================================
+
+📸 Image 2:
+   URL: https://posadasrurales.co/10161-large_default/rafting-en-el-canon-del-chicamocha-san-gil-santander.jpg
+   Source: https://posadasrurales.co/inicio/731-rafting-en-el-canon-del-chicamocha-san-gil-santander.html
+   Title: Rafting en el cañon del Chicamocha, San Gil Santander
+   Width: 800 | Height: 800
+====================================================================================================
+
+📸 Image 3:
+   URL: https://expeditioncolombia.com/wp-content/uploads/2017/11/chicamocha.jpg
+   Source: https://expeditioncolombia.com/tours/rafting/
+   Title: Rafting | Best Whitewater Trip in Colombia | Expedition Colombia
+   Width: 1642 | Height: 1024
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://posadasrurales.co/10158-large_default/rafting-en-el-canon-del-chicamocha-san-gil-santander.jpg",
+    "source_url": "https://posadasrurales.co/inicio/731-rafting-en-el-canon-del-chicamocha-san-gil-santander.html",
+    "title": "Rafting en el cañon del Chicamocha, San Gil Santander",
+    "width": 800,
+    "height": 800
+  },
+  {
+    "image_url": "https://posadasrurales.co/10161-large_default/rafting-en-el-canon-del-chicamocha-san-gil-santander.jpg",
+    "source_url": "https://posadasrurales.co/inicio/731-rafting-en-el-canon-del-chicamocha-san-gil-santander.html",
+    "title": "Rafting en el cañon del Chicamocha, San Gil Santander",
+    "width": 800,
+    "height": 800
+  },
+  {
+    "image_url": "https://expeditioncolombia.com/wp-content/uploads/2017/11/chicamocha.jpg",
+    "source_url": "https://expeditioncolombia.com/tours/rafting/",
+    "title": "Rafting | Best Whitewater Trip in Colombia | Expedition Colombia",
+    "width": 1642,
+    "height": 1024
+  }
+]

@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Termales de San Vicente Risaralda Colombia"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://colombiatours.travel/l/pasadia-termales-san-vicente/&quot;,&quot;murl&quot;:&quot;https://colombiatours.travel/wp-content/uploads/2017/06/Termales-de-San-Vicente-Santa-Rosa-de-Cabal-Eje-Cafetero-Colombia-Reserva-Natural-2-800x600.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://7travel.co/tours/termales-de-san-vicente&quot;,&quot;murl&quot;:&quot;https://7travel.co/assets/img/packages/termales-de-san-vicente6.png
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://colombiatours.travel/l/pasadia-termales-san-vicente/&quot;,&quot;murl&quot;:&quot;https://colombiatours.travel/wp-content/uploads/2017/06/Termales-de-San-Vicente-Santa-Rosa-de-Cabal-Eje-Cafetero-Colombia-Reserva-Natural-2-800x600.jpg"
+  },
+  {
+    "image_url": "https://7travel.co/tours/termales-de-san-vicente&quot;,&quot;murl&quot;:&quot;https://7travel.co/assets/img/packages/termales-de-san-vicente6.png"
+  }
+]

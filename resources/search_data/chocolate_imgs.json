@@ -1,0 +1,40 @@
+🔍 Searching: "Museo del Chocolate Cartagena Colombia"
+📊 Results: 2
+
+✅ Got VQD token: 4-296845578924852001360367923697918781247 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://museodelchocolate.com.co/wp-content/uploads/2025/03/Museo-del-chocolate-cartagena-1536x987.jpg
+   Source: http://museodelchocolate.com.co/cartagena/
+   Title: CARTAGENA - Museo del chocolate
+   Width: 1536 | Height: 987
+====================================================================================================
+
+📸 Image 2:
+   URL: https://lh5.googleusercontent.com/p/AF1QipOiudcfA2bXeEiNmQV4uL-VXjbbd7O_sIlGIHjT=w640-h640-k-no
+   Source: https://wanderboat.ai/attractions/colombia/cartagena/museo-del-chocolate-colombia---cartagena/qVDLkrV7Su-PaiBB-OMBOg
+   Title: Museo Del Chocolate Colombia - Cartagena - reviews,open hours,photo ...
+   Width: 640 | Height: 480
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://museodelchocolate.com.co/wp-content/uploads/2025/03/Museo-del-chocolate-cartagena-1536x987.jpg",
+    "source_url": "http://museodelchocolate.com.co/cartagena/",
+    "title": "CARTAGENA - Museo del chocolate",
+    "width": 1536,
+    "height": 987
+  },
+  {
+    "image_url": "https://lh5.googleusercontent.com/p/AF1QipOiudcfA2bXeEiNmQV4uL-VXjbbd7O_sIlGIHjT=w640-h640-k-no",
+    "source_url": "https://wanderboat.ai/attractions/colombia/cartagena/museo-del-chocolate-colombia---cartagena/qVDLkrV7Su-PaiBB-OMBOg",
+    "title": "Museo Del Chocolate Colombia - Cartagena - reviews,open hours,photo ...",
+    "width": 640,
+    "height": 480
+  }
+]

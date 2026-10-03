@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏖️ Playas de Mayapo — Silencio y Viento en La Guajira",
+    "content": "<p>🎯 <strong>¿Por qué visitar Mayapo?</strong></p><p>Las <strong>Playas de Mayapo</strong> son el refugio perfecto para quienes buscan la belleza de La Guajira sin alejarse demasiado de la civilización 🏖️. Ubicadas a solo 20 minutos de Riohacha, estas playas se caracterizan por sus arenas blancas, aguas color turquesa y una tranquilidad absoluta, lejos de las multitudes de otros destinos caribeños.</p><p>🌬️ <strong>Paraíso del Viento</strong></p><p>Mayapo es famoso por sus fuertes y constantes vientos, lo que lo ha convertido en un destino predilecto para los amantes del kitesurf y el windsurf. Sus playas son amplias y despejadas, ideales para largas caminatas al atardecer o simplemente para disfrutar del sonido del mar y la brisa constante en una ranchería local.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🏄 <strong>Kitesurf</strong>: Atrévete a deslizarte sobre las olas impulsado por el viento de La Guajira.</li><li>🦐 <strong>Gastronomía del Mar</strong>: Disfruta de una langosta o un pescado fresco preparado por las comunidades Wayuu de la zona.</li><li>🌅 <strong>Atardeceres Solitarios</strong>: Vive uno de los atardeceres más tranquilos y hermosos del Caribe colombiano.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Fines de semana</strong>: Si buscas un poco más de ambiente y oferta gastronómica.<br>📅 <strong>Entre semana</strong>: Para tener prácticamente toda la playa para ti solo.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Acceso libre.</li><li>🦟 <strong>Protección</strong>: Lleva repelente de insectos para las horas del atardecer.</li><li>🚗 <strong>Transporte</strong>: Puedes llegar fácilmente en taxi o transporte privado desde Riohacha.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en el municipio de <strong>Manaure</strong>, a unos 20-30 minutos por carretera pavimentada desde <strong>Riohacha</strong>.</p><p><em>📸 Créditos: laplayademajo.com, istockphoto.com</em></p>",
+    "keywords": "Mayapo, La Guajira, playas tranquilas, kitesurf Mayapo, turismo Riohacha, Caribe colombiano, rancheria Wayuu, playas blancas",
+    "address": "Mayapo, Manaure, La Guajira, Colombia",
+    "lat": 11.6033,
+    "lng": -72.7667,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://media.istockphoto.com/id/1731644782/es/foto/vista-aérea-de-la-playa-mayapo-la-guajira-colombia.jpg",
+      "https://laplayademajo.com/wp-content/uploads/2024/02/Vista-aerea-de-Playa-Mayapo-1024x576.webp",
+      "https://media.istockphoto.com/id/1731644262/es/foto/vista-aérea-tomada-con-dron-de-la-playa-de-mayapo-la-guajira-colombia.jpg",
+      "https://www.esariri.com/wp-content/uploads/2022/12/PLAYAS-MAYAPO-2.jpeg"
+    ]
+  }
+}

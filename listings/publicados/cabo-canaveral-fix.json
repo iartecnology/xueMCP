@@ -1,0 +1,18 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Prueba Cabo Cañaveral con Fix",
+      "content": "Verificando que las imágenes ahora se suban correctamente con la extensión forzada.",
+      "status": "publish",
+      "type": "service",
+      "address": "Tayrona, Colombia",
+      "image_urls": [
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "id": 6334,
+      "link": "https://xueturismo.com/-/prueba-cabo-canaveral-con-fix/"
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "ability": "listeo-list-listings",
+  "args": {
+    "limit": 500,
+    "format": "summary"
+  }
+}

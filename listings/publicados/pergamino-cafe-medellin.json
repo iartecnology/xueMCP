@@ -1,0 +1,34 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Pergamino Café Medellín - Café de Especialidad Colombiano y Comida en El Poblado",
+    "content": "<p><strong>Pergamino Café</strong> es la vitrina del <strong>café colombiano de especialidad</strong> en Medellín. Nacido como un proyecto que conecta directamente a los campesinos productores de café con los amantes del buen café en la ciudad, Pergamino se ha convertido en un referente imprescindible de la cultura cafetera antioqueña.</p>
+
+<p><strong>Del campo a la taza</strong></p>
+
+<p>Pergamino trabaja directamente con <strong>productores de café de Antioquia, Huila y Nariño</strong>, seleccionando los mejores granos de origen único. Cada taza cuenta la historia de la vereda donde fue cultivado, de las manos que lo cosecharon y del proceso de tostado artesanal que preserva los perfiles de sabor únicos de cada región. Aquí se puede tomar un café lavado de Huila con notas florales o un natural de Nariño con cuerpo achocolatado.</p>
+
+<p><strong>Comida colombiana de calidad</strong></p>
+
+<p>Más allá del café, Pergamino ofrece una selección de <strong>comida colombiana contemporánea</strong>: desayunos con arepas de maíz peto, almuerzos con ingredientes locales, sandwiches de pan artesanal con productos regionales, y una repostería que combina técnicas francesas con sabores colombianos. El brunch de Pergamino se ha vuelto legendario entre locales y turistas.</p>
+
+<p><strong>Ambiente cafetero moderno</strong></p>
+
+<p>Con su diseño moderno que mezcla <strong>madera, metal y plantas</strong>, Pergamino es el lugar ideal para empezar el día, trabajar remotamente con un excelente café o simplemente disfrutar del aroma inconfundible del café recién hecho. Las sedes de Medellín, especialmente la de El Poblado, son puntos de encuentro de la comunidad creativa de la ciudad.</p>
+
+<p><strong>Cómo llegar</strong></p>
+
+<p>La sede principal en El Poblado está en la Calle 10B, zona de fácil acceso. Se puede llegar en taxi desde cualquier punto de Medellín o caminando desde Parque Lleras. También tienen sede en la zona de Pompeya, cerca al centro. Metro más cercano: Estación Poblado.</p>
+
+<p><em>Créditos de imágenes: restaurantguru.com, pergamino.co, medellin.travel - Imágenes referenciales de Pergamino Café en Medellín.</em></p>",
+    "keywords": "Pergamino Café Medellín, café especialidad Colombia, mejor café Medellín, brunch El Poblado, café origen colombiano, cafetería especialidad Antioquia, coffee shop Medellín",
+    "address": "Calle 10B, El Poblado, Medellín, Antioquia, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://img.restaurantguru.com/r247-interior-PERGAMINO-Cafe-Calle-10B-2021-09.jpg",
+      "https://us.pergamino.co/cdn/shop/files/VENTANA_MEDELLIN.png?v=1721059380&width=533",
+      "https://www.medellin.travel/wp-content/uploads/2020/10/Bolsa-Pergamino-Web-Pompeya-Narino-Todas_d1f770e0-63eb-4f82-a040-28db0da1a875.jpg"
+    ]
+  }
+}

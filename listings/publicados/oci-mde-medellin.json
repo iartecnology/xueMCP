@@ -1,0 +1,34 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Oci.Mde Medellín - Cocina Colombiana Moderna en Provenza El Poblado",
+    "content": "<p><strong>Oci.Mde</strong> (Ocio Medellín) es el restaurante que captura la esencia de la <strong>nueva cocina colombiana</strong> en el vibrante barrio Provenza de El Poblado. Un espacio donde los ingredientes ancestrales se reinventan con técnicas contemporáneas en un ambiente industrial-chic que refleja la transformación cultural de Medellín.</p>
+
+<p><strong>De mercado a mesa gourmet</strong></p>
+
+<p>El concepto de Oci.Mde se inspira en los <strong>mercados tradicionales colombianos</strong>, pero elevado a una experiencia culinaria de autor. El restaurante rinde homenaje a los productores locales, a las abuelas cocineras y a la riqueza de ingredientes que hacen de Colombia un país con una de las gastronomías más diversas del planeta. Cada plato cuenta la historia de un territorio.</p>
+
+<p><strong>Platos que cuentan historias</strong></p>
+
+<p>La carta cambia según la temporada y la disponibilidad de ingredientes locales. Destacan las <strong>reinterpreraciones de la bandeja paisa</strong>, ceviches con frutas amazónicas, carnes maduradas de razas colombianas y postres que rescatan dulces tradicionales del olvido. La cocina abierta permite ver el ritual de preparación, donde cada emplatado es una declaración de amor por Colombia.</p>
+
+<p><strong>Ambiente en Provenza</strong></p>
+
+<p>Ubicado en el corazón de <strong>Provenza</strong>, la calle más trendy de Medellín, Oci.Mde combina paredes de ladrillo expuesto, iluminación cálida y una terraza que invita a quedarse hasta tarde. Es el lugar perfecto para quienes buscan probar la <strong>evolución gastronómica colombiana</strong> en un entorno relajado pero sofisticado.</p>
+
+<p><strong>Cómo llegar</strong></p>
+
+<p>En el barrio Provenza, El Poblado. Acceso fácil en taxi desde cualquier punto de Medellín. La zona es peatonal en gran parte y se puede llegar caminando desde Parque Lleras en menos de 10 minutos. Metro más cercano: Aguacatala.</p>
+
+<p><em>Créditos de imágenes: chipviajero.com, nearshoreamericas.com, theworldkeys.com - Imágenes referenciales de OCI.Mde en Medellín.</em></p>",
+    "keywords": "Oci Mde Medellín, restaurante Provenza El Poblado, cocina colombiana moderna, nueva cocina Colombia, restaurante trendy Medellín, comida autor Medellín, gastronomía contemporánea Antioquia",
+    "address": "Provenza, El Poblado, Medellín, Antioquia, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://chipviajero.com/wp-content/uploads/2019/06/Restaurante-Ocio-Medell%C3%ADn-Chip-Viajero-2.jpg",
+      "https://nearshoreamericas.com/wp-content/uploads/2018/09/oci.mde_.jpg",
+      "https://theworldkeys.com/wp-content/uploads/2022/10/Oci.mde-Restaurant-Medellin_theworldkeys_5.webp"
+    ]
+  }
+}

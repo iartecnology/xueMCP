@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🛥️ Cholón — El Punto de Encuentro y Fiesta en el Caribe",
+    "content": "<p>🎯 <strong>¿Por qué vivir la experiencia en Cholón?</strong></p><p><strong>Cholón</strong> es mundialmente conocido como la 'Ciénaga de los botes', el lugar donde la fiesta y el mar se encuentran en un solo lugar 🛥️. Ubicada en la Isla de Barú, esta ensenada de aguas tranquilas y poco profundas es el punto de reunión por excelencia para yates y lanchas que buscan el mejor ambiente caribeño.</p><p>🎉 <strong>Fiesta y Gastronomía en el Agua</strong></p><p>La experiencia en Cholón es única: los botes se agrupan formando una especie de club social flotante donde la música, el baile y el sol son constantes. Lo más curioso es su oferta gastronómica, donde puedes disfrutar de un ceviche o un almuerzo de mar servido directamente en mesas dentro del agua. Es el destino ideal para grupos de amigos y quienes buscan vivir la cara más vibrante y animada de Cartagena.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🛥️ <strong>Party on Board</strong>: Alquila un bote o yate y únete a la gran comunidad flotante que se reúne cada fin de semana.</li><li>🦐 <strong>Almuerzo Sumergido</strong>: Disfruta de la mejor comida de mar mientras el agua te llega a las rodillas.</li><li>🌅 <strong>Regreso al Atardecer</strong>: Vive el emocionante regreso a Cartagena navegando mientras el sol se oculta en el horizonte.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Fines de semana y festivos</strong>: Es cuando el lugar está en su máximo esplendor de fiesta y cantidad de botes.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso a la ciénaga es libre, pero requiere el alquiler de una embarcación privada o cupo en un tour de fiesta.</li><li>🧴 <strong>Hidratación</strong>: Lleva mucha agua y bebidas hidratantes; el sol y la fiesta pueden ser agotadores.</li><li>🎒 <strong>Seguridad</strong>: Mantén siempre tus pertenencias seguras dentro de la embarcación.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Solo se puede acceder por vía marítima. Se encuentra en la <strong>Isla de Barú</strong>, a unos 40-50 minutos en lancha rápida desde los muelles de Cartagena.</p><p><em>📸 Créditos: hectorpertuz.com, amazingtravelcartagena.com</em></p>",
+    "keywords": "Cholon, Baru, Cartagena, fiesta en botes, yates Cartagena, turismo rumba, Caribe colombiano, Ciénaga de Cholón, eventos mar",
+    "address": "Ensenada de Cholón, Isla de Barú, Cartagena, Bolívar, Colombia",
+    "lat": 10.1878,
+    "lng": -75.6661,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://hectorpertuz.com/wp-content/uploads/Cholon-2.jpg",
+      "https://www.amazingtravelcartagena.com/wp-content/uploads/2023/03/cholon-1024x925.jpg.webp",
+      "https://infinitytravels.co/wp-content/uploads/2021/08/Cholon.jpg"
+    ]
+  }
+}

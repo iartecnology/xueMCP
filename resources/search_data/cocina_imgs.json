@@ -1,0 +1,54 @@
+🔍 Searching: "Clase de Cocina Caribeña Cartagena"
+📊 Results: 3
+
+✅ Got VQD token: 4-188942705440990373261095161882943855390 
+
+✅ Found 3 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/1b/d4/18.jpg
+   Source: https://www.tripadvisor.co/AttractionProductReview-g297476-d18341718-Caribbean_Cuisine_Cooking_Class-Cartagena_Cartagena_District_Bolivar_Department.html
+   Title: Tripadvisor | Clase de cocina caribeña proporcionado por Cartagena ...
+   Width: 720 | Height: 480
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.siontours.com.co/wp-content/uploads/2024/03/CLASE-DE-COCINA-05.webp
+   Source: https://www.siontours.com.co/tienda-de-productos/cooking-class-en-cartagena/
+   Title: Cooking Class - Sabor Caribe - Sion Tours - Agencia de turismo en ...
+   Width: 2250 | Height: 2250
+====================================================================================================
+
+📸 Image 3:
+   URL: https://hotmart.s3.amazonaws.com/product_pictures/7b587129-c3ea-4af9-9b2d-1ac9dd8585dd/HelenColon.png
+   Source: https://hotmart.com/es/marketplace/productos/cocina-caribena-en-casa-sabores-y-recetas-de-cartagena-de-indias-colombia-para-encantar-europa/E99251034A
+   Title: Cocina Caribeña en Casa: Sabores y Recetas de Cartagena de Indias/C...
+   Width: 1410 | Height: 2250
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/1b/d4/18.jpg",
+    "source_url": "https://www.tripadvisor.co/AttractionProductReview-g297476-d18341718-Caribbean_Cuisine_Cooking_Class-Cartagena_Cartagena_District_Bolivar_Department.html",
+    "title": "Tripadvisor | Clase de cocina caribeña proporcionado por Cartagena ...",
+    "width": 720,
+    "height": 480
+  },
+  {
+    "image_url": "https://www.siontours.com.co/wp-content/uploads/2024/03/CLASE-DE-COCINA-05.webp",
+    "source_url": "https://www.siontours.com.co/tienda-de-productos/cooking-class-en-cartagena/",
+    "title": "Cooking Class - Sabor Caribe - Sion Tours - Agencia de turismo en ...",
+    "width": 2250,
+    "height": 2250
+  },
+  {
+    "image_url": "https://hotmart.s3.amazonaws.com/product_pictures/7b587129-c3ea-4af9-9b2d-1ac9dd8585dd/HelenColon.png",
+    "source_url": "https://hotmart.com/es/marketplace/productos/cocina-caribena-en-casa-sabores-y-recetas-de-cartagena-de-indias-colombia-para-encantar-europa/E99251034A",
+    "title": "Cocina Caribeña en Casa: Sabores y Recetas de Cartagena de Indias/C...",
+    "width": 1410,
+    "height": 2250
+  }
+]

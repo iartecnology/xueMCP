@@ -1,0 +1,22 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🌊 Río Cauca — El Patrón del Valle y los Cañones",
+      "content": "<p>🎯 <strong>¿Por qué conocer el Río Cauca?</strong></p><p>El <strong>Río Cauca</strong> es el segundo río más importante de Colombia y el gran escultor de los paisajes del occidente del país 🌊. Fluye entre las cordilleras Central y Occidental, irrigando el fértil Valle del Cauca y formando espectaculares cañones en su paso por Antioquia antes de entregarse al Magdalena.</p><p>🌾 <strong>Fertilidad y Paisaje</strong></p><p>A lo largo de su curso, el Cauca define la identidad de regiones enteras. Desde los cañaduzales infinitos del Valle hasta las tierras cafeteras de Caldas y los paisajes montañosos de Antioquia, el río es el motor de la agricultura y un eje de biodiversidad fundamental para el país.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🚜 <strong>Vistas desde el Eje Cafetero</strong>: Contempla la inmensidad del valle del río desde los miradores de Marsella o Belalcázar.</li><li>🚣 <strong>Balsaje</strong>: Disfruta de recorridos tranquilos en balsas de guadua en sus tramos más calmados.</li><li>🌉 <strong>Puentes Históricos</strong>: Visita el Puente de Occidente en Santa Fe de Antioquia, una joya de la ingeniería sobre sus aguas.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Todo el año</strong>: Los paisajes del Valle y los cañones antioqueños son hermosos en cualquier temporada.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🧢 <strong>Clima Cálido</strong>: Las zonas bajas del río suelen ser muy calurosas; usa protección solar.</li><li>🚲 <strong>Cicloturismo</strong>: Las rutas paralelas al río en el Valle del Cauca son ideales para los amantes de la bicicleta.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Es fácilmente accesible desde ciudades como <strong>Cali</strong>, <strong>Pereira</strong>, <strong>Cartago</strong> y <strong>Santa Fe de Antioquia</strong>.</p><p><em>📸 Créditos: cvc.gov.co, corantioquia.gov.co</em></p>",
+      "address": "Río Cauca, Colombia",
+      "lat": 4.7111,
+      "lng": -75.9111,
+      "keywords": "Rio Cauca, Valle del Cauca, Antioquia, paisajes de Colombia, Puente de Occidente, agricultura colombiana, rios de Colombia",
+      "category": [
+        "Ríos y Embalses"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rio_Cauca_Valle.jpg/1200px-Rio_Cauca_Valle.jpg"
+      ],
+      "id": 6359,
+      "link": "https://xueturismo.com/listado/%f0%9f%8c%8a-rio-cauca-el-patron-del-valle-y-los-canones-2/"
+    }
+  }
+]

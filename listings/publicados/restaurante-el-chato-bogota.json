@@ -1,0 +1,18 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "El Chato — Cocina Contemporánea con Alma de Barrio y Técnica de Vanguardia 🍲✨",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Recientemente nombrado el <strong>Mejor Restaurante de Latinoamérica 2025</strong> por la prestigiosa lista <em>The World’s 50 Best</em>, <strong>El Chato</strong> es el fenómeno gastronómico del momento en Bogotá. El chef <strong>Álvaro Clavijo</strong> ha logrado algo único: un bistró relajado donde la técnica de nivel Michelin se aplica a productos colombianos que hasta hace poco eran ignorados por la alta cocina.</p>\n\n<p>👨‍🍳 <strong>El Chef y su Visión</strong></p><p>Álvaro Clavijo, tras formarse en templos del sabor como <em>Noma</em> y <em>Per Se</em>, regresó a su \"barrio\" (de ahí el nombre 'El Chato', término bogotano para referirse a alguien cercano) para crear un menú que cambia constantemente. Su enfoque es el producto local, trabajando mano a mano con pequeños productores para traer lo mejor de la tierra a la mesa.</p>\n\n<p>🍽️ <strong>Qué probar</strong></p><ul><li>🐚 <strong>Caracoles de Mar:</strong> Preparados con una maestría que sorprende incluso a los paladares más exigentes.</li><li>🥩 <strong>Tartar de Res con Yacón:</strong> Una reinterpretación fresca y terrosa de un clásico internacional.</li><li>🍦 <strong>Helado de Leche Quemada:</strong> El cierre perfecto, un postre que evoca la nostalgia del hogar bogotano con una textura sublime.</li></ul>\n\n<p>💡 <strong>Consejos para tu visita</strong></p><ul><li>🕰️ <strong>Menú Estacional:</strong> El menú evoluciona con las cosechas, así que cada visita es una experiencia nueva.</li><li>🍷 <strong>Coctelería:</strong> Su barra es excepcional; no dudes en pedir una recomendación basada en frutas locales.</li><li>📅 <strong>Reserva Anticipada:</strong> Desde su nombramiento como el #1 de la región, la demanda es altísima.</li></ul>\n\n<p>🚶 <strong>Cómo llegar</strong></p><p>Ubicado en la Calle 65 # 4-76, en el corazón de la zona gastronómica de Chapinero. Es un lugar perfecto para disfrutar de la Bogotá moderna y cosmopolita.</p>\n\n<p><em>📸 Créditos imágenes: El Comercio, Revista Estilo, Las2Orillas</em></p>",
+      "keywords": "El Chato, Alvaro Clavijo, mejor restaurante latinoamerica, cocina contemporanea, Bogota, 50 best, gastronomia colombiana",
+      "address": "Calle 65 # 4-76, Chapinero, Bogotá, Colombia",
+      "category": "gastronomia",
+      "status": "publish",
+      "image_urls": [
+        "https://elcomercio.pe/resizer/W2EvDkI6CvPXrGNwsUl7863vv3k=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/75R2ZPNS7ZCBVFNKLTPSCJ246U.JPG",
+        "https://www.revistaestilo.net/binrepository/1392x928/0c0/0d0/none/179468266/KQLI/h6p7bhwdtvfytc4k6nuf3tba7i_7688735_20240606141822.jpg",
+        "https://www.las2orillas.co/wp-content/uploads/2025/03/alvaro-clavijo-el-chato.jpg"
+      ]
+    }
+  }
+]

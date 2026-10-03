@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐋 Nuquí — Selva, Mar y el Canto de las Ballenas",
+    "content": "<p>🎯 <strong>¿Por qué visitar Nuquí?</strong></p><p><strong>Nuquí</strong> es el secreto mejor guardado del Pacífico colombiano 🐋. Es un lugar donde la selva tropical cae directamente sobre playas de arena oscura, ofreciendo un escenario salvaje y majestuoso que se convierte cada año en la sala de partos de las ballenas jorobadas.</p><p>🌊 <strong>Naturaleza en su Máxima Expresión</strong></p><p>Aquí no hay carreteras, solo el mar y la selva. Puedes disfrutar de aguas termales junto al mar, surfear en olas de clase mundial, recorrer manglares en canoa o simplemente contemplar la inmensidad del océano Pacífico. La cultura local, basada en la pesca y la música tradicional, te envolverá con su calidez y autenticidad.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐋 <strong>Avistamiento de Ballenas</strong>: Sé testigo del salto de las yubartas entre julio y octubre.</li><li>♨️ <strong>Termales de Arusí</strong>: Relájate en pozos naturales de agua caliente a pocos metros del mar.</li><li>🏄 <strong>Surf en el Pacífico</strong>: Desafía las olas en una de las zonas con mejor rompiente de Colombia.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>De julio a octubre</strong>: Para el avistamiento de ballenas.<br>📅 <strong>De enero a abril</strong>: Para disfrutar de días más soleados y aguas tranquilas.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: No hay costo de entrada al pueblo, pero los tours tienen precios variables.</li><li>🦟 <strong>Salud</strong>: Es recomendable la vacuna contra la fiebre amarilla y llevar mucho repelente.</li><li>🧥 <strong>Ropa</strong>: Usa ropa liviana de secado rápido y calzado que se pueda mojar.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se llega volando al Aeropuerto Reyes Murillo de <strong>Nuquí</strong> desde Medellín o Quibdó. Una vez allí, el transporte entre playas se hace exclusivamente por mar en lancha.</p><p><em>📸 Créditos: colombiavisible.com, turismo.encolombia.com</em></p>",
+    "keywords": "Nuqui, Choco, Pacifico colombiano, ballenas jorobadas, turismo naturaleza, selva y mar, avistamiento ballenas, termales Arusi",
+    "address": "Nuquí, Chocó, Colombia",
+    "lat": 5.7117,
+    "lng": -77.2708,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://colombiavisible.com/wp-content/uploads/2022/07/Nuqui-ballenas-choco.jpg",
+      "https://turismo.encolombia.com/wp-content/uploads/2013/02/Nuqui-1024x682.jpeg",
+      "https://www.paipatours.com/wp-content/uploads/2023/08/FOTOS-NUQUI-7.jpg"
+    ]
+  }
+}

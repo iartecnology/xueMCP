@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🌋 Volcán Puracé — La Fuerza de los Andes y el Vuelo del Cóndor",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Volcán Puracé?</strong></p><p>El <strong>Volcán Puracé</strong> es uno de los volcanes más activos de Colombia y el corazón del Parque Nacional Natural Puracé 🌋. Con su imponente cumbre nevada (a veces) y sus paisajes de páramo habitados por el majestuoso Cóndor de los Andes, es un destino sublime para quienes buscan una conexión profunda con la naturaleza salvaje.</p><p>🏔️ <strong>Paisajes de Azufre y Agua</strong></p><p>El volcán ofrece un espectáculo visual de fumarolas, cráteres y lagunas de colores irreales debido a la alta concentración de azufre. Es un territorio sagrado para la comunidad indígena Coconuco, quienes protegen este ecosistema de alta montaña donde nacen algunos de los ríos más importantes de Colombia, como el Magdalena y el Cauca.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🦅 <strong>Avistamiento de Cóndores</strong>: Visita la 'Piedra del Cóndor' para ver de cerca el vuelo de esta ave legendaria.</li><li>🥾 <strong>Ascenso al Cráter</strong>: Un reto para montañistas que recompensa con una vista sobrecogedora (sujeto a condiciones de actividad volcánica).</li><li>♨️ <strong>Termales de San Juan</strong>: Relájate en las piscinas de aguas termales rodeadas de una vegetación de páramo exuberante.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Mañanas</strong>: Para tener más posibilidades de ver el cielo despejado y el avistamiento del cóndor.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se requiere el pago de ingreso al Parque Nacional y, en ocasiones, la contratación de un guía local indígena.</li><li>🧥 <strong>Ropa</strong>: Imprescindible ropa para frío extremo e impermeable.</li><li>🧤 <strong>Precaución</strong>: Por ser un volcán activo, siempre consulta el nivel de alerta antes de planear tu visita.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Ubicado en el departamento del <strong>Cauca</strong>, a unos 45 kilómetros de Popayán. Se llega por la vía que conduce al departamento del Huila.</p><p><em>📸 Créditos: gettyimages.com, civitatis.com</em></p>",
+    "keywords": "Volcan Purace, Parque Nacional Purace, condor de los andes, montañismo Colombia, Cauca, turismo Popayan, volcan activo, paramo colombiano",
+    "address": "Parque Nacional Natural Puracé, Cauca, Colombia",
+    "lat": 2.3167,
+    "lng": -76.3833,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://media.gettyimages.com/id/1231201481/photo/an-andean-condor-is-seen-at-the-purace-national-natural-park-in-purace-colombia-on-february.jpg",
+      "https://www.civitatis.com/f/colombia/silvia/excursion-purace-avistamiento-condor-andino-r32.jpg",
+      "https://montanascolombianas.com/wp-content/uploads/2020/09/3rd.png"
+    ]
+  }
+}

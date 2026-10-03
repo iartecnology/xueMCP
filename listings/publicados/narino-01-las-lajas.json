@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "⛪ Santuario de Las Lajas — El Milagro sobre el Abismo",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Santuario de Las Lajas?</strong></p><p>El <strong>Santuario de Nuestra Señora de las Lajas</strong> es, sin duda, una de las iglesias más espectaculares del mundo ⛪. Ubicada en el cañón del río Guáitara, esta basílica neogótica parece brotar directamente de la piedra, suspendida sobre un puente de 50 metros de altura en un escenario natural sobrecogedor.</p><p>🏰 <strong>Arquitectura y Fe</strong></p><p>Construido entre 1916 y 1949, el santuario es un prodigio de la ingeniería y el arte. Su diseño neogótico, con sus pináculos y vitrales, contrasta con el verde profundo del cañón. El altar principal está situado directamente sobre la 'laja' (piedra) donde, según la tradición, apareció la imagen de la Virgen en el siglo XVIII.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🚡 <strong>Teleférico</strong>: Disfruta de una vista aérea inigualable del santuario y el cañón desde las alturas.</li><li>🚶 <strong>Descenso al Río</strong>: Baja hasta el cauce del río Guáitara para apreciar la magnitud de la construcción desde abajo.</li><li>🌃 <strong>Iluminación Nocturna</strong>: Si puedes, quédate al atardecer para ver cómo el santuario se ilumina con colores mágicos.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Todos los días</strong>: 6 AM - 6 PM (La iluminación suele encenderse al caer la tarde).</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso al santuario es gratuito. El teleférico tiene un costo aproximado de 20.000 COP.</li><li>🧣 <strong>Clima</strong>: Ipiales es frío; lleva ropa abrigada, especialmente si vas al final del día.</li><li>🚶 <strong>Caminata</strong>: El acceso desde el parqueadero implica una caminata con pendientes; lleva calzado cómodo.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a 7 kilómetros de la ciudad de <strong>Ipiales</strong>. Puedes llegar fácilmente en taxi colectivo o transporte privado desde el centro de la ciudad.</p><p><em>📸 Créditos: wikimedia.org, thecolombianway.com</em></p>",
+    "keywords": "Santuario de Las Lajas, Ipiales, Nariño, iglesia mas bella del mundo, turismo religioso, neogotico, cañon del Guaitara, Colombia sur",
+    "address": "Santuario de Las Lajas, Ipiales, Nariño, Colombia",
+    "lat": 0.8053,
+    "lng": -77.5861,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://cdn.thecolombianway.com/wp-content/uploads/2019/10/santuario-lajas-main-image.jpg",
+      "https://i.pinimg.com/originals/c4/35/64/c43564fbd4dc30ee4952a548773ae33a.jpg",
+      "https://situr.narino.gov.co/storage/Clientes/situr_narino/principal/imagenes/contenidos/3925-9_Parque_de_Nariño_Monumento_Nariño.jpg"
+    ]
+  }
+}

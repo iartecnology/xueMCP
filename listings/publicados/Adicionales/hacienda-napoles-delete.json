@@ -1,0 +1,6 @@
+{
+  "ability": "wp/delete-post",
+  "args": {
+    "id": 4768
+  }
+}

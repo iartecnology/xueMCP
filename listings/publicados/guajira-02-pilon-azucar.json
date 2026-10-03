@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏜️ Pilón de Azúcar — Playa Dorada y Tradición Wayuu",
+    "content": "<p>🎯 <strong>¿Por qué subir al Pilón de Azúcar?</strong></p><p>El <strong>Pilón de Azúcar</strong> (o *Jepira* en Wayuunaiki) es uno de los puntos más icónicos de la Alta Guajira 🏜️. Se trata de una pequeña montaña blanca que se eleva frente al mar, ofreciendo una vista panorámica espectacular de la costa y el desierto circundante.</p><p>🌊 <strong>Energía y Paisaje</strong></p><p>Para la cultura Wayuu, este es un lugar de gran significado espiritual. A sus pies se encuentra una playa de arenas doradas y aguas color esmeralda, perfecta para disfrutar del mar después de subir a la cima. El contraste entre la tierra naranja, el cerro blanco y el mar azul es simplemente inolvidable.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🧗 <strong>Caminata a la Cima</strong>: Una subida corta de unos 15 minutos para disfrutar de una de las mejores vistas de La Guajira.</li><li>🏊 <strong>Playa Dorada</strong>: Disfruta de un baño en las aguas refrescantes a los pies del cerro.</li><li>🙏 <strong>Sitio Sagrado</strong>: Conoce las historias y leyendas que rodean a este lugar para la comunidad local.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Temprano en la mañana</strong>: Para evitar el calor intenso del mediodía y disfrutar de la luz suave para fotos.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Acceso libre.</li><li>👟 <strong>Calzado</strong>: Usa calzado con agarre para la subida al cerro.</li><li>🧴 <strong>Protección</strong>: El sol es muy fuerte; usa bloqueador y sombrero.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra muy cerca del <strong>Cabo de la Vela</strong>. Se puede llegar en vehículo 4x4 o incluso caminando desde los alojamientos cercanos en el Cabo.</p><p><em>📸 Créditos: laplayademajo.com, alamy.com</em></p>",
+    "keywords": "Pilon de Azucar, La Guajira, Cabo de la Vela, playa dorada, turismo espiritual, Wayuu, mirador Guajira, desierto Colombia",
+    "address": "Pilón de Azúcar, Cabo de la Vela, La Guajira, Colombia",
+    "lat": 12.1931,
+    "lng": -72.1158,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://laplayademajo.com/wp-content/uploads/2023/07/Playa-Pilon-de-Azucar-en-La-Guajira.webp",
+      "https://c8.alamy.com/comp/2GC49D8/coast-of-la-guajira-peninsula-in-colombia-beach-playa-del-pilon-pilon-de-azucar-hill-in-the-background-2GC49D8.jpg",
+      "https://www.shutterstock.com/image-photo/beach-pilon-de-azucar-la-600w-159657662.jpg"
+    ]
+  }
+}

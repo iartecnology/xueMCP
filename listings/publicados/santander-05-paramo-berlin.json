@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "❄️ Páramo de Berlín — El Guardián de los Frailejones",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Páramo de Berlín?</strong></p><p>El <strong>Páramo de Berlín</strong> es uno de los ecosistemas más vitales y hermosos de Santander ❄️. Situado a más de 3.200 metros sobre el nivel del mar, es un santuario de agua y vida donde miles de frailejones se yerguen entre la neblina, ofreciendo un paisaje místico y silencioso que parece de otro mundo.</p><p>🏔️ <strong>Un Santuario de Alta Montaña</strong></p><p>Este páramo es fundamental para el abastecimiento de agua de Bucaramanga y Cúcuta. Sus frailejones, que crecen apenas un centímetro al año, son los protagonistas de un paisaje resiliente que ha recuperado su verde tras los desafíos ambientales. Es el lugar perfecto para el ecoturismo contemplativo, la fotografía de naturaleza y para sentir el frío puro de los Andes colombianos.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🌿 <strong>Avistamiento de Frailejones</strong>: Camina con respeto entre estas plantas ancestrales que capturan la humedad de las nubes.</li><li>🌫️ <strong>Paisajes de Neblina</strong>: Disfruta de la atmósfera única que crea la bruma al envolver las montañas.</li><li>🍲 <strong>Gastronomía de Páramo</strong>: Detente en los restaurantes de la vía para disfrutar de una agua de panela caliente con queso o un caldo de papa tradicional.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Mañanas despejadas</strong>: Para ver el horizonte y los frailejones bajo el sol de alta montaña.<br>📅 <strong>Días de bruma</strong>: Para vivir la experiencia mística completa del páramo.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso es libre desde la carretera, pero siempre se debe permanecer en los senderos marcados.</li><li>🧥 <strong>Ropa</strong>: Imprescindible llevar ropa térmica, guantes y chaqueta impermeable. ¡El frío es intenso!</li><li>🧤 <strong>Respeto</strong>: NUNCA toques ni pises los frailejones pequeños. Son extremadamente frágiles.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en la vía que conduce de <strong>Bucaramanga a Cúcuta</strong>, aproximadamente a una hora y media de la capital santandereana. Es un punto de parada obligado en el trayecto.</p><p><em>📸 Créditos: semana.com, vanguardia.com, boyacavisible.com</em></p>",
+    "keywords": "Paramo de Berlin, Santander, frailejones, ecoturismo Colombia, Tona Santander, paramo colombiano, agua natural, alta montaña",
+    "address": "Vía Bucaramanga - Cúcuta, Tona, Santander, Colombia",
+    "lat": 7.1833,
+    "lng": -72.8833,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.semana.com/resizer/lXrnsHILL8IqLvyXDWqukXgbdy8=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/ERQRDSUFRJC7NFEYRGBR457C6A.jpg",
+      "https://www.vanguardia.com/resizer/v2/como-se-recuperaron-los-frailejones-del-paramo-de-berlin-afectados-por-un-voraz-incendio-X2S55BRMNRCKTCYJJDW5MKBQII.JPG",
+      "https://boyacavisible.com/wp-content/uploads/2024/02/Frailejones-780x470.jpeg",
+      "https://tsmnoticias.com/wp-content/uploads/2024/03/Asi-luce-el-paramo-de-Berlin-en-Santander.jpg"
+    ]
+  }
+}

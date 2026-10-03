@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Bazurto Social Club | Mariscos Frescos y Salsa, Santa Marta",
+    "content": "<p><strong>Bazurto Social Club</strong> es donde los mariscos frescos del Caribe colombiano se encuentran con la salsa y el merengue en un lugar que celebra la alegria de la costa Caribe. Es restaurante, bar y sala de baile, todo en uno.</p>\n\n<p><strong>El concepto:</strong> El nombre Bazurto hace referencia al Bazurto, uno de los mercados mas famosos de Cartagena, simbolo de la cultura popular costeña. Este Social Club toma ese espiritu y lo lleva a Santa Marta: un espacio donde la comida del mar se disfruta con musica en vivo, cocteles tropicales y la energia contagiosa del Caribe colombiano.</p>\n\n<p><strong>Platos estrella:</strong> Los <strong>ceviches de camaron y pulpo</strong> con limon y cilantro fresco, la <strong>paella marinera</strong> con productos del dia, los <strong>cocteles de camaron y jaiba</strong>, el <strong>pargo rojo frito con arroz con coco</strong> y las <strong>tostadas de atun con guacamole costeño</strong>. Las <strong>cervezas bien frias</strong> y los <strong>cocteles de ron con frutas tropicales</strong> son los companeros perfectos.</p>\n\n<p><strong>Ambiente:</strong> Vibrante, colorido y musical. La salsa y el merengue suenan toda la noche, hay barra de tragos con cocteleros creativos y la pista de baile nunca esta vacia. Es el lugar ideal para quienes quieren cenar rico y luego bailar hasta que el cuerpo aguante.</p>\n\n<p><strong>Como llegar:</strong> En zona central de Santa Marta, accesible desde el centro historico y la zona turistica de El Rodadero. El sector tiene vida nocturna activa y transporte disponible.</p>\n\n<p><em>Creditos de imagenes: Los Lemaitre / Agenda Colombia</em></p>",
+    "keywords": "Bazurto Social Club Santa Marta, mariscos Santa Marta, salsa Santa Marta, restaurante musica Santa Marta, ceviche Caribe, vida nocturna Santa Marta, cocteles tropicales, pargo rojo Santa Marta",
+    "address": "Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://lemaitre.com.co/wp-content/uploads/2024/04/Pescado-con-mariscos.jpg",
+      "https://www.travelhappinesscompany.nl/wp-content/uploads/2024/05/Santa-Marta-Colombia-Mariscos.png",
+      "https://agendacolombia.com/wp-content/uploads/2023/02/restaurante-mariscos-santa-marta.jpg"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐢 Playa El Almejal — Santuario de Tortugas y Selva Virgen",
+    "content": "<p>🎯 <strong>¿Por qué visitar El Almejal?</strong></p><p>La <strong>Playa El Almejal</strong> es una de las playas más hermosas y mejor conservadas de Bahía Solano 🐢. Con su arena oscura de origen volcánico y kilómetros de selva virgen que la custodian, es un destino líder en ecoturismo responsable, famoso por su proyecto de conservación de tortugas marinas.</p><p>🌊 <strong>Eco-Experiencia en el Pacífico</strong></p><p>Aquí la naturaleza dicta el ritmo. Podrás ser testigo de la liberación de tortuguitas golfinas que nacen en sus arenas, caminar por senderos que te llevan a cascadas escondidas en la selva o simplemente disfrutar del sonido de las olas chocando contra los acantilados. Es un lugar donde el lujo es la tranquilidad y el contacto directo con la vida salvaje.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐢 <strong>Liberación de Tortugas</strong>: Participa en los programas de conservación y liberación entre agosto y enero.</li><li>🥾 <strong>Caminatas Ecológicas</strong>: Explora la reserva natural privada que bordea la playa.</li><li>🐋 <strong>Ballenas a la Vista</strong>: Desde la misma playa, en temporada, es posible ver los soplos de las ballenas en el horizonte.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>De agosto a enero</strong>: Para vivir la experiencia de las tortugas.<br>📅 <strong>De julio a octubre</strong>: Para el avistamiento de ballenas jorobadas.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso a la playa es libre, pero se recomienda apoyar los proyectos de conservación locales.</li><li>🦟 <strong>Protección</strong>: El repelente es esencial, especialmente al amanecer y atardecer.</li><li>🧤 <strong>Ecología</strong>: Respeta los nidos de tortugas y sigue siempre las instrucciones de los guías.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en el corregimiento de <strong>El Valle</strong>, a unos 40 minutos en motocarro (tuk-tuk) desde el casco urbano de Bahía Solano.</p><p><em>📸 Créditos: almejal.com.co, aventurecolombia.com</em></p>",
+    "keywords": "Playa El Almejal, Bahia Solano, Choco, tortugas marinas, ecoturismo Colombia, selva pacifica, conservacion tortugas, turismo sostenible",
+    "address": "Playa El Almejal, El Valle, Bahía Solano, Chocó, Colombia",
+    "lat": 6.2300,
+    "lng": -77.4200,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://almejal.com.co/wp-content/uploads/2022/09/PLAYA-EL-ALMEJAL-scaled.jpg",
+      "https://aventurecolombia.com/wp-content/uploads/2021/03/que-faire-a-Bahia-Solano-playa-El-Almejal-@laure.jpg",
+      "https://playasencolombia.com/wp-content/uploads/2023/10/BAHIA-SOLANO🏝️-Choco-Colombia-🐳-Mas-que-solo-ver-ballenas-YouTube-1.webp"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🍛 Bandeja Paisa — El Festín Montañero de Antioquia",
+      "content": "La Bandeja Paisa es el plato más representativo de la región de Antioquia y el Eje Cafetero. Es un festín generoso que incluye frijoles, arroz, carne molida, chicharrón, huevo frito, tajada de plátano, chorizo, arepa y aguacate.",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bandeja_paisa_%285082434401%29.jpg"
+      ],
+      "status": "publish",
+      "category": [
+        28
+      ],
+      "id": 6394,
+      "link": "https://xueturismo.com/listado/%f0%9f%8d%9b-bandeja-paisa-el-festin-montanero-de-antioquia-3/"
+    }
+  }
+]

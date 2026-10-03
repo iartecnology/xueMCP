@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "💎 Balneario Pescaderito — Pozos de Cristal en Curití",
+    "content": "<p>🎯 <strong>¿Por qué visitar Pescaderito?</strong></p><p>El <strong>Balneario Pescaderito</strong> es el tesoro escondido de Curití 💎. Es un conjunto de pozos y piscinas naturales formados por las quebradas Ficaleña y Peña Negra, cuyas aguas cristalinas y frías invitan a un día de relajación absoluta en medio de la naturaleza santandereana.</p><p>🌊 <strong>Naturaleza en Estado Puro</strong></p><p>A diferencia de los balnearios comerciales, Pescaderito conserva su aire rústico y natural. Podrás saltar de pozo en pozo, cada uno con su propia profundidad y encanto, como el famoso 'Pozo del Amor'. Es el lugar ideal para el tradicional 'paseo de olla' o simplemente para disfrutar del sonido del agua y el canto de las aves.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🏊 <strong>Clavados</strong>: Pon a prueba tu valentía saltando en los pozos más profundos (siempre con precaución).</li><li>🚶 <strong>Caminata ecológica</strong>: Sigue el curso de la quebrada para encontrar los pozos menos concurridos.</li><li>🧶 <strong>Artesanías en Fique</strong>: Antes o después del baño, visita el pueblo de Curití para conocer su tradición tejedora.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Fines de semana</strong>: Es cuando hay más ambiente y puestos de comida local.<br>📅 <strong>Entre semana</strong>: Si buscas paz absoluta y tener los pozos casi para ti solo.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso es gratuito por ser zona pública natural.</li><li>🍲 <strong>Comida</strong>: Hay quioscos de comida típica, pero muchos visitantes llevan su propia merienda.</li><li>🗑️ <strong>Eco-tip</strong>: Por favor, lleva de vuelta toda tu basura. ¡Protege este paraíso!</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Desde la plaza principal de <strong>Curití</strong>, puedes tomar un mototaxi o caminar unos 15-20 minutos por una vía destapada que te lleva directamente al balneario.</p><p><em>📸 Créditos: travelersanddreamers.com, tripadvisor.co</em></p>",
+    "keywords": "Pescaderito, Curiti, pozos naturales, Santander, balneario natural, turismo naturaleza, quebrada Ficaleña, pozos de agua",
+    "address": "Curití, Santander, Colombia",
+    "lat": 6.6100,
+    "lng": -73.0716,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/15/fb/c4/9e/photo0jpg.jpg",
+      "https://travelersanddreamers.com/wp-content/uploads/2024/04/Day-trip-from-San-Gil-Pescaderito-Curiti-Colombia.jpg",
+      "https://www.sitiosturisticoscolombia.com/wp-content/uploads/balneario-pescaderito-curiti.jpg",
+      "https://i.ytimg.com/vi/r0ZQ1JnnKZE/maxresdefault.jpg"
+    ]
+  }
+}

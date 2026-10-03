@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🌅 Atardeceres y Cabalgatas — El Alma de la Ruta del Llano",
+    "content": "<p>🎯 <strong>¿Por qué vivir la experiencia de la Ruta del Llano?</strong></p><p>La <strong>Ruta del Llano</strong> es una invitación a descubrir la inmensidad del horizonte y la mística del campo colombiano 🌅. Nada se compara con cabalgar por la sabana infinita mientras el sol tiñe el cielo de naranjas y púrpuras, en un espectáculo que los llaneros llaman 'el beso del sol a la tierra'.</p><p>🐎 <strong>Tradición y Libertad</strong></p><p>A lomos de un caballo criollo, recorrerás esteros, palmares de moriche y praderas donde el ganado pasta libremente. Es la oportunidad perfecta para conocer el trabajo del llano, escuchar los cantos de vaquería (Patrimonio de la Humanidad) y sentir la paz que solo se encuentra en la inmensidad de la llanura. La jornada suele terminar en un parrando llanero con música de arpa, cuatro y maracas.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐎 <strong>Cabalgatas Guiadas</strong>: Recorre los senderos naturales de las haciendas llaneras tradicionales.</li><li>🌅 <strong>Avistamiento de Atardeceres</strong>: Fotografía los cielos más espectaculares de Colombia desde miradores estratégicos.</li><li>🎶 <strong>Cultura Llanera</strong>: Comparte con los 'baquianos' y aprende sobre sus leyendas, mitos y el arte de la vaquería.</li></ul><p>🕐 <strong>Mejor momento para la experiencia</strong></p><p>📅 <strong>Tardes (4 PM - 7 PM)</strong>: Es la hora mágica cuando la luz es perfecta y la temperatura es ideal para cabalgar.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🧥 <strong>Ropa</strong>: Pantalón largo (jean), botas o calzado cerrado y sombrero.</li><li>🧴 <strong>Protección</strong>: El sol del llano es fuerte; usa bloqueador solar.</li><li>🐎 <strong>Nivel</strong>: Hay rutas para todos los niveles, desde principiantes hasta jinetes experimentados.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Las principales haciendas turísticas se encuentran en las afueras de <strong>Villavicencio</strong> y en la ruta hacia <strong>Puerto López</strong> y <strong>Acacías</strong>.</p><p><em>📸 Créditos: llanotravel.com, llanotourscolombia.com</em></p>",
+    "keywords": "Ruta del Llano, Meta, atardecer llanero, cabalgatas Colombia, turismo rural, cultura llanera, Villavicencio, sabana infinita",
+    "address": "Ruta del Llano, Villavicencio, Meta, Colombia",
+    "lat": 4.1000,
+    "lng": -73.5000,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://llanotourscolombia.com/wp-content/uploads/2020/09/Cabalgata-atardecer.jpg",
+      "http://clientes.llanotravel.com/vistas/images/paquetes/cabalgata-atardecer-llanero/1.jpg",
+      "http://clientes.llanotravel.com/vistas/images/paquetes/cabalgata-atardecer-llanero/4.jpg"
+    ]
+  }
+}

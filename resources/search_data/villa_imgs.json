@@ -1,0 +1,40 @@
+🔍 Searching: "Casa Museo Antonio Nariño Villa de Leyva"
+📊 Results: 2
+
+✅ Got VQD token: 4-35023115239259128282692144478722543053 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://live.staticflickr.com/4252/34996906425_d5f687e3eb_b.jpg
+   Source: https://www.flickriver.com/photos/eliasroviello/34996906425/
+   Title: Casa Museo de Antonio Nariño, Villa de Leyva, Colômbia. - a photo on ...
+   Width: 1024 | Height: 768
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.pueblospatrimonio.com.co/images/atractivos/17/casa-museo-antonio-narino-1.jpg
+   Source: https://www.pueblospatrimonio.com.co/villa-de-leyva/atractivos/casa-museo-antonio-narino/
+   Title: Casa Museo Antonio Nariño, Villa de Leyva | Pueblos Patrimonio de Colombia
+   Width: 600 | Height: 450
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://live.staticflickr.com/4252/34996906425_d5f687e3eb_b.jpg",
+    "source_url": "https://www.flickriver.com/photos/eliasroviello/34996906425/",
+    "title": "Casa Museo de Antonio Nariño, Villa de Leyva, Colômbia. - a photo on ...",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "image_url": "https://www.pueblospatrimonio.com.co/images/atractivos/17/casa-museo-antonio-narino-1.jpg",
+    "source_url": "https://www.pueblospatrimonio.com.co/villa-de-leyva/atractivos/casa-museo-antonio-narino/",
+    "title": "Casa Museo Antonio Nariño, Villa de Leyva | Pueblos Patrimonio de Colombia",
+    "width": 600,
+    "height": 450
+  }
+]

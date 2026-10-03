@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "💧 PNN Chingaza — El Santuario del Agua y la Neblina",
+    "content": "<p>🎯 <strong>¿Por qué visitar Chingaza?</strong></p><p>El <strong>Parque Nacional Natural Chingaza</strong> es uno de los ecosistemas más vitales y hermosos de Colombia 💧. Ubicado en la cordillera oriental, este santuario de páramo y bosque alto andino es la principal fuente de agua para la capital del país, Bogotá, y un refugio de biodiversidad donde el venado cola blanca y el oso de anteojos habitan entre lagunas sagradas.</p><p>🌿 <strong>Mística y Naturaleza</strong></p><p>Caminar por Chingaza es sumergirse en un paisaje místico de neblina y silencio, salpicado por miles de frailejones y musgos que actúan como esponjas naturales de agua. Sus lagunas, como la de Siecha y Chingaza, tienen una profunda importancia histórica y cultural, habiendo sido sitios sagrados para los antiguos muiscas. Es el lugar perfecto para el ecoturismo contemplativo y el senderismo de bajo impacto.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🦌 <strong>Avistamiento de Venados</strong>: Observa de cerca a los venados cola blanca que suelen acercarse a los senderos y centros de visitantes.</li><li>💧 <strong>Lagunas de Siecha</strong>: Realiza la caminata hacia las tres lagunas sagradas en un entorno de páramo espectacular.</li><li>🌿 <strong>Sendero Suasie</strong>: Recorre un sendero interpretativo donde aprenderás sobre la flora y la importancia hídrica del parque.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Lunes a domingo</strong>: 8 AM - 4 PM (Requiere reserva previa obligatoria en la plataforma de Parques Nacionales).</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se debe pagar la entrada a Parques Nacionales y contar con una reserva previa ya que el cupo es limitado.</li><li>🧣 <strong>Ropa</strong>: Lleva ropa térmica e impermeable; el clima es muy frío y la lluvia es frecuente.</li><li>🥤 <strong>Residuos</strong>: Está prohibido el ingreso de plásticos de un solo uso; lleva tus propios termos reutilizables.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Los accesos principales están cerca de los municipios de <strong>La Calera, Fómeque y Guasca</strong>, a unas 2 horas de Bogotá por carretera de montaña.</p><p><em>📸 Créditos: colombiaespasion.com, parquesnacionales.gov.co</em></p>",
+    "keywords": "PNN Chingaza, La Calera, Guasca, paramo Colombia, venado cola blanca, lagunas de Siecha, fabrica de agua, ecoturismo Bogota, senderismo",
+    "address": "Parque Nacional Natural Chingaza, Cundinamarca, Colombia",
+    "lat": 4.4500,
+    "lng": -73.7167,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.colombiaespasion.com/wp-content/uploads/2023/10/AgenciaDeNoticias-20181221-01_05-1024x684.jpg",
+      "https://www.parquesnacionales.gov.co/wp-content/uploads/2024/12/2-Copia-de-Fotos-Chingaza-06-1.jpg",
+      "https://elturismoencolombia.com/wp-content/uploads/2022/12/chingaza-1.jpg"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Hacienda Junín Medellín - Comida Típica Antioqueña Campestre en el Centro Histórico",
+    "content": "<p><strong>Hacienda Junín</strong> es un restaurante ubicado en el <strong>corazón del centro histórico de Medellín</strong>, sobre la tradicional calle Junín. Un espacio que celebra la comida antioqueña con el sabor de las haciendas campestres, donde cada plato evoca los domingos en familia y las cocinas de leña del campo paisa.</p>
+
+<p><strong>Sabor de hacienda campestre</strong></p>
+
+<p>El concepto del restaurante transporta al comensal a una <strong>hacienda antioqueña tradicional</strong>: paredes de adobe, muebles de madera rústica, mantelería de tela y el aroma inconfundible de la comida recién preparada. La decoración incluye elementos del campo como sombreros, hamacas y fotografías de pueblos antioqueños que crean una atmósfera nostálgica y acogedora.</p>
+
+<p><strong>Platos que son patrimonio</strong></p>
+
+<p>La carta es un recorrido por la <strong>gastronomía de Antioquia</strong>: la bandeja paisa monumental, el mondongo espeso y sabroso, el sancocho de gallina criolla, la cazuela de mariscos con coco, los tamales antioqueños envueltos en hoja de plátano, y las sopas que curan cualquier mal. Cada plato viene servido en porciones generosas, al estilo paisa donde nadie se va con hambre.</p>
+
+<p><strong>Ubicación emblemática</strong></p>
+
+<p>Ubicado sobre la <strong>calle Junín</strong>, una de las arterias peatonales más tradicionales de Medellín, el restaurante ofrece una experiencia que combina gastronomía con inmersión cultural. Después de comer, se puede caminar por el centro, visitar el Parque Berrío, la Catedral Metropolitana o el Museo de Antioquia.</p>
+
+<p><strong>Cómo llegar</strong></p>
+
+<p>En plena calle Junín #52-98, centro de Medellín. Se llega fácilmente con el Metro: estación Parque Berrío. La zona es peatonal y muy transitada. Recomendado ir durante el día por la seguridad en el centro.</p>
+
+<p><em>Créditos de imágenes: restaurantguru.com, medellinguru.com - Imágenes referenciales de Hacienda Junín en Medellín.</em></p>",
+    "keywords": "Hacienda Junín Medellín, comida típica Antioquia campestre, restaurante centro Medellín, calle Junín restaurante, bandeja paisa centro Medellín, comida paisa tradicional, restaurante folclórico Antioquia",
+    "address": "Cra. 49 Junín #52-98, Centro, Medellín, Antioquia, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://img.restaurantguru.com/r977-Hacienda-Junin-interior.jpg",
+      "https://img.restaurantguru.com/cb4d-meals-Hacienda-Junin-1.jpg",
+      "https://medellinguru.com/wp-content/uploads/2019/01/Hacienda-El-Centro.jpg"
+    ]
+  }
+}

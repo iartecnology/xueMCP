@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Sapzurro Choco Colombia playa"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.sitiosturisticoscolombia.com/bahia-sapzurro-choco/&quot;,&quot;murl&quot;:&quot;https://www.sitiosturisticoscolombia.com/wp-content/uploads/sapzurro-colombia.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.sitiosturisticoscolombia.com/bahia-sapzurro-choco/&quot;,&quot;murl&quot;:&quot;https://www.sitiosturisticoscolombia.com/wp-content/uploads/playa-sapzurro.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://www.sitiosturisticoscolombia.com/bahia-sapzurro-choco/&quot;,&quot;murl&quot;:&quot;https://www.sitiosturisticoscolombia.com/wp-content/uploads/sapzurro-colombia.jpg"
+  },
+  {
+    "image_url": "https://www.sitiosturisticoscolombia.com/bahia-sapzurro-choco/&quot;,&quot;murl&quot;:&quot;https://www.sitiosturisticoscolombia.com/wp-content/uploads/playa-sapzurro.jpg"
+  }
+]

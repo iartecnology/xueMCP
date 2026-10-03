@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🌿 PNN Amacayacu — Inmersión en la Selva Amazónica",
+    "content": "<p>🎯 <strong>¿Por qué visitar el PNN Amacayacu?</strong></p><p>El <strong>Parque Nacional Natural Amacayacu</strong> es el santuario de biodiversidad más emblemático del Amazonas colombiano 🌿. Situado en el llamado 'Trapecio Amazónico', este parque es un laboratorio vivo donde la selva tropical alcanza su máxima exuberancia y complejidad.</p><p>🐒 <strong>Biodiversidad y Vida Indígena</strong></p><p>Hogar de más de 450 especies de aves, cientos de mamíferos y una flora increíble, Amacayacu ofrece una experiencia de inmersión total. Podrás recorrer senderos de selva inundable, observar monos en su hábitat natural y conocer la cultura de las comunidades Tikuna que habitan en armonía con este ecosistema. El parque es famoso por sus gigantescos árboles de ceiba y sus recorridos nocturnos donde la selva cobra una vida mágica y sonora.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐒 <strong>Observación de Fauna</strong>: Descubre al mono tití leoncito, el primate más pequeño del mundo.</li><li>🛶 <strong>Navegación por el Amacayacu</strong>: Recorre los estrechos canales del río rodeado de densa vegetación.</li><li>🌿 <strong>Intercambio Cultural</strong>: Comparte con la comunidad de Mocagua y aprende sobre sus tradiciones y proyectos de conservación.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Época de aguas altas (Mayo a Agosto)</strong>: Ideal para navegar por la selva inundada y ver la selva desde otra perspectiva.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se requiere el pago de una tasa de ingreso a Parques Nacionales.</li><li>🦟 <strong>Salud</strong>: Vacuna contra la fiebre amarilla obligatoria. Lleva mucho repelente.</li><li>🧥 <strong>Ropa</strong>: Usa ropa de manga larga transpirable y botas de caucho (indispensables en la selva).</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se llega en lancha rápida desde <strong>Leticia</strong> (aprox. 1.5 a 2 horas de trayecto río arriba). El acceso debe coordinarse con agencias o guías locales.</p><p><em>📸 Créditos: miviaje.com, colombiaespasion.com</em></p>",
+    "keywords": "PNN Amacayacu, Amazonas, Leticia, selva tropical, Tikuna, ecoturismo Colombia, fauna Amazonia, Mocagua, biodiversidad",
+    "address": "Parque Nacional Natural Amacayacu, Amazonas, Colombia",
+    "lat": -3.7833,
+    "lng": -70.2500,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://miviaje.com/wp-content/uploads/2018/09/parque-nacional-amacayacu-768x432.jpg",
+      "https://www.colombiaespasion.com/wp-content/uploads/2023/06/parque-nacional-amacayacu-el-rio-de-las-hamacas-850103-1024x555.jpg",
+      "https://4.bp.blogspot.com/-YEvUg-nm4Hs/WDdp0H8GWHI/AAAAAAAABfQ/_tNpxMqwCisNuroYID79rQc89aw637HngCLcB/s1600/P%2BN%2BAma%2Becoturismo.jpg"
+    ]
+  }
+}

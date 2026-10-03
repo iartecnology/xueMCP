@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "El Rancho Johnny Cay | Comida Isleña Frente al Mar, San Andres",
+    "content": "<p><strong>El Rancho Johnny Cay</strong> es un restaurante con vista al mar que sirve la autentica comida isleña de San Andres, inspirado en el emblematico cay de Johnny Cay —ese paraiso de arena blanca y aguas cristalinas que es simbolo del archipielago.</p>\n\n<p><strong>La inspiracion de Johnny Cay:</strong> Johnny Cay es uno de los cayos mas famosos de San Andres, un pequeno islote de arena blanca rodeado de aguas turquesas donde los isleños van a desconectarse del mundo. Este restaurante toma ese espiritu de libertad y belleza natural y lo convierte en una experiencia gastronomica donde la comida isleña se sirve con el mar Caribe como horizonte infinito.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>pescado frito con rice and beans</strong> es el clasico isleño por excelencia, la <strong>langosta al ajillo</strong> (en temporada) es un manjar del Caribe, el <strong>ceviche de camaron con limon isleño</strong> refresca los dias calurosos, el <strong>conch (caracol) en salsa de coco</strong> es una delicia exotica y el <strong>paté isleño</strong> —empanada de carne especiada— es el aperitivo perfecto. Las <strong>bebidas de coco natural</strong> y el <strong>ron con limonada</strong> son los companeros ideales.</p>\n\n<p><strong>Ambiente:</strong> Estilo rancho caribeno con techo de palma, mesas de madera y vista directa al mar. El ambiente es relajado, con los pies casi en la arena y la brisa marina como aire acondicionado natural. La musica de calipso y reggae isleño crea la banda sonora perfecta para una comida sin prisa.</p>\n\n<p><strong>Como llegar:</strong> En la zona costera de San Andres, con acceso facil desde la Avenida Colombia. Se recomienda ir al atardecer cuando el mar se pinta de dorado y naranja.</p>\n\n<p><em>Creditos de imagenes: Tren Turistico San Andres / TripAdvisor</em></p>",
+    "keywords": "El Rancho Johnny Cay, comida isleña San Andres, restaurante frente al mar San Andres, pescado frito rice and beans, langosta San Andres, caracol coco Caribe, calipso San Andres, cayo Johnny Cay",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://trensanandres.com/api/media/solo-johnny-cay2.png",
+      "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/07/63/93.jpg",
+      "https://trensanandres.com/api/media/solo-johnny-cay3.png"
+    ]
+  }
+}

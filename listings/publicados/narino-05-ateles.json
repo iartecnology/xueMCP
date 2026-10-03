@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐒 Reserva Natural de los Ateles — Refugio del Mono Araña",
+    "content": "<p>🎯 <strong>¿Por qué visitar la Reserva de los Ateles?</strong></p><p>La <strong>Reserva Natural de los Ateles</strong> es un santuario dedicado a la protección de uno de los primates más amenazados de Colombia: el Mono Araña (*Ateles hybridus*) 🐒. Ubicada en el piedemonte costero nariñense, esta reserva es un ejemplo vivo de conservación comunitaria y un paraíso para el avistamiento de fauna y flora en el bosque de niebla.</p><p>🌿 <strong>Biodiversidad y Conservación</strong></p><p>Caminar por la reserva es adentrarse en un bosque primario donde la vida palpita en cada rincón. Además de los monos araña, podrás observar una increíble variedad de aves endémicas, orquídeas exóticas y mariposas de colores imposibles. Es un destino ideal para el ecoturismo científico y para quienes buscan experiencias de naturaleza auténticas y con propósito.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐒 <strong>Avistamiento de Primates</strong>: Con suerte y paciencia, observa a los monos araña balanceándose entre los árboles de gran altura.</li><li>🐦 <strong>Birdwatching</strong>: La reserva es un 'hotspot' para observadores de aves que buscan especies del piedemonte pacífico.</li><li>🌲 <strong>Senderismo de Selva</strong>: Recorre senderos que atraviesan densos bosques y arroyos de agua cristalina.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Mañanas</strong>: Es cuando la fauna está más activa y hay mejores condiciones de visibilidad.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se requiere coordinación previa con los gestores de la reserva para visitas guiadas.</li><li>🧥 <strong>Ropa</strong>: Usa ropa de manga larga, pantalones resistentes y botas de caucho o senderismo.</li><li>🧴 <strong>Protección</strong>: Lleva repelente biodegradable y protector solar.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en la región de **Barbacoas / La Florida**, Nariño. El acceso requiere transporte 4x4 y suele coordinarse desde ciudades cercanas como Pasto o Tumaco.</p><p><em>📸 Créditos: canaltrece.com.co</em></p>",
+    "keywords": "Reserva Natural de los Ateles, Barbacoas Nariño, mono araña, conservacion, ecoturismo Colombia, fauna Nariño, bosque de niebla, avistamiento de aves",
+    "address": "Reserva Natural de los Ateles, Barbacoas, Nariño, Colombia",
+    "lat": 1.3433,
+    "lng": -78.1433,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://canaltrece.com.co/uploads/ck-uploads/2022/06/30/TUMACO-BARBACOAS-RESERVAS-NATURALES-13.JPG",
+      "https://canaltrece.com.co/uploads/ck-uploads/2022/06/30/TUMACO-BARBACOAS-RESERVAS-NATURALES-4.JPG",
+      "https://canaltrece.com.co/uploads/ck-uploads/2022/06/30/TUMACO-BARBACOAS-RESERVAS-NATURALES-1.JPG",
+      "https://canaltrece.com.co/uploads/ck-uploads/2022/06/30/TUMACO-BARBACOAS-RESERVAS-NATURALES-14.JPG"
+    ]
+  }
+}

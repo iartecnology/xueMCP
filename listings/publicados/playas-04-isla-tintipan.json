@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏝️ Isla Tintipán — Playas de Ensueño y Manglares Infinitos",
+    "content": "<p>🎯 <strong>¿Por qué visitar Isla Tintipán?</strong></p><p><strong>Isla Tintipán</strong> es la isla más grande del Archipiélago de San Bernardo y un tesoro de la biodiversidad caribeña 🏝️. Con sus playas extensas de arena blanca, sus densos bosques de manglar y sus aguas que cambian de turquesa a verde esmeralda, es el destino predilecto para los amantes del snorkel y la naturaleza virgen.</p><p>🌊 <strong>Naturaleza y Exploración</strong></p><p>A diferencia de otras islas, Tintipán se destaca por sus complejos sistemas de manglares que albergan una vida marina y aérea impresionante. Sus playas son amplias y tranquilas, ideales para quienes buscan privacidad. Es el lugar perfecto para recorrer en kayak, descubrir ensenadas ocultas y disfrutar de un almuerzo tradicional con los pies en la arena.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🚣 <strong>Kayak por Manglares</strong>: Navega por los canales naturales que serpentean a través de la isla.</li><li>🤿 <strong>Snorkel de Alta Calidad</strong>: Tintipán posee algunos de los mejores spots de snorkel de la región, con visibilidad increíble.</li><li>🏖️ <strong>Playas Privadas</strong>: Disfruta de la serenidad en los sectores de playa menos concurridos del archipiélago.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>De enero a marzo</strong>: Cuando las brisas marinas mantienen el clima fresco y las aguas están en su punto máximo de claridad.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: No hay costo de entrada a la isla, pero el acceso a algunas playas privadas puede estar restringido.</li><li>🦟 <strong>Salud</strong>: Al haber tantos manglares, el repelente de insectos es obligatorio para evitar picaduras.</li><li>🧴 <strong>Protección</strong>: El sol se refleja con fuerza en la arena blanca; usa protección constante.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se accede en lancha rápida desde <strong>Tolú</strong> (aprox. 50 minutos) o desde <strong>Cartagena</strong> (2 horas). Muchas lanchas hacen el recorrido combinado con Isla Múcura.</p><p><em>📸 Créditos: colombiatours.travel, tripadvisor.com</em></p>",
+    "keywords": "Isla Tintipan, San Bernardo, Caribe colombiano, manglares, snorkel Colombia, playa virgen, turismo naturaleza, vacaciones Caribe",
+    "address": "Isla Tintipán, Archipiélago de San Bernardo, Bolívar, Colombia",
+    "lat": 9.7969,
+    "lng": -75.8453,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://i.pinimg.com/originals/67/4b/9a/674b9a7307e26fe2d9e34f74e70688f0.jpg",
+      "https://i.pinimg.com/originals/02/2e/54/022e5447aba4c39d992d1169d132719a.jpg",
+      "https://colombiatours.travel/wp-content/uploads/2024/12/6b30c707-81d0-463b-8c6f-e85152e32dcb.jpeg"
+    ]
+  }
+}

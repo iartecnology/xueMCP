@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Umu | Cocina Japonesa-Colombiana, Cali",
+    "content": "<p><strong>Umu</strong> es donde el Pacifico colombiano se encuentra con el Oceano Pacifico japones: un restaurante de fusion nikkei que une la precision de la cocina japonesa con la riqueza de ingredientes del Pacifico y Valle del Cauca.</p>\n\n<p><strong>El nombre y la filosofia:</strong> Umu evoca la sutileza y profundidad de la cocina japonesa. La filosofia del restaurante se basa en el respeto por el producto: pescados frescos del Pacifico colombiano, vegetales organicos de la region y tecnicas japonesas de corte, coccion y presentacion que transforman cada plato en una experiencia minimalista pero intensa.</p>\n\n<p><strong>Platos estrella:</strong> Los <strong>rolls de autor con frutas tropicales colombianas</strong> como el lulo y la guanabana, el <strong>ceviche nikkei con aji amarillo y limon</strong>, el <strong>ramen de cerdo con especias colombianas</strong>, los <strong>gyozas rellenos de carne desmechada caleña</strong> y el <strong>tempura de camaron con salsa de mango</strong>. El <strong>matcha cheesecake con maracuya</strong> cierra una experiencia que no existe en ningun otro lugar de Cali.</p>\n\n<p><strong>Ambiente:</strong> Minimalista y zen, con madera clara, iluminacion tenue y un sushi bar donde se puede ver a los chefs trabajar con precision milimetrica. La musica ambiental es suave —jazz japones y sonidos electronicos— creando una atmosfera de calma y concentracion en la comida.</p>\n\n<p><strong>Como llegar:</strong> En zona norte de Cali, accesible desde los barrios mas exclusivos. Reservacion recomendada por la alta demanda.</p>\n\n<p><em>Creditos de imagenes: Restaurant Guru / El Pais Cali</em></p>",
+    "keywords": "Umu Cali, restaurante japones Cali, cocina nikkei Cali, sushi Cali, fusion japonesa colombiana, ramen Cali, restaurante asiatico Cali, gastronomia japonesa Valle del Cauca",
+    "address": "Zona Norte, Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://img.restaurantguru.com/c523-Restaurant-FUKKATSU-COMIDA-FUSION-PERUANA-JAPONESA-food.jpg",
+      "https://img.freepik.com/fotos-premium/plato-comida-fusion-peruana-japonesa-ceviches-estofado-pan-bao-langostinos-salteados-fideos-udon-langostinos-sushi-uramaki-california-roll-varios-tipos-sabores_449839-16470.jpg?w=1380",
+      "https://www.elpais.com.co/resizer/v2/YRXXZX7T5VC2LISLQTKIEIIRVQ.jpg?auth=e14cb58bd2d66018c0a72fac694447d392bdc9c14b08d82099bd4fdc16931ec6&smart=true&quality=75&width=1280&fitfill=false"
+    ]
+  }
+}

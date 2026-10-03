@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "El Porton Tradicional | Comida Tradicional del Valle, Cali",
+    "content": "<p><strong>El Porton Tradicional</strong> es ese restaurante donde la abuela seguiria sintiendose orgullosa. Aqui las recetas del Valle del Cauca se preparan con la misma dedicacion de siempre: fuego lento, ingredientes frescos y el carino de quien cocina para su familia.</p>\n\n<p><strong>Historia y filosofia:</strong> El nombre viene del porton de madera que marca la entrada, simbolizando la bienvenida a un hogar. Desde su fundacion, el restaurante se propuso preservar las recetas que las nuevas generaciones estaban olvidando, aquellas que cuentan la historia de una region a traves de sus sabores.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>arroz con pollo al estilo caleño</strong> con su color caracteristico y su sabor inconfundible, la <strong>carne en polvo</strong> —plato emblematico de la cocina valluna—, el <strong>champus</strong> como bebida tradicional y los <strong>aborrajados</strong> de postre. No pueden faltar las <strong>empanadas de pipian</strong> con su salsa de mani y especias, ni el <strong>tamal tolimense</strong> envuelto en hojas de platano.</p>\n\n<p><strong>Ambiente:</strong> Decoracion rustica con mesas de madera, paredes decoradas con objetos tradicionales y musica de fondo que va desde boleros hasta salsa suave. El ambiente es familiar, calido y sin pretensiones. Aqui se viene a comer bien, sin protocolos.</p>\n\n<p><strong>Como llegar:</strong> Ubicado en una zona accesible de Cali, con facil acceso desde el centro y los barrios del norte. Cuenta con zona de parqueo para los comensales.</p>\n\n<p><em>Creditos de imagenes: TripAdvisor / Restaurant Guru</em></p>",
+    "keywords": "El Porton Tradicional Cali, comida tradicional Cali, cocina valluna, recetas Valle del Cauca, restaurante familiar Cali, arroz con pollo caleño, gastronomia tradicional Colombia, restaurante tipico Cali",
+    "address": "Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f6/58/d0/porton-tradicional-estamos.jpg?w=900&h=500&s=1",
+      "https://img.restaurantguru.com/r444-design-El-Porton-tradicional.jpg",
+      "https://img.restaurantguru.com/r966-meals-El-Porton-tradicional.jpg"
+    ]
+  }
+}

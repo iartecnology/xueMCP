@@ -1,0 +1,21 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🏔️ Termales del Ruiz — Baño de Altura bajo el Volcán",
+      "content": "<p>🎯 <strong>¿Por qué visitar los Termales del Ruiz?</strong></p><p>Los <strong>Termales del Ruiz</strong> ofrecen una experiencia única de alta montaña a más de 3.500 metros sobre el nivel del mar 🏔️. Ubicados en las faldas del Volcán Nevado del Ruiz, estos termales permiten relajarse en aguas calientes mientras se contempla el paisaje de páramo y, con suerte, el vuelo del Cóndor de los Andes.</p><p>🌫️ <strong>Páramo y Vapor</strong></p><p>Es el lugar ideal para los amantes del frío y la montaña. Las piscinas están diseñadas para ofrecer una vista infinita de las nubes y los picos volcánicos. La vegetación de frailejones y el aire puro hacen que cada minuto aquí sea una terapia de desintoxicación para el alma.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🔭 <strong>Observación de Aves</strong>: El hotel es famoso por sus comederos de colibríes, donde puedes ver especies altoandinas a pocos centímetros.</li><li>🧖‍♂️ <strong>Relajación Volcánica</strong>: Aguas ricas en azufre y minerales directamente del corazón del volcán.</li><li>🌌 <strong>Noche de Estrellas</strong>: Debido a la altitud y la falta de luces, el cielo nocturno es impresionante.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Al amanecer</strong>: Para ver el despertar del páramo y evitar la neblina densa de la tarde.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🧤 <strong>Abrigo Extremo</strong>: Lleva ropa para temperaturas cercanas a los 0°C al salir del agua.</li><li>🫁 <strong>Mal de Altura</strong>: Sube despacio y mantente hidratado para evitar el soroche.</li><li>🚗 <strong>Vehículo</strong>: Se recomienda ir en un vehículo con buena potencia debido a la empinada subida desde Manizales.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se accede por la vía que conduce de Manizales al Parque Nacional Natural Los Nevados.</p><p><em>📸 Créditos: hoteltermalesdelruiz.com, manizales.gov.co</em></p>",
+      "address": "Termales del Ruiz, Manizales, Caldas, Colombia",
+      "lat": 4.9755,
+      "lng": -75.3333,
+      "keywords": "Termales del Ruiz, Manizales, Nevado del Ruiz, aguas termales volcanicas, turismo alta montaña, colibries Colombia, paramo",
+      "category": "servicios",
+      "status": "publish",
+      "image_urls": [
+        "https://hoteltermalesdelruiz.com/wp-content/uploads/2019/10/termales-del-ruiz-piscina.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/3e/1c/3e/piscina.jpg"
+      ],
+      "id": 6355,
+      "link": "https://xueturismo.com/listado/%f0%9f%8f%94%ef%b8%8f-termales-del-ruiz-bano-de-altura-bajo-el-volcan-2/"
+    }
+  }
+]

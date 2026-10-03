@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Masa | Cocina Costera con Productos Locales, Santa Marta",
+    "content": "<p><strong>Masa</strong> es un restaurante en Santa Marta que celebra la cocina costera colombiana usando exclusivamente productos locales del Caribe y la Sierra Nevada. Aqui cada plato cuenta la historia del mar, la tierra y las comunidades que viven de ambos.</p>\n\n<p><strong>Filosofia costera:</strong> El nombre Masa refleja la base de toda buena cocina: la materia prima. El equipo trabaja directamente con pescadores artesanales de Taganga y El Rodadero, con campesinos de la Sierra Nevada y con productores de las comunidades Kogui y Wiwa. El resultado es una carta que cambia todos los dias segun lo que ofrece el mar y la tierra.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>ceviche de mojarra con leche de tigre caribena</strong>, el <strong>arroz con coco y camaraones del Caribe</strong>, el <strong>pescado frito con patacon y ensalada de mango</strong>, la <strong>sopa de pescado con yuca y ñame</strong> y el <strong>encocado de jaiba</strong> con especias locales. Las bebidas incluyen <strong>limonada de coco</strong> y <strong>jugos de frutas de la Sierra Nevada</strong> como la guanabana y el corozo.</p>\n\n<p><strong>Ambiente:</strong> El espacio combina lo rustico con lo contemporaneo, con madera reciclada, telas artesanales y una decoracion que evoca la vida costera. Es un lugar donde se come con calma, viendo el movimiento de la cocina abierta y sintiendo la brisa del Caribe.</p>\n\n<p><strong>Como llegar:</strong> En el centro historico de Santa Marta, cerca de la Catedral y la Avenida El Libertador. Se llega caminando desde la mayoria de hoteles del centro o en taxi corto desde El Rodadero.</p>\n\n<p><em>Creditos de imagenes: El Tiempo Blog / Reservandonos</em></p>",
+    "keywords": "Masa Santa Marta, cocina costera Santa Marta, restaurante mariscos Santa Marta, productos locales Sierra Nevada, ceviche Santa Marta, comida caribena Colombia, donde comer Santa Marta, gastronomia costera Magdalena",
+    "address": "Centro Historico, Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "http://blogs.eltiempo.com/para-donde-va/wp-content/uploads/sites/371/2023/03/1678811383292.jpg",
+      "https://reservandonos-cdn.s3-us-west-2.amazonaws.com/place/5774/gallery/tomaza-santa-marta-con-reservandonos-1.jpeg",
+      "https://vegetarianosdecolombia.com/wp-content/uploads/2025/08/santa-marta.webp"
+    ]
+  }
+}

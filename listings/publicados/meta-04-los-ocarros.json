@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐆 Bioparque Los Ocarros — Fauna y Flora de la Orinoquía",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Bioparque Los Ocarros?</strong></p><p>El <strong>Bioparque Los Ocarros</strong> es un lugar único en Colombia, dedicado exclusivamente a la preservación y exhibición de la fauna y flora de la región de la Orinoquía 🐆. Es el hogar del Ocarro (armadillo gigante), símbolo del parque, y de cientos de especies que habitan las sabanas y selvas del llano.</p><p>🌿 <strong>Biodiversidad Regional</strong></p><p>A través de un recorrido rodeado de vegetación nativa y un hermoso lago central, podrás conocer de cerca al jaguar, la anaconda, el chigüiro y una increíble variedad de aves y primates. El bioparque no es solo un lugar de exhibición, sino un centro de investigación y rehabilitación de especies silvestres, lo que hace que cada visita apoye la conservación del ecosistema llanero.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐾 <strong>Encuentro con el Ocarro</strong>: Conoce al armadillo gigante, una de las especies más raras y emblemáticas del llano.</li><li>🐊 <strong>Aviario y Serpentario</strong>: Descubre la riqueza de reptiles y aves coloridas que habitan la región.</li><li>🚶 <strong>Caminata por el Sendero</strong>: Disfruta de un paseo sombreado y fresco mientras aprendes sobre la flora nativa.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Todos los días</strong>: 9 AM - 4 PM</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Aproximadamente 15.000 COP - 20.000 COP.</li><li>🧴 <strong>Protección</strong>: Lleva repelente de insectos y bloqueador solar.</li><li>🚶 <strong>Duración</strong>: El recorrido toma aproximadamente 2 horas a un ritmo tranquilo.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a solo 3 kilómetros de <strong>Villavicencio</strong>, en la vía que conduce al municipio de Restrepo. Se puede llegar fácilmente en taxi o transporte público local.</p><p><em>📸 Créditos: viveelmeta.com, periodicodelmeta.com</em></p>",
+    "keywords": "Bioparque Los Ocarros, Villavicencio, Meta, fauna Orinoquia, armadillo gigante, turismo familiar Meta, jaguar Colombia, conservacion llanera",
+    "address": "Kilómetro 3 Vía Restrepo, Villavicencio, Meta, Colombia",
+    "lat": 4.2250,
+    "lng": -73.5933,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.viveelmeta.com/wp-content/uploads/2021/09/reabre-bioparque-los-ocarros-4520-1000x600.jpg",
+      "https://periodicodelmeta.com/wp-content/uploads/2020/05/Ocarros-e1539277385351-768x433-1.jpg",
+      "https://razonpublica.com/wp-content/uploads/2017/06/Ocarros_01.jpg"
+    ]
+  }
+}

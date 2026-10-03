@@ -1,0 +1,40 @@
+🔍 Searching: "Playa Cristal Tayrona Santa Marta"
+📊 Results: 2
+
+✅ Got VQD token: 4-197721915739284365967166666548368983220 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://tourcartagenaa.com/wp-content/uploads/2024/02/PORTADA-PGW-2-1024x819.jpg
+   Source: https://tourcartagenaa.com/producto/playa-cristal-parque-tayrona-santa-marta/
+   Title: Playa Cristal, Parque Tayrona, Santa Marta | Tour Cartagena
+   Width: 1024 | Height: 819
+====================================================================================================
+
+📸 Image 2:
+   URL: https://poporotours.com/wp-content/uploads/2022/04/playa.jpg
+   Source: https://poporotours.com/tour/playa-cristal-santa-marta/
+   Title: Tour Playa Cristal Santa Marta | Parque Tayrona
+   Width: 1200 | Height: 800
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://tourcartagenaa.com/wp-content/uploads/2024/02/PORTADA-PGW-2-1024x819.jpg",
+    "source_url": "https://tourcartagenaa.com/producto/playa-cristal-parque-tayrona-santa-marta/",
+    "title": "Playa Cristal, Parque Tayrona, Santa Marta | Tour Cartagena",
+    "width": 1024,
+    "height": 819
+  },
+  {
+    "image_url": "https://poporotours.com/wp-content/uploads/2022/04/playa.jpg",
+    "source_url": "https://poporotours.com/tour/playa-cristal-santa-marta/",
+    "title": "Tour Playa Cristal Santa Marta | Parque Tayrona",
+    "width": 1200,
+    "height": 800
+  }
+]

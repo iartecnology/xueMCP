@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Hoyo Largo | Pescado Fresco del Dia, San Andres",
+    "content": "<p><strong>Hoyo Largo</strong> es un restaurante en San Andres donde el menu lo decide el mar cada mañana. Especializado en pescado fresco del dia, es el lugar donde los pescadores locales traen su captura y la cocina la transforma en platos que saben a oceano puro.</p>\n\n<p><strong>La filosofia del pescado del dia:</strong> En Hoyo Largo no hay carta fija: hay lo que el mar ofrecio esa mañana. Esta filosofia garantiza que cada plato lleva el producto mas fresco posible y conecta al comensal con los ritmos naturales del oceano. Los pescadores de la isla —muchos de ellos raizales con generaciones en el oficio— llegan con su captura y el chef decide como prepararla para que brille en todo su potencial.</p>\n\n<p><strong>Platos estrella:</strong> Depende de la captura del dia, pero los habituales incluyen <strong>pargo rojo a la parrilla con arroz con coco</strong>, <strong>mero frito con ensalada tropical</strong>, <strong>atun sellado con salsa de maracuya</strong>, <strong>caldo de pescado con yuca y cilantro</strong> y <strong>ceviche de sierra con limon y cilantro</strong>. Cuando hay <strong>langosta en temporada</strong>, se prepara a la parrilla con mantequilla de hierbas. El <strong>caracol guisado</strong> es una rareza que pocos restaurantes ofrecen.</p>\n\n<p><strong>Ambiente:</strong> Sencillo y autentico, como comer en la casa de un pescador. Mesas rusticas, ventiladores de techo y la cocina a la vista donde se puede ver como preparan el pescado. El ambiente es informal y la conversacion con los cocineros y pescadores es parte de la experiencia. Aqui se viene por la frescura, no por la decoracion.</p>\n\n<p><strong>Como llegar:</strong> En zona pesquera de San Andres, cerca al muelle. Se recomienda ir temprano, cuando el pescado del dia esta mas fresco y la oferta es mas variada.</p>\n\n<p><em>Creditos de imagenes: Sea Avenue Hotel / Agenda Colombia</em></p>",
+    "keywords": "Hoyo Largo San Andres, pescado fresco del dia San Andres, pargo rojo parrilla Caribe, restaurante pesquero San Andres, langosta temporada San Andres, caracol guisado Caribe, pesca artesanal San Andres, donde comer pescado fresco isleño",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.restaurantealinea.com/wp-content/uploads/2023/03/11.jpeg",
+      "https://irp.cdn-website.com/d9e1b1d4/dms3rep/multi/SEA-AVENUE-48.jpg",
+      "https://www.pantallazosnoticias.com.co/wp-content/uploads/2022/10/El-Paladar-Viajero-San-Andres-Restaurante-Peru-Wok-1-scaled-e1667213393552-1024x908.jpeg"
+    ]
+  }
+}

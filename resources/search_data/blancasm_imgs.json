@@ -1,0 +1,40 @@
+🔍 Searching: "Playa Blanca Santa Marta"
+📊 Results: 2
+
+✅ Got VQD token: 4-312899252055468976711262327731125167971 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://fantasytours.com.co/wp-content/uploads/2022/08/5PH4TR2TWBD5DARSYQWUQKH6BY.jpg
+   Source: https://medellintravel.com.co/playa-blanca-una-de-las-mejores-playas-en-santa-marta/
+   Title: Playa Blanca, una de las mejores playas en Santa Marta
+   Width: 1999 | Height: 1124
+====================================================================================================
+
+📸 Image 2:
+   URL: https://fantasytours.com.co/wp-content/uploads/2022/08/10-1.jpeg
+   Source: https://fantasytours.com.co/playa-blanca-una-de-las-mejores-playas-en-santa-marta/
+   Title: Playa Blanca, una de las mejores playas en Santa Marta | fantasytours s ...
+   Width: 1600 | Height: 1200
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://fantasytours.com.co/wp-content/uploads/2022/08/5PH4TR2TWBD5DARSYQWUQKH6BY.jpg",
+    "source_url": "https://medellintravel.com.co/playa-blanca-una-de-las-mejores-playas-en-santa-marta/",
+    "title": "Playa Blanca, una de las mejores playas en Santa Marta",
+    "width": 1999,
+    "height": 1124
+  },
+  {
+    "image_url": "https://fantasytours.com.co/wp-content/uploads/2022/08/10-1.jpeg",
+    "source_url": "https://fantasytours.com.co/playa-blanca-una-de-las-mejores-playas-en-santa-marta/",
+    "title": "Playa Blanca, una de las mejores playas en Santa Marta | fantasytours s ...",
+    "width": 1600,
+    "height": 1200
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Jardín — Pueblo Patrimonio de Antioquia, Colombia",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Jardín es considerado por muchos como el pueblo más bonito de Antioquia 🌸. Sus casas coloridas, balcones florecidos y su plaza principal, que parece detenida en el tiempo, ofrecen una atmósfera mágica. Es el destino ideal para los amantes del café, la naturaleza y la arquitectura colonial auténtica.</p><p>📜 <strong>Historia</strong></p><p>Fundado en 1863, Jardín conserva casi intacta su arquitectura colonial y republicana. Fue declarado Pueblo Patrimonio de Colombia debido a su alto grado de conservación y su importancia cultural en la región cafetera antioqueña.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>⛪ <strong>Basílica Menor de la Inmaculada Concepción:</strong> Una impresionante iglesia de estilo neogótico construida en piedra labrada.</li><li>🐦 <strong>Avistamiento del Gallito de Roca:</strong> En la Reserva Natural Jardín de Rocas se puede observar esta exótica ave en su estado natural.</li><li>☕ <strong>Tour del Café:</strong> Visita fincas cafeteras locales para aprender sobre el proceso del grano y degustar el mejor café de altura.</li><li>🚠 <strong>Teleférico La Garrucha:</strong> Un medio de transporte tradicional que ofrece las mejores vistas panorámicas del pueblo.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>👟 Lleva calzado cómodo para caminar por sus calles empedradas.</li><li>🧥 La temperatura es agradable, pero puede refrescar en la noche (promedio 19°C).</li><li>📸 No te vayas sin tomarte una foto en las icónicas sillas de colores de la plaza principal.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a unas 3 o 4 horas de Medellín en autobús o vehículo particular, cruzando hermosos paisajes de montaña.</p><p><em>📸 Créditos: mimundoporelmundo.com.ar, sitiosturisticoscolombia.com</em></p>",
+      "keywords": "Jardín Antioquia, pueblo patrimonio, gallito de roca, arquitectura colonial, café colombiano, turismo Antioquia",
+      "address": "Jardín, Antioquia, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://mimundoporelmundo.com.ar/wp-content/uploads/como-es-el-municipio-de-jardin-antioquia.webp",
+        "https://www.sitiosturisticoscolombia.com/wp-content/uploads/pueblo-jardin-antioquia.jpg",
+        "https://www.sitiosturisticoscolombia.com/wp-content/uploads/iglesia-jardin-antioquia.jpg",
+        "https://www.triviantes.com/wp-content/uploads/2021/03/parque-jardin-antioquia-1200x900.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Santa Rosa de Cabal — Termales y Cascada, Risaralda",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Santa Rosa de Cabal es famoso mundialmente por sus aguas termales curativas y sus espectaculares cascadas de agua fría 💧. Es el lugar perfecto para relajarse en medio de la naturaleza del Eje Cafetero y disfrutar de uno de los paisajes más relajantes de Colombia.</p><p>📜 <strong>Historia</strong></p><p>Conocida como la 'Ciudad de las Araucarias', Santa Rosa de Cabal fue fundada en 1844. Se ha convertido en un centro turístico clave gracias al descubrimiento y aprovechamiento de sus fuentes termales naturales que brotan directamente de la tierra.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>♨️ <strong>Termales Santa Rosa de Cabal:</strong> Un balneario con piscinas de agua termal y una caída de agua fría de 95 metros de altura.</li><li>🌲 <strong>Termales San Vicente:</strong> Una experiencia más natural y selvática con múltiples piscinas y senderos ecológicos.</li><li>🌭 <strong>Probar el Chorizo Santarrosano:</strong> Es el producto gastronómico insignia de la ciudad, reconocido con Récord Guinness.</li><li>🚶 <strong>Caminatas Ecológicas:</strong> Recorridos por el bosque de niebla y avistamiento de aves de la región.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>🏊 Lleva traje de baño, toalla y sandalias.</li><li>🧥 El clima es de montaña, así que lleva ropa abrigada para después de salir del agua.</li><li>🗓️ Evita los fines de semana festivos si prefieres un ambiente más tranquilo y menos concurrido.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Ubicada a solo 30 minutos de Pereira y 45 minutos de Manizales. Hay transporte constante desde ambas ciudades.</p><p><em>📸 Créditos: civitatis.com, roamandthrive.com, flickr.com</em></p>",
+      "keywords": "Santa Rosa de Cabal, termales, cascada, Risaralda, relax, chorizo santarrosano, Eje Cafetero",
+      "address": "Santa Rosa de Cabal, Risaralda, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://c2.staticflickr.com/4/3420/3701851079_08223fb722_b.jpg",
+        "https://www.civitatis.com/f/colombia/armenia/galeria/cascada-santa-rosa-cabal.jpg",
+        "https://roamandthrive.com/wp-content/uploads/2022/04/DSC08847.jpg",
+        "https://fincaspanacah10.com/wp-content/uploads/2023/01/CASCADA.png"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Zipaquirá — Catedral de Sal de Colombia",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>La Catedral de Sal de Zipaquirá es considerada la 'Primera Maravilla de Colombia' ⛪💎. Es una joya arquitectónica construida a 180 metros bajo tierra dentro de una mina de sal. Un lugar que combina fe, arte y minería en un entorno subterráneo impresionante.</p><p>📜 <strong>Historia</strong></p><p>Los antiguos muiscas ya explotaban la sal en esta zona. La catedral actual fue inaugurada en 1995, reemplazando a una anterior que presentaba fallas estructurales. Fue tallada completamente a mano por mineros y escultores colombianos.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🕯️ <strong>Vía Crucis:</strong> Un recorrido de 14 estaciones talladas en roca de sal que representan el camino de Jesús.</li><li>✝️ <strong>La Gran Cúpula y la Cruz Central:</strong> La cruz bajo tierra más grande del mundo, iluminada con tecnología LED.</li><li>🌊 <strong>Espejo de Agua:</strong> Un efecto óptico fascinante donde el agua en calma refleja perfectamente las paredes de sal.</li><li>🎥 <strong>Show de Luces y Sonido:</strong> Una proyección mapping que cuenta la historia de la mina y la catedral.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>🧥 La temperatura interna es constante (14°C), se recomienda llevar una chaqueta ligera.</li><li>👟 Usa zapatos cerrados y cómodos, ya que caminarás bastante.</li><li>🎧 El tour con audioguía es excelente para entender los detalles técnicos y espirituales.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Zipaquirá está a 1 hora al norte de Bogotá. Se puede llegar en bus intermunicipal, carro particular o en el Tren Turístico de la Sabana.</p><p><em>📸 Créditos: images.rove.me, img.lalr.co, alamy.com, colombiatours.travel</em></p>",
+      "keywords": "Zipaquirá, Catedral de Sal, Cundinamarca, maravilla de Colombia, turismo subterráneo, mina de sal",
+      "address": "Zipaquirá, Cundinamarca, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://images.rove.me/w_1920,q_85/zz7z1okurklulghf54e6/colombia-salt-cathedral-of-zipaquira.jpg",
+        "https://img.lalr.co/cms/2023/07/18071754/Espejo-de-Agua-1....jpg",
+        "https://c8.alamy.com/comp/D8XADN/catedral-de-sal-the-salt-cathedral-zipaquira-near-bogota-colombia-D8XADN.jpg",
+        "https://colombiatours.travel/wp-content/uploads/2019/08/Bogota-Zipaquira-Iglesia-de-Sal.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Salamina — Pueblo Patrimonio de Caldas, Ciudad Luz",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Salamina es una joya arquitectónica del Eje Cafetero, conocida como la 'Ciudad Luz' de Colombia 🕯️. Sus casas de bahareque con balcones tallados en madera y coloridas fachadas representan lo mejor de la colonización antioqueña. Es un destino de paz, cultura y paisajes cafeteros infinitos.</p><p>📜 <strong>Historia</strong></p><p>Fundada en 1825, Salamina fue cuna de importantes poetas y músicos colombianos. Fue declarada Monumento Nacional en 1982 y forma parte de la Red de Pueblos Patrimonio de Colombia por su excepcional trazado urbano y conservación arquitectónica.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>⛲ <strong>Pila de la Plaza de Bolívar:</strong> Una fuente de agua traída desde París, considerada una de las más bellas de América Latina.</li><li>⛪ <strong>Basílica Menor de la Inmaculada Concepción:</strong> Destaca por su interior en madera tallada y su elegante fachada.</li><li>🌴 <strong>Bosque de Palmas de Cera La Samaria:</strong> Una alternativa menos concurrida al Valle de Cocora para ver el árbol nacional.</li><li>🎨 <strong>Casa del Degüello:</strong> Un lugar lleno de historia y leyendas locales.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>🥧 Prueba la 'Macana', un postre tradicional a base de galleta, leche y canela.</li><li>📸 Recorre la Calle Real para apreciar los mejores detalles de la ebanistería local.</li><li>🚕 Puedes tomar un Jeep Willys para ir al bosque de palmas de cera.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a unas 2.5 horas al norte de Manizales por una carretera serpenteante con vistas espectaculares.</p><p><em>📸 Créditos: blog.redbus.co, semana.com, vecteezy.com</em></p>",
+      "keywords": "Salamina Caldas, pueblo patrimonio, arquitectura de colonización, ciudad luz, Eje Cafetero, palmas de cera",
+      "address": "Salamina, Caldas, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://blog.redbus.co/wp-content/uploads/2018/09/salamina-caldas-pueblo-patrimonio-de-colombia.jpg",
+        "https://i.pinimg.com/736x/f3/a2/5f/f3a25fbb51e715e0fd0ea93f77e75c40.jpg",
+        "https://www.semana.com/resizer/v2/B4RT7JUSFZD2RO3U5J7QLP223Y.jpg",
+        "https://static.vecteezy.com/system/resources/previews/042/969/728/large_2x/view-of-the-beautiful-heritage-town-of-salamina-located-at-the-department-of-caldas-in-colombia-photo.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Aguadas — Sombrero Aguadeño y Patrimonio de Caldas",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Aguadas es la tierra del famoso sombrero aguadeño y del Festival Nacional del Pasillo 🎩🎶. Este Pueblo Patrimonio es un balcón hacia los Andes donde la cultura campesina y las tradiciones artesanales siguen vivas en cada esquina.</p><p>📜 <strong>Historia</strong></p><p>Fundada en 1808, Aguadas es conocida como la 'Ciudad de las Brumas' por la niebla que suele cubrir sus montañas. Su historia está ligada a la palma de iraca, materia prima con la que las tejedoras locales crean sombreros de fama internacional.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🧶 <strong>Museo del Sombrero:</strong> Conoce la técnica ancestral del tejido en palma de iraca y la colección de sombreros de todo el mundo.</li><li>⛪ <strong>Templo de la Inmaculada Concepción:</strong> Una imponente iglesia que domina el paisaje del pueblo.</li><li>🗿 <strong>Cerro de Monserrate:</strong> Un mirador natural desde donde se divisan varios municipios de Caldas y Antioquia.</li><li>🚶 <strong>Calle de los Faroles:</strong> Una de las calles más pintorescas y fotografiadas del municipio.</li></ul><p>💡 <strong>Tips para tu visita</strong></p><ul><li>🎩 Compra un auténtico sombrero aguadeño directamente a las artesanas.</li><li>🎶 Visita durante el Festival Nacional del Pasillo (agosto) para vivir la cultura musical al máximo.</li><li>🧥 Lleva ropa para clima frío/templado, ya que la temperatura suele bajar por la niebla.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Está ubicada a unas 3.5 a 4 horas de Manizales o Medellín. El trayecto es montañoso y ofrece paisajes cafeteros de gran belleza.</p><p><em>📸 Créditos: colombiavisible.com, caracol.com.co, las2orillas.co</em></p>",
+      "keywords": "Aguadas Caldas, sombrero aguadeño, pasillo, pueblo patrimonio, artesanas, palma de iraca",
+      "address": "Aguadas, Caldas, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://colombiavisible.com/wp-content/uploads/2024/08/Aguadas-5.png",
+        "https://cr00.epimg.net/radio/imagenes/2020/11/11/manizales/1605100368_775411_1605101854_noticia_normal.jpg",
+        "https://www.las2orillas.co/wp-content/uploads/2025/09/aguadas-caldas-1.jpg",
+        "https://i.pinimg.com/736x/78/97/e0/7897e08dcf83ad637b078b84edc54312--colombia.jpg"
+      ]
+    }
+  }
+]

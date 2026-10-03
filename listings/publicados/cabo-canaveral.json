@@ -1,0 +1,29 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Playa Cabo Cañaveral - Parque Tayrona",
+      "content": "Cabo Cañaveral es una de las playas más hermosas y tranquilas del Parque Nacional Natural Tayrona. Ideal para quienes buscan desconexión total y contacto directo con la naturaleza virgen del Caribe colombiano.",
+      "status": "publish",
+      "type": "service",
+      "address": "Parque Nacional Natural Tayrona, Magdalena, Colombia",
+      "lat": 11.3195,
+      "lng": -73.9242,
+      "price": "50000",
+      "image_urls": [
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1519046904884-53103b34b206?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "category": [
+        26
+      ],
+      "region": [
+        35
+      ],
+      "keywords": "playa, tayrona, naturaleza, caribe, colombia",
+      "id": 6333,
+      "link": "https://xueturismo.com/26/playa-cabo-canaveral-parque-tayrona/"
+    }
+  }
+]

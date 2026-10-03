@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Plaza de Mercado Santa Elena | Comida Popular y Corrientazos, Cali",
+    "content": "<p><strong>La Plaza de Mercado Santa Elena</strong> es el corazon gastronomico popular de Cali, un universo de sabores donde conviven los corrientazos mas economicos con ingredientes frescos que alimentan a toda la ciudad. Es un lugar donde la autenticidad se sirve en plato y la experiencia es tan real como el aroma que inunda cada pasillo.</p>\n\n<p><strong>Historia y contexto:</strong> Esta plaza de mercado es una de las mas antiguas y emblematicas de Cali. Durante decadas ha sido el punto de abastecimiento de frutas, verduras, carnes y pescados para miles de familias caleñas. Sus puestos de comida son una institucion: aqui se alimenta el Cali profundo, el de la gente trabajadora que busca un almuerzo completo por un precio justo.</p>\n\n<p><strong>Que encontrar:</strong> Los <strong>corrientazos</strong> (almuerzos ejecutivos) incluyen sopa, arroz, proteina, ensalada y jugo —todo abundante y sabroso. Los <strong>jugos naturales</strong> de frutas tropicales como lulo, borojo, guanabana y chontaduro son legendarios. Tambien hay <strong>empanadas fritas al momento</strong>, <strong>tamales caleños</strong>, <strong>sancochos</strong> que humean desde las primeras horas de la mañana y <strong>postres caseros</strong> como la cuajada con melao.</p>\n\n<p><strong>Ambiente:</strong> Bullicioso, colorido, vibrante. Es un espectaculo sensorial donde los vendedores pregonean sus productos, las ollas gigantes desprenden aromas irresistibles y cada pasillo es una discovery gastronomica. No es un restaurante convencional: es la cocina abierta de Cali.</p>\n\n<p><strong>Como llegar:</strong> En el centro de Cali, facilmente accesible en transporte publico. Se recomienda ir temprano, cuando la oferta es mas variada y los corrientazos acaban de salir.</p>\n\n<p><em>Creditos de imagenes: Blog Parentesis Cali / Blu Radio</em></p>",
+    "keywords": "Plaza de Mercado Santa Elena Cali, corrientazos Cali, comida popular Cali, mercado central Cali, almuerzo economico Cali, jugos naturales Cali, comida callejera Cali, gastronomia popular Colombia",
+    "address": "Centro, Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://3.bp.blogspot.com/-JVZfpd6HjMg/UJmlfGPOP9I/AAAAAAAAB0Q/M10L1A0OsPA/s1600/Elena+3.jpg",
+      "https://caracoltv.brightspotcdn.com/dims4/default/05e27b7/2147483647/strip/false/crop/944x426+0+0/resize/1200x542!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd0%2F28%2F12fa8cf146fa9007144d1086c644%2Fwhatsapp-image-2023-04-13-at-3.30.15%20PM.jpeg",
+      "https://1.bp.blogspot.com/-zrVc3k_K1_0/T33UT4g6UHI/AAAAAAAAACU/yMGCUYDp4g4/s1600/plaza_de_mercado.jpg"
+    ]
+  }
+}

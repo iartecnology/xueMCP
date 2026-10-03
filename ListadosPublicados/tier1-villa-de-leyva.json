@@ -1,0 +1,11 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏛️ Villa de Leyva - El Pueblo Mágico de Boyacá",
+    "content": "<p>🎯 <strong>Por qué visitar Villa de Leyva?</strong></p><p><strong>Villa de Leyva</strong> es uno de los pueblos más emblemáticos de Colombia 🏛️. Declarado Monumento Nacional, enamora con su arquitectura colonial, calles empedradas y una de las plazas más grandes de Latinoamérica.</p><p>📜 <strong>Historia</strong></p><p>Fundado en 1572, este pueblo ha preservado su patrimonio arquitectónico colonial. Fue escenario de importantes eventos históricos y hoy es destino turístico por excelencia.</p><p>🛕 <strong>Imperdibles</strong></p><ul><li>🟫 <strong>Plaza Mayor</strong> - Una de las más grandes de Colombia</li><li>🏠 <strong>Casa Terracota</strong> - Arquitectura en barro</li><li>💧 <strong>Pozos Azules</strong> - Piscinas naturales azules</li><li>⛪ <strong>Convento Santo Eccehomo</strong> - Historia religiosa</li></ul><p>🍽️ <strong>Gastronomía</strong></p><p>No puedes perderte:</p><ul><li>🥩 <strong>Milhoja</strong> - Postre típico boyacense</li><li>🍷 <strong>Vinos locales</strong> - Viñedos de la región</li><li>🧀 <strong>Quesoilha</strong> - Fusión de sabores</li></ul><p>🎉 <strong>Festividades</strong></p><ul><li>🎐 <strong>Abril</strong> - Festival de la Linha</li><li>🏆 <strong>Agosto</strong> - Festival de Cometas</li><li>🕯️ <strong>Diciembre</strong> - Día de las Velitas</li></ul><p>💡 <strong>Consejos</strong></p><ul><li>👟 Zapatos cómodos para empedrado</li><li>🧥 Lleva ruana - Clima frío</li><li>📸 Mejor mañana para fotos</li></ul><p>🚗 <strong>Cómo llegar</strong></p><p>A 3 horas de Bogotá por la vía Bogotá - Tunja - Villa de Leyva.</p><p>⭐ <strong>Por qué único</strong></p><ul><li>🏛️ <strong>Arquitectura colonial</strong> - Preservada</li><li>🌄 <strong>Paisajes</strong> - Desierto y montaña</li><li>🎨 <strong>Cultura</strong> - Museos y galerías</li><li>💚 <strong>Autenticidad</strong> - Pueblo vivo</li></ul>",
+    "keywords": "Villa de Leyva, Boyaca, turismo, pueblo magico, plaza mayor, Colombia",
+    "address": "Villa de Leyva, Boyacá, Colombia",
+    "category": "turismo",
+    "status": "publish"
+  }
+}

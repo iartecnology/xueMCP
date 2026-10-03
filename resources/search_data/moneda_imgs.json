@@ -1,0 +1,40 @@
+🔍 Searching: "Casa de la Moneda Bogota museo"
+📊 Results: 2
+
+✅ Got VQD token: 4-151541967620313132232595916250278783985 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://elturismoencolombia.com/en/wp-content/gallery/museo-casa-de-la-moneda-bogota/bogota-casa-moneda-turismo-colombia-travel-1.jpg
+   Source: https://elturismoencolombia.com/en/tourism-colombia/bogota-tourist-information/currency-house-bogota/
+   Title: Currency House Museum Bogota Colombia - Bogota Travel Guide - Colombia ...
+   Width: 960 | Height: 720
+====================================================================================================
+
+📸 Image 2:
+   URL: https://image.wmsm.co/6490387f9eb1e/museo-casa-de-moneda-bogota.webp?quality=80&width=800&height=600&aspect_ratio=800:600
+   Source: https://whichmuseum.es/museo/museo-casa-de-moneda-bogota-21480
+   Title: Museo Casa de Moneda (Bogotá) - Información para Visitantes & Reseñas
+   Width: 800 | Height: 600
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://elturismoencolombia.com/en/wp-content/gallery/museo-casa-de-la-moneda-bogota/bogota-casa-moneda-turismo-colombia-travel-1.jpg",
+    "source_url": "https://elturismoencolombia.com/en/tourism-colombia/bogota-tourist-information/currency-house-bogota/",
+    "title": "Currency House Museum Bogota Colombia - Bogota Travel Guide - Colombia ...",
+    "width": 960,
+    "height": 720
+  },
+  {
+    "image_url": "https://image.wmsm.co/6490387f9eb1e/museo-casa-de-moneda-bogota.webp?quality=80&width=800&height=600&aspect_ratio=800:600",
+    "source_url": "https://whichmuseum.es/museo/museo-casa-de-moneda-bogota-21480",
+    "title": "Museo Casa de Moneda (Bogotá) - Información para Visitantes & Reseñas",
+    "width": 800,
+    "height": 600
+  }
+]

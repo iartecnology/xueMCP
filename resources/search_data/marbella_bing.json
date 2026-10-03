@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Playa Marbella Cartagena Colombia"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://tipsparatuviaje.com/playas-de-colombia/&quot;,&quot;murl&quot;:&quot;https://tipsparatuviaje.com/wp-content/uploads/2019/07/playa-de-marbella-cartagena.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://playasencolombia.com/playas-en-cartagena/&quot;,&quot;murl&quot;:&quot;https://playasencolombia.com/wp-content/uploads/2023/02/36133487204_3058e7223c_c.webp
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://tipsparatuviaje.com/playas-de-colombia/&quot;,&quot;murl&quot;:&quot;https://tipsparatuviaje.com/wp-content/uploads/2019/07/playa-de-marbella-cartagena.jpg"
+  },
+  {
+    "image_url": "https://playasencolombia.com/playas-en-cartagena/&quot;,&quot;murl&quot;:&quot;https://playasencolombia.com/wp-content/uploads/2023/02/36133487204_3058e7223c_c.webp"
+  }
+]

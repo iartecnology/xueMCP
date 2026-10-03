@@ -1,0 +1,20 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🐆 Parque Nacional Natural Los Katíos — Patrimonio de la Humanidad",
+      "content": "<p>🎯 <strong>¿Por qué visitar Los Katíos?</strong></p><p>El <strong>Parque Nacional Natural Los Katíos</strong> es un tesoro natural compartido entre los departamentos de Chocó y Antioquia 🐆. Reconocido como Patrimonio de la Humanidad por la UNESCO, este parque es el puente biológico entre Centro y Sudamérica, protegiendo una vasta extensión de selvas, ciénagas y montañas que albergan una biodiversidad excepcional.</p><p>🌊 <strong>Agua y Selva en Abundancia</strong></p><p>El parque es famoso por sus impresionantes caídas de agua, como los saltos de Tilupo y Tendal, y por sus extensas ciénagas que forman parte del sistema del bajo río Atrato. Es un laboratorio vivo donde conviven jaguares, dantas, manatíes y cientos de especies de aves en un entorno prácticamente inalterado por el hombre.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🌊 <strong>Salto de Tilupo</strong>: Una majestuosa caída de agua de casi 100 metros en medio de la selva profunda.</li><li>🛶 <strong>Ciénagas del Atrato</strong>: Navega por los humedales y observa la rica fauna acuática y aves migratorias.</li><li>🥾 <strong>Senderos Ecológicos</strong>: Camina por la selva húmeda y descubre la increíble variedad de orquídeas y árboles centenarios.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Diciembre a Marzo</strong>: Época de 'verano' en la zona, lo que facilita el acceso a los senderos y las caídas de agua.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>💉 <strong>Vacunas</strong>: Asegúrate de tener la vacuna contra la fiebre amarilla (obligatoria para zonas selváticas).</li><li>🛶 <strong>Acceso</strong>: Es un destino para viajeros experimentados; requiere coordinación previa con Parques Nacionales y guías locales.</li><li>🎒 <strong>Mochila Ligera</strong>: Lleva solo lo esencial y asegúrate de que todo sea a prueba de agua.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El acceso principal es vía fluvial por el río Atrato desde <strong>Turbo</strong> (Antioquia) o <strong>Quibdó</strong> (Chocó).</p><p><em>📸 Créditos: parquesnacionales.gov.co, unesco.org</em></p>",
+      "address": "PNN Los Katíos, Unguía, Chocó, Colombia",
+      "lat": 7.8,
+      "lng": -77.15,
+      "keywords": "PNN Los Katios, Choco, Patrimonio UNESCO Colombia, selva Darien, biodiversidad Choco, rio Atrato, ecoturismo extremo",
+      "category": "naturales",
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Choc%C3%B3_Landscape.jpg"
+      ],
+      "id": 6353,
+      "link": "https://xueturismo.com/listado/%f0%9f%90%86-parque-nacional-natural-los-katios-patrimonio-de-la-humanidad-3/"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Reina | Cocina Contemporanea Vallecaucana, Cali",
+    "content": "<p><strong>Reina</strong> es un restaurante que lleva la cocina vallecaucana a territorio de alta gastronomia. Aqui las recetas de la abuela se reinterpretan con tecnicas de vanguardia, presentaciones de autor y una filosofia que honra los productos locales sin perder ambicion creativa.</p>\n\n<p><strong>Filosofia culinaria:</strong> El nombre Reina no es casualidad: refleja la soberania de la cocina vallecaucana sobre el panorama gastronomico colombiano. El equipo chef trabaja directamente con productores locales del Valle del Cauca, seleccionando ingredientes de temporada que permiten crear platos que cuentan historias de la tierra.</p>\n\n<p><strong>Platos estrella:</strong> El menu degustacion cambia segun la temporada, pero siempre incluye creaciones como el <strong>filete de trucha del Pacifico con espuma de platano</strong>, el <strong>risotto de lulo con queso paipa</strong>, la <strong>ensalada tibia de corazon de palma con vinagreta de gulupa</strong> y el <strong>postre de chocolate del Cauca con helado de limon toronja</strong>. La carta de vinos incluye etiquetas colombianas y sudamericanas seleccionadas por un sommelier experto.</p>\n\n<p><strong>Ambiente:</strong> Elegante pero no rigido. El espacio combina materiales nobles —madera, piedra, metal— con iluminacion calida que crea una atmosfera de sofisticacion accesible. El servicio es atento y el personal conoce cada plato como si lo hubiera creado.</p>\n\n<p><strong>Como llegar:</strong> En una de las zonas mas exclusivas de Cali, con facil acceso y servicio de valet parking. Reservacion recomendada, especialmente los fines de semana.</p>\n\n<p><em>Creditos de imagenes: Restaurant Guru / The World Keys</em></p>",
+    "keywords": "Reina Cali, restaurante contemporaneo Cali, alta cocina Cali, cocina de autor Valle del Cauca, restaurante gourmet Cali, menu degustacion Cali, gastronomia moderna Colombia, restaurante elegante Cali",
+    "address": "Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://img.restaurantguru.com/r227-Antigua-Contemporanea-interior-2022-10.jpg",
+      "https://theworldkeys.com/wp-content/uploads/2022/10/Antigua-Contemporanea-Restaurant-Cali_theworldkeys_6.webp",
+      "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3515346169636077331"
+    ]
+  }
+}

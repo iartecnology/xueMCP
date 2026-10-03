@@ -1,0 +1,17 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Cabo Cañaveral - Prueba Definitiva",
+      "content": "Probando subida de imágenes forzando permisos de administrador.",
+      "status": "publish",
+      "type": "service",
+      "address": "Parque Tayrona, Colombia",
+      "image_urls": [
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "id": 6336,
+      "link": "https://xueturismo.com/-/cabo-canaveral-prueba-definitiva/"
+    }
+  }
+]

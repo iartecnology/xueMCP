@@ -1,0 +1,40 @@
+🔍 Searching: "Museo del Agua EPM Medellin"
+📊 Results: 2
+
+✅ Got VQD token: 4-11342216294696321778923739576924849121 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://i.pinimg.com/originals/23/f4/f2/23f4f21218ec77efb756d0259ff69686.jpg
+   Source: https://en.casacol.co/museo-del-agua-medellin/
+   Title: Museo Del Agua EPM (Empresa Publica de Medellin) - Casacol
+   Width: 1920 | Height: 1080
+====================================================================================================
+
+📸 Image 2:
+   URL: https://visitarmedellin.com/wp-content/uploads/2023/01/Museo-del-Agua-EPM-MEDELLIN-scaled.jpg
+   Source: https://visitarmedellin.com/museo-del-agua/
+   Title: Museo del Agua EPM: Ubicación, Qué hacer y Precio - Visitar Medellín
+   Width: 2560 | Height: 1707
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://i.pinimg.com/originals/23/f4/f2/23f4f21218ec77efb756d0259ff69686.jpg",
+    "source_url": "https://en.casacol.co/museo-del-agua-medellin/",
+    "title": "Museo Del Agua EPM (Empresa Publica de Medellin) - Casacol",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "image_url": "https://visitarmedellin.com/wp-content/uploads/2023/01/Museo-del-Agua-EPM-MEDELLIN-scaled.jpg",
+    "source_url": "https://visitarmedellin.com/museo-del-agua/",
+    "title": "Museo del Agua EPM: Ubicación, Qué hacer y Precio - Visitar Medellín",
+    "width": 2560,
+    "height": 1707
+  }
+]

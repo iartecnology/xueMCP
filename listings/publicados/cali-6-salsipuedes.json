@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Salsipuedes | Salsa en Vivo y Comida Caleña, Cali",
+    "content": "<p><strong>Salsipuedes</strong> es donde Cali confirma su titulo de capital mundial de la salsa: un restaurante-bar donde la comida y la musica comparten protagonismo en una fiesta que no tiene hora de cierre.</p>\n\n<p><strong>El nombre y la leyenda:</strong> Salsipuedes —juego de palabras entre la salsa y la expresion \"si puedes\"— encarna el espiritu caleño: si puedes bailar salsa, si puedes comer rico, si puedes pasarla bien. El lugar nacio de la idea de que la gastronomia y la musica pueden convivir en perfecta armonia, donde cada plato tiene el ritmo de la salsa de fondo y cada baile tiene el sabor de la comida valluna.</p>\n\n<p><strong>Platos estrella:</strong> El menu es una celebracion de los sabores caleños: <strong>ceviche de camaron al estilo Cali</strong> con su toque de limon y cilantro, <strong>carne asada con patacon y ensalada</strong>, <strong>camarones al ajillo</strong>, <strong>bandeja de chorizos y morcilla</strong> y la infaltable <strong>lulada</strong> como bebida insignia. Los <strong>patacones con suero costeño</strong> y las <strong>empanadas de camaron</strong> son aperitivos obligados.</p>\n\n<p><strong>Ambiente:</strong> La salsa suena desde que abren las puertas. Hay barra de tragos con cocteles tropicales, pista de baile y, en noches especiales, orquesta en vivo. El ambiente es festivo, desinhibido y profundamente caleño. Aqui nadie se queda sentado mucho tiempo.</p>\n\n<p><strong>Como llegar:</strong> En zona gastronomica de Cali, accesible desde el centro y barrios del sur. El sector es conocido por su vida nocturna y ofrece opciones de transporte hasta tarde.</p>\n\n<p><em>Creditos de imagenes: Pinterest / YouTube</em></p>",
+    "keywords": "Salsipuedes Cali, salsa en vivo Cali, bar salsa Cali, restaurante musica Cali, comida caleña, vida nocturna Cali, parrilla caleña, que hacer en Cali de noche",
+    "address": "Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://i.pinimg.com/originals/c2/37/ad/c237ad86e1150ae7e2ab0ac9dc613d07.jpg",
+      "https://i.ytimg.com/vi/wxQyvP9WUXU/maxresdefault.jpg",
+      "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1466033077982942"
+    ]
+  }
+}

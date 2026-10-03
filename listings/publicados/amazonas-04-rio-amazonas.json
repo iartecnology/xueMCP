@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🚢 Río Amazonas — Navegando la Arteria del Mundo",
+    "content": "<p>🎯 <strong>¿Por qué navegar el Río Amazonas?</strong></p><p>El <strong>Río Amazonas</strong> es el río más caudaloso y largo del mundo, una fuerza de la naturaleza que define la vida en la selva 🚢. Navegar por sus aguas marrones es una experiencia sobrecogedora, donde la inmensidad del paisaje y la biodiversidad que lo rodea te hacen sentir la verdadera magnitud del pulmón del mundo.</p><p>🌊 <strong>Un Viaje por la Vida</strong></p><p>El Amazonas no es solo agua; es un ecosistema móvil que conecta tres países en este punto (Colombia, Brasil y Perú). Durante la navegación podrás ver comunidades indígenas en las orillas, delfines asomándose en la estela del bote, y árboles gigantescos que custodian el cauce. Es el escenario perfecto para ver los amaneceres y atardeceres más espectaculares de tu vida, con cielos que se reflejan en el agua como un espejo infinito.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🚢 <strong>Cruceros por el Río</strong>: Disfruta de un viaje de varios días en barcos que ofrecen todas las comodidades mientras te adentras en la selva.</li><li>🚤 <strong>Lanchas Rápidas</strong>: Muévete entre Leticia y los corregimientos cercanos para ver la vida cotidiana del río.</li><li>🎣 <strong>Pesca de Pirañas</strong>: Vive la experiencia de la pesca artesanal en los afluentes y lagunas que alimentan al gran río.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Aguas altas (Mayo a Agosto)</strong>: Para navegar por dentro de la selva inundada.<br>📅 <strong>Aguas bajas (Septiembre a Enero)</strong>: Para ver extensas playas de arena blanca y mayor concentración de fauna en las orillas.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Seguridad</strong>: Siempre usa chaleco salvavidas y viaja con embarcaciones autorizadas.</li><li>🧴 <strong>Protección</strong>: El sol en el río es muy fuerte debido al reflejo del agua; usa bloqueador y sombrero de ala ancha.</li><li>🛂 <strong>Fronteras</strong>: Si vas a cruzar a Brasil o Perú, asegúrate de tener tus documentos al día, aunque en la zona fronteriza hay mucha flexibilidad.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El punto de partida principal en Colombia es el muelle turístico de <strong>Leticia</strong>. Desde allí parten embarcaciones hacia todos los destinos del trapecio amazónico.</p><p><em>📸 Créditos: aventureros360.com.co, elviajerofeliz.com</em></p>",
+    "keywords": "Rio Amazonas, Leticia, navegacion Amazonas, turismo selva, frontera Colombia Brasil Peru, fauna Amazonia, viajes en barco, pulmon del mundo",
+    "address": "Río Amazonas, Leticia, Amazonas, Colombia",
+    "lat": -4.2167,
+    "lng": -69.9333,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://aventureros360.com.co/wp-content/uploads/2025/03/Navegar-por-el-rio-Amazonas-viajar-a-colombia-aventureros-360-5-1024x585.png",
+      "https://elviajerofeliz.com/wp-content/uploads/2024/06/rio-amazonas.jpg",
+      "https://www.lifeder.com/wp-content/uploads/2020/10/Amazonrivermap-1.jpg"
+    ]
+  }
+}

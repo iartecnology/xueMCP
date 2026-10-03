@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Kashi | Fusion Asiatico-Caribena, Santa Marta",
+    "content": "<p><strong>Kashi</strong> es un restaurante de Santa Marta que explora la fascinante convergencia entre las cocinas asiatica y caribena, creando platos que sorprenden por su audacia y deleitan por su armonia de sabores.</p>\n\n<p><strong>La fusion de dos mundos:</strong> La idea detras de Kashi nace de una observacion: tanto la cocina asiatica como la caribena comparten el amor por los sabores intensos, las especias aromaticas y los productos frescos del mar. El restaurante une tecnicas de la cocina china, japonesa y tailandesa con ingredientes del Caribe colombiano —pescados tropicales, frutas exoticas, chiles locales— para crear un dialogo culinario unico en Colombia.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>ceviche nikkei con leche de tigre y ají amarillo</strong>, los <strong>tacos de atun con salsa de soya y maracuya</strong>, el <strong>curry verde de camaron con leche de coco y albahaca thai</strong>, el <strong>pad thai de camaron del Caribe</strong> y el <strong>roll tropical de salmon con mango y aguacate</strong>. El <strong>postre de coco con sésamo y helado de matcha</strong> cierra una experiencia que no se encuentra en ningun otro lugar de la costa.</p>\n\n<p><strong>Ambiente:</strong> Moderno con decoracion que fusiona elementos asiaticos —farolitos, bambu, caligrafia— con textiles y artesania del Caribe colombiano. La musica es una mezcla de sonidos electronicos suaves con ritmos latinos. La barra de cocteles ofrece creaciones que mezclan ron colombiano con ingredientes asiaticos como el jengibre, el lychee y el yuzu.</p>\n\n<p><strong>Como llegar:</strong> En zona gastronomica de Santa Marta, accesible desde el centro historico y El Rodadero. El sector cuenta con buena iluminacion y transporte nocturno.</p>\n\n<p><em>Creditos de imagenes: Reservatuglamping / Restaurant Ji</em></p>",
+    "keywords": "Kashi Santa Marta, fusion asiatico caribena, restaurante asiatico Santa Marta, ceviche nikkei Caribe, curry de camaron Santa Marta, restaurante fusión Colombia, cocina thai Caribe, cocteles asiaticos Santa Marta",
+    "address": "Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,w_1000/crm/miamifl/LAMphotos-0665_DE966F62-FAF2-4977-852B0417471CF6AC_24857c1b-d551-49b8-b12033825c4ec561.jpg",
+      "https://cdn6.localdatacdn.com/images/3437998/m_kashi_photo.jpg?q=67b6283883747",
+      "https://reservatuglamping.com.co/wp-content/uploads/los-7-mejores-restaurantes-de-santa-marta-una-fusion-unica-de-gastronomia-caribena-y-colombiana-2048x1366.jpg"
+    ]
+  }
+}

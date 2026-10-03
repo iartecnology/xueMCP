@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Mama Graciela | Rice and Beans Raizal, San Andres",
+    "content": "<p><strong>Mama Graciela</strong> es el restaurante de San Andres que lleva el rice and beans raizal a su maxima expresion, honrando a las abuelas isleñas que durante generaciones han alimentado a la comunidad con este plato que es mucho mas que comida: es identidad, es memoria, es amor servido en plato.</p>\n\n<p><strong>La abuela como inspiracion:</strong> El nombre Mama Graciela rinde homenaje a esas abuelas raizales cuya cocina era el corazon de cada hogar isleño. Ellas dominaban el arte del rice and beans —esa combinacion perfecta de arroz, habichuelas, leche de coco, tomillo, ajo y pimienta escocesa que define el sabor de San Andres. El restaurante toma esas recetas y las prepara con el mismo carino y la misma dedicacion de siempre.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>rice and beans con pollo guisado</strong> es el clasico absoluto, el <strong>rice and beans con pescado frito</strong> es la combinacion perfecta del mar y la tierra isleña, el <strong>rice and beans con langosta</strong> (en temporada) es la version premium, el <strong>rounds de pescado</strong> —pescado en salsa de coco verde— acompana el arroz como lo hacian las abuelas, y el <strong>pan de coco recién horneado</strong> es el pan que no puede faltar. El <strong>temple run</strong> —bebida de ron con especias y hierbas— es el trago tradicional raizal.</p>\n\n<p><strong>Ambiente:</strong> Calido y familiar, como comer en casa de la abuela. Olores de cocina a lena, sonidos de calipso sueno de fondo y fotos de familia en las paredes. El servicio es como el de la familia: te tratan como si llevaras anos viniendo, incluso si es la primera vez. Es el tipo de lugar donde sales con el estomago lleno y el corazon contento.</p>\n\n<p><strong>Como llegar:</strong> En zona residencial de San Andres, cerca al centro. Se llega facilmente en taxi o caminando. Ideal para el almuerzo, cuando la cocina esta mas activa y los aromas son mas intensos.</p>\n\n<p><em>Creditos de imagenes: San Andres Travel / YouTube</em></p>",
+    "keywords": "Mama Graciela San Andres, rice and beans raizal, restaurante abuela isleña, comida casera San Andres, temple run raizal, pan de coco San Andres, rounds pescado Caribe, tradicion raizal Colombia",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://neighborhoodnewsonline.net/wp-content/uploads/2020/02/Rice-and-Beans.jpg",
+      "http://www.sanandres.travel/uploads/0000/2/2022/02/22/153623864.jpg",
+      "https://i.ytimg.com/vi/_GSPlBhn3Wo/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYfyBDKB0wDw==&rs=AOn4CLDiqUql1Ew6QstfqyBVt0MR0B4BLw"
+    ]
+  }
+}

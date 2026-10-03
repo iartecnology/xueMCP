@@ -1,0 +1,54 @@
+🔍 Searching: "Supervivencia Selva Amazonia Colombia"
+📊 Results: 3
+
+✅ Got VQD token: 4-316147888206329278487411566665495942699 
+
+✅ Found 3 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://tiempodeinventos.net/wp-content/uploads/imagen-resolucion-grupo-selva.webp
+   Source: https://tiempodeinventos.net/tecnologia-y-sociedad/supervivencia-amazonia-tecnicas-herramientas-indigenas-vida-selva/
+   Title: Supervivencia en la Amazonía: Técnicas y herramientas indígenas para la ...
+   Width: 1024 | Height: 768
+====================================================================================================
+
+📸 Image 2:
+   URL: https://s1.eestatic.com/2023/06/10/mundo/770433186_233860664_1706x960.jpg
+   Source: https://www.elespanol.com/mundo/america/20230610/sobrevivieron-dias-ninos-perdidos-selva-amazonica-colombiana/770423062_0.html
+   Title: Cómo sobrevivieron durante 40 días los cuatro niños perdidos en la ...
+   Width: 1706 | Height: 960
+====================================================================================================
+
+📸 Image 3:
+   URL: https://laderasur.com/wp-content/uploads/2023/06/foto-ninos-sobreviven-a-la-selva-twitter-gustavo-petra.jpg
+   Source: https://laderasur.com/articulo/el-milagro-de-sobrevivir-en-la-selva-cuando-el-conocimiento-de-la-naturaleza-te-salva-la-vida/
+   Title: El milagro de sobrevivir en la selva: cuando el conocimiento de la ...
+   Width: 1920 | Height: 1442
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://tiempodeinventos.net/wp-content/uploads/imagen-resolucion-grupo-selva.webp",
+    "source_url": "https://tiempodeinventos.net/tecnologia-y-sociedad/supervivencia-amazonia-tecnicas-herramientas-indigenas-vida-selva/",
+    "title": "Supervivencia en la Amazonía: Técnicas y herramientas indígenas para la ...",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "image_url": "https://s1.eestatic.com/2023/06/10/mundo/770433186_233860664_1706x960.jpg",
+    "source_url": "https://www.elespanol.com/mundo/america/20230610/sobrevivieron-dias-ninos-perdidos-selva-amazonica-colombiana/770423062_0.html",
+    "title": "Cómo sobrevivieron durante 40 días los cuatro niños perdidos en la ...",
+    "width": 1706,
+    "height": 960
+  },
+  {
+    "image_url": "https://laderasur.com/wp-content/uploads/2023/06/foto-ninos-sobreviven-a-la-selva-twitter-gustavo-petra.jpg",
+    "source_url": "https://laderasur.com/articulo/el-milagro-de-sobrevivir-en-la-selva-cuando-el-conocimiento-de-la-naturaleza-te-salva-la-vida/",
+    "title": "El milagro de sobrevivir en la selva: cuando el conocimiento de la ...",
+    "width": 1920,
+    "height": 1442
+  }
+]

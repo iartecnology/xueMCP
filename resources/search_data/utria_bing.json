@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Ensenada de Utria Choco ballenas"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://co.pinterest.com/pin/561753753532139681/&quot;,&quot;murl&quot;:&quot;https://i.pinimg.com/originals/93/20/8f/93208f87cae5fa7abef661d9e2249c6e.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://mochilerosporlibre.com/ballenas-y-parque-nacional-de-utria-en-el-choco/&quot;,&quot;murl&quot;:&quot;https://mochilerosporlibre.com/wp-content/uploads/2024/10/ballena-saltando-1.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://co.pinterest.com/pin/561753753532139681/&quot;,&quot;murl&quot;:&quot;https://i.pinimg.com/originals/93/20/8f/93208f87cae5fa7abef661d9e2249c6e.jpg"
+  },
+  {
+    "image_url": "https://mochilerosporlibre.com/ballenas-y-parque-nacional-de-utria-en-el-choco/&quot;,&quot;murl&quot;:&quot;https://mochilerosporlibre.com/wp-content/uploads/2024/10/ballena-saltando-1.jpg"
+  }
+]

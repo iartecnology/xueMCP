@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏜️ Punta Gallinas y Dunas de Taroa — El Extremo Norte de Sudamérica",
+    "content": "<p>🎯 <strong>¿Por qué llegar a Punta Gallinas?</strong></p><p><strong>Punta Gallinas</strong> es el punto geográfico más al norte de la placa continental de Sudamérica 🏜️. Es el destino final de cualquier aventura en La Guajira, un lugar donde las gigantescas Dunas de Taroa caen directamente al mar Caribe en un espectáculo visual sin precedentes.</p><p>🌊 <strong>Inmensidad y Soledad</strong></p><p>Aquí la naturaleza se muestra en su estado más puro y salvaje. La sensación de estar en el fin del mundo es real. Las Dunas de Taroa, montañas de arena dorada que se encuentran con el océano, son el principal atractivo, junto con los farallones de piedra y las lagunas frecuentadas por flamencos rosados.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🏜️ <strong>Dunas de Taroa</strong>: Deslízate por la arena hasta caer en las refrescantes aguas del Caribe.</li><li>📍 <strong>El Faro</strong>: Visita el punto exacto que marca el extremo norte del subcontinente.</li><li>🦩 <strong>Bahía Hondita</strong>: Observa la biodiversidad marina y las aves migratorias en las bahías cercanas.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Época de vientos</strong>: Entre diciembre y marzo el clima es más fresco, aunque el viaje por tierra puede ser más movido.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: No hay costo de entrada, pero el transporte y alojamiento deben coordinarse con operadores locales.</li><li>🛌 <strong>Alojamiento</strong>: Prepárate para dormir en chinchorros en las rancherías Wayuu de la zona.</li><li>📸 <strong>Protección de cámara</strong>: La arena fina y el viento pueden dañar equipos electrónicos; llévalos protegidos.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El acceso es complejo y requiere vehículo 4x4 o lancha desde el Cabo de la Vela. Es indispensable contratar un tour o guía experimentado.</p><p><em>📸 Créditos: laplayademajo.com, patoneando.com</em></p>",
+    "keywords": "Punta Gallinas, Dunas de Taroa, La Guajira, extremo norte Sudamerica, desierto Colombia, dunas mar, aventura Guajira, turismo extremo",
+    "address": "Punta Gallinas, Alta Guajira, Colombia",
+    "lat": 12.4583,
+    "lng": -71.6500,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://laplayademajo.com/wp-content/uploads/2023/07/Dunas-de-Taroa-La-Guajira-1024x576.webp",
+      "https://www.patoneando.com/wp-content/uploads/2017/03/Punta-gallinas-y-dunas-de-taroa-la-Guajira-Colombia-Patoneando-blog-de-viajes-4.jpg",
+      "https://cdn.kimkim.com/files/a/images/a7a643e4c986f5ce9fafa0daca44bea477a2e801/big-a6356f61d42b36c2061d80fdee2d05cf.jpg",
+      "https://laplayademajo.com/wp-content/uploads/2023/07/Punta-Gallinas-La-Guajira-1024x576.webp"
+    ]
+  }
+}

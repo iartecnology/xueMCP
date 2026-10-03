@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Sapphire | Cocina Raizal y Mariscos, San Andres",
+    "content": "<p><strong>Sapphire</strong> es un restaurante en San Andres que celebra la cocina raizal —la tradicion gastronomica de los habitantes originarios de la isla— combinada con los mejores mariscos del Mar Caribe. Un lugar donde cada plato es un homenaje a la herencia cultural del archipielago.</p>\n\n<p><strong>Herencia raizal:</strong> La comunidad raizal de San Andres desciende de colonos britanicos, africanos esclavizados y otros pueblos que forjaron una cultura unica en el Caribe colombiano. Su cocina mezcla tradiciones inglesas, africanas y caribenas en platos que llevan siglos en las mesas isleñas. Sapphire nace de la voluntad de preservar y compartir esta herencia gastronomica con el mundo.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>rice and beans raizal</strong> —arroz cocinado con leche de coco, habichuelas y especias isleñas— es el plato insignia de la cocina raizal. Lo acompanan el <strong>rounds (fish rundown)</strong> —pescado guisado en salsa de coco verde con platano maduro—, la <strong>langosta del Caribe a la parrilla</strong>, el <strong>goat water</strong> —guiso de chivo con especias caribenas— y el <strong>pan de coco</strong> como acompanamiento esencial. El <strong>crab soup</strong> (sopa de cangrejo) es legendario entre los locales.</p>\n\n<p><strong>Ambiente:</strong> La decoracion incorpora elementos de la cultura raizal —telas africanas, madera de coco, fotos historicas de la isla— en un espacio que combina lo tradicional con lo contemporaneo. La musica incluye calipso, reggae y soca, los sonidos que definen la identidad musical de San Andres. El servicio es calido y el personal comparte con orgullo la historia de cada plato.</p>\n\n<p><strong>Como llegar:</strong> En zona central de San Andres, cerca a la Avenida Colombia y el sector de El Centro. Accesible en taxi o caminando desde la mayoria de hoteles de la isla.</p>\n\n<p><em>Creditos de imagenes: El Pais Colombia / Los Traveleros</em></p>",
+    "keywords": "Sapphire San Andres, cocina raizal San Andres, rice and beans raizal, restaurante mariscos San Andres, gastronomía isleña, langosta Caribe San Andres, calipso restaurante, cultura raizal Colombia",
+    "address": "El Centro, San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.elpais.com.co/resizer/v2/4Z2Q5IHY4BC5BJ5LSQWGBUJKBA.jpeg?auth=78a516d9a79dfdca09112ebb172b3af20480263cc4614219da008c5d5fee8d3f&smart=true&quality=75&width=1280&fitfill=false",
+      "https://lostraveleros.com/wp-content/uploads/2023/04/Comida-Marina-1160x778.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/5d/c2/62/gastronomia-caribena.jpg?w=800&h=500&s=1"
+    ]
+  }
+}

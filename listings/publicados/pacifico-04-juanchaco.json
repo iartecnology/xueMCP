@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐳 Juanchaco — Puerta de Entrada a las Ballenas en el Valle",
+    "content": "<p>🎯 <strong>¿Por qué visitar Juanchaco?</strong></p><p><strong>Juanchaco</strong> es el principal puerto de llegada para quienes buscan la magia de las ballenas jorobadas en el departamento del Valle del Cauca 🐳. Ubicado en el Parque Nacional Natural Uramba Bahía Málaga, es una comunidad vibrante y auténtica que sirve como base para explorar uno de los lugares con mayor biodiversidad del planeta.</p><p>🌊 <strong>Aventura y Tradición Pacífica</strong></p><p>La experiencia en Juanchaco comienza con la llegada en lancha desde Buenaventura, atravesando la majestuosa Bahía Málaga. Aquí puedes disfrutar de caminatas por la playa, recorridos por los manglares y, por supuesto, la emoción de embarcarte en busca de las ballenas que llegan a estas aguas cálidas para aparearse y dar a luz. Es un lugar lleno de cultura, música de marimba y una gastronomía basada en los frutos frescos del mar.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐋 <strong>Avistamiento de Ballenas</strong>: Sube a una lancha local para ver a las gigantes del mar entre julio y octubre.</li><li>🚣 <strong>Recorrido por Esteros</strong>: Navega en kayak o canoa por los tranquilos canales rodeados de manglar.</li><li>🎶 <strong>Cultura del Pacífico</strong>: Disfruta de una velada de currulao y prueba el tradicional 'Viche' o 'Arrechón'.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>De julio a octubre</strong>: Para vivir la temporada de ballenas en todo su esplendor.<br>📅 <strong>Fines de semana</strong>: Cuando hay más actividad cultural y opciones de transporte.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se debe pagar un impuesto de uso de muelle en Buenaventura y, en ocasiones, una entrada al Parque Nacional.</li><li>🛥️ <strong>Transporte</strong>: Asegúrate de coordinar el horario de las lanchas de regreso, ya que dependen de la marea.</li><li>🧥 <strong>Ropa</strong>: Lleva impermeable; las lluvias son frecuentes y repentinas en esta zona del país.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se llega en lancha rápida desde el <strong>Muelle Turístico de Buenaventura</strong>. El trayecto dura aproximadamente 45 a 60 minutos.</p><p><em>📸 Créditos: disfrutabuenaventura.com, esariri.com</em></p>",
+    "keywords": "Juanchaco, Bahia Malaga, Buenaventura, Valle del Cauca, ballenas jorobadas, turismo Pacifico, Uramba, avistamiento ballenas Colombia",
+    "address": "Juanchaco, Bahía Málaga, Buenaventura, Valle del Cauca, Colombia",
+    "lat": 3.9214,
+    "lng": -77.3622,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://disfrutabuenaventura.com/wp-content/uploads/2021/07/avistamiento-de-ballenas-juanchaco-4-disfruta-buenaventura.jpg",
+      "https://disfrutabuenaventura.com/wp-content/uploads/2021/08/plan-avistamiento-ballenas-disfruta-buenaventura.jpg",
+      "https://www.esariri.com/wp-content/uploads/2023/03/IMG-20201012-WA0059.jpg"
+    ]
+  }
+}

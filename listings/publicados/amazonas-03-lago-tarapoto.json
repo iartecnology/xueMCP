@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐬 Lago Tarapoto — El Hogar de los Delfines Rosados",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Lago Tarapoto?</strong></p><p>El <strong>Lago Tarapoto</strong> es uno de los humedales más importantes de la Amazonía colombiana y el primer sitio Ramsar de la región 🐬. Situado cerca de Puerto Nariño, este espejo de agua rodeado de selva es el lugar preferido por los delfines rosados (*Inia geoffrensis*) y grises para alimentarse y cuidar a sus crías.</p><p>🌊 <strong>Mística y Vida Acuática</strong></p><p>Navegar por el lago al atardecer es una experiencia mística. Además de ver a los delfines asomarse en la superficie, el lago es el hogar del manatí amazónico, caimanes negros y el gigantesco pez pirarucú. El entorno es de una paz absoluta, donde el sonido de los delfines rompiendo la superficie del agua y el canto de las aves crean una atmósfera inolvidable. Es un ejemplo de convivencia entre el ecoturismo y las comunidades indígenas locales.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐬 <strong>Avistamiento de Delfines</strong>: Observa con paciencia y respeto el nado de los delfines rosados en las aguas tranquilas del lago.</li><li>🌅 <strong>Atardecer Amazónico</strong>: Disfruta de uno de los mejores atardeceres de la selva desde la mitad del lago.</li><li>🎣 <strong>Pesca Artesanal</strong>: Aprende las técnicas de pesca de las comunidades locales (sujeto a regulaciones).</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Todo el año</strong>: La presencia de delfines es constante, aunque en época de aguas bajas es más fácil localizarlos en áreas profundas.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se requiere el pago de una tasa de ingreso comunitaria en Puerto Nariño.</li><li>🤫 <strong>Silencio</strong>: Mantén el silencio durante el avistamiento para no asustar a los delfines.</li><li>📸 <strong>Fotografía</strong>: Los delfines son rápidos; prepárate para disparar tu cámara en el momento justo.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a unos 20 minutos en lancha desde <strong>Puerto Nariño</strong> (municipio pesebre de Colombia). El acceso debe ser guiado por habitantes de la zona.</p><p><em>📸 Créditos: elinformador.com.co, elcolombiano.com, elturismoencolombia.com</em></p>",
+    "keywords": "Lago Tarapoto, Puerto Nariño, delfines rosados, Amazonas, humedal Ramsar, fauna amazonia, turismo sostenible, Leticia",
+    "address": "Lago Tarapoto, Puerto Nariño, Amazonas, Colombia",
+    "lat": -3.7833,
+    "lng": -70.4333,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://elturismoencolombia.com/storage/2023/07/Lago-Tarapoto-y-los-delfines-Rosados-Amazonas.jpg",
+      "https://www.elinformador.com.co/images/stories/general/2018/01-enero/18varias-2.jpg",
+      "https://estaticos.elcolombiano.com/documents/10157/0/602x600/0c17/602d565/none/11101/CPMA/image_content_30294851_20180117221658.jpg"
+    ]
+  }
+}

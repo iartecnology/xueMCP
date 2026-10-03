@@ -1,0 +1,17 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Prueba Cabo Cañaveral con Bypass",
+      "content": "Verificando bypass de seguridad de tipos de archivo.",
+      "status": "publish",
+      "type": "service",
+      "address": "Tayrona, Colombia",
+      "image_urls": [
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "id": 6335,
+      "link": "https://xueturismo.com/-/prueba-cabo-canaveral-con-bypass/"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "El Boga Boga | Cocina de Pesca Artesanal, Santa Marta",
+    "content": "<p><strong>El Boga Boga</strong> es un restaurante de Santa Marta que celebra la tradicion de la pesca artesanal del Caribe colombiano. Aqui cada pescado cuenta la historia de una madrugada en el mar, de redes lanzadas con paciencia y de un oficio que ha sostenido a las comunidades costeras por generaciones.</p>\n\n<p><strong>La pesca artesanal como filosofia:</strong> El nombre Boga Boga rinde homenaje a la boga, un pez tradicional de las aguas caribenas, y al ritmo de la pesca artesanal. El restaurante trabaja exclusivamente con pescadores artesanales de Taganga, El Rodadero y las comunidades Wayuu de la Guajira, garantizando productos frescos, sostenibles y que apoyan directamente a las economias locales del mar.</p>\n\n<p><strong>Platos estrella:</strong> La <strong>mojarra frita con arroz con coco y ensalada</strong> es el clasico insuperable, el <strong>cazon guisado con tomate y cebolla</strong> evoca la cocina de las abuelas costeñas, el <strong>caldo de pesce con yuca y ñame</strong> reconforta el alma, y los <strong>caracoles al ajillo</strong> son un manjar del Caribe. El <strong>pargo rojo a la talla</strong> (a la parrilla con especias costeñas) es la estrella de los fines de semana.</p>\n\n<p><strong>Ambiente:</strong> Rustico-authentico, como comer en la casa de un pescador. Mesas sencillas, decoracion con redes y elementos marinos, y un ambiente que prioriza la autenticidad sobre la sofisticacion. La musica de fondo incluye vallenato, cumbia y porro, los sonidos que acompanan la vida en la costa.</p>\n\n<p><strong>Como llegar:</strong> En zona cercana al puerto de Santa Marta, con acceso facil desde el centro. Se recomienda ir al mediodia, cuando el pescado del dia esta mas fresco.</p>\n\n<p><em>Creditos de imagenes: Perla Roja Hotel / El Tiempo Blog</em></p>",
+    "keywords": "El Boga Boga Santa Marta, pesca artesanal Santa Marta, mojarra frita Caribe, restaurante pesquero Santa Marta, cazon guisado Santa Marta, caldo de pesce Caribe, gastronomia pesquera Colombia, Taganga pesca artesanal",
+    "address": "Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://perlarocahotel.com/wp-content/uploads/2025/05/donde_comer_en_santa_marta_los_8_mejores_restaurantes_recomendados.jpeg",
+      "http://blogs.eltiempo.com/para-donde-va/wp-content/uploads/sites/371/2022/12/BK.jpg",
+      "https://cdn-blog.reservandonos.com/blog/wp-content/uploads/2025/03/27033038/mejores-restaurantes-santa-marta.png"
+    ]
+  }
+}

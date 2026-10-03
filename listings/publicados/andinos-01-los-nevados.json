@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "❄️ PNN Los Nevados — Majestuosidad de los Andes",
+    "content": "<p>🎯 <strong>¿Por qué visitar el PNN Los Nevados?</strong></p><p>El <strong>Parque Nacional Natural Los Nevados</strong> es el corazón de los Andes centrales colombianos ❄️. Es un escenario sobrecogedor donde los picos nevados, volcanes activos y glaciares milenarios se encuentran con extensos páramos y lagunas de origen glaciar.</p><p>🏔️ <strong>Alta Montaña y Ecoturismo</strong></p><p>Hogar del Nevado del Ruiz, el Nevado de Santa Isabel y el Nevado del Tolima, el parque es un paraíso para el montañismo y el senderismo de altura. Sus paisajes, habitados por el Cóndor de los Andes y frailejones centenarios, ofrecen una de las experiencias de naturaleza más intensas y hermosas de Colombia. Es un ecosistema vital para la regulación hídrica de la región cafetera.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🌋 <strong>Valle de las Tumbas</strong>: Camina por un paisaje lunar desértico a gran altura (si las condiciones volcánicas lo permiten).</li><li>🥾 <strong>Ascenso al Glaciar</strong>: Vive la experiencia de tocar la nieve en el Nevado de Santa Isabel (requiere guía especializado).</li><li>💧 <strong>Laguna del Otún</strong>: Descubre una de las lagunas más hermosas del parque, rodeada de picos nevados.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>De diciembre a marzo y julio a agosto</strong>: Son los meses con cielos más despejados y mejores condiciones para caminar.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se requiere registro y pago en las entradas autorizadas (Brisas o Potosí).</li><li>🧣 <strong>Ropa</strong>: Imprescindible ropa térmica, guantes, chaqueta impermeable y gafas de sol con protección UV.</li><li>🏔️ <strong>Aclimatación</strong>: El parque está por encima de los 4.000 msnm; tómalo con calma para evitar el mal de montaña.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El acceso principal (Sector Brisas) se encuentra a unos 90 minutos de <strong>Manizales</strong> por carretera de montaña. También se puede acceder desde Pereira o Salento por otros sectores.</p><p><em>📸 Créditos: colombia.com, territorioexplora.com.co</em></p>",
+    "keywords": "PNN Los Nevados, Nevado del Ruiz, Manizales, senderismo alta montaña, volcanes Colombia, ecoturismo Andes, frailejones, nieve Colombia",
+    "address": "Parque Nacional Natural Los Nevados, Manizales, Caldas, Colombia",
+    "lat": 4.8892,
+    "lng": -75.3189,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://cdn.colombia.com/sdi/2014/01/04/parque-nacional-natural-los-nevados-autentica-emocion-natural-853806.jpg",
+      "https://miviaje.com/wp-content/uploads/2019/07/nevado-de-ruiz-colombia.jpg",
+      "https://territorioexplora.com.co/wp-content/uploads/2020/04/Nevado-del-Ruiz-Colombia.jpg"
+    ]
+  }
+}

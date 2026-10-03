@@ -1,0 +1,17 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Cabo Cañaveral - Prueba Sideload",
+      "content": "Verificando si media_sideload_image soluciona los problemas de permisos.",
+      "status": "publish",
+      "type": "service",
+      "address": "Parque Tayrona, Colombia",
+      "image_urls": [
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "id": 6338,
+      "link": "https://xueturismo.com/-/cabo-canaveral-prueba-sideload/"
+    }
+  }
+]

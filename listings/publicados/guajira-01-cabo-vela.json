@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏜️ Cabo de la Vela — El Encuentro del Desierto con el Mar",
+    "content": "<p>🎯 <strong>¿Por qué visitar el Cabo de la Vela?</strong></p><p>El <strong>Cabo de la Vela</strong> es uno de los destinos más mágicos y remotos de Colombia 🏜️. Es un lugar sagrado para la comunidad Wayuu, donde el desierto naranja se funde con el azul intenso del mar Caribe, ofreciendo atardeceres que parecen pintados a mano.</p><p>🌅 <strong>Cultura y Naturaleza</strong></p><p>Aquí la vida transcurre a otro ritmo. Dormir en una hamaca o 'chinchorro' bajo un cielo estrellado infinito, compartir con la comunidad Wayuu y disfrutar de playas vírgenes es una experiencia que transforma. Es el lugar ideal para desconectarse del mundo y conectarse con la esencia de la tierra.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🌅 <strong>El Faro</strong>: Sube al faro al atardecer para ver cómo el sol se sumerge en el mar Caribe.</li><li>🪁 <strong>Kitesurf</strong>: Las condiciones de viento constantes lo convierten en uno de los mejores lugares del mundo para este deporte.</li><li>🧶 <strong>Artesanía Wayuu</strong>: Conoce de cerca el proceso de tejido de las mochilas y chinchorros.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Todo el año</strong>: La Guajira es mayoritariamente seca, lo que garantiza días soleados casi siempre.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: No hay costo de entrada al área, pero se recomienda ir con guías locales.</li><li>🧥 <strong>Ropa</strong>: Lleva ropa ligera para el día y algo para el viento fresco de la noche.</li><li>💧 <strong>Agua</strong>: El agua dulce es escasa; úsala con responsabilidad y lleva tus propios suministros.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en la Alta Guajira. El acceso suele hacerse en vehículos 4x4 desde Riohacha o Uribia, atravesando las planicies del desierto.</p><p><em>📸 Créditos: elmonomudo.com, tomplanmytrip.com</em></p>",
+    "keywords": "Cabo de la Vela, La Guajira, desierto y mar, Wayuu, atardecer Faro, kitesurf Colombia, turismo indigena, Alta Guajira",
+    "address": "Cabo de la Vela, La Guajira, Colombia",
+    "lat": 12.2033,
+    "lng": -72.1458,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.tomplanmytrip.com/wp-content/uploads/2017/11/Sunset-from-Cabo-de-la-Vela.jpg",
+      "https://elmonomudo.com/wp-content/gallery/colombia-la-guajira-2/p1080441-1600x1200.jpg",
+      "https://elmonomudo.com/wp-content/gallery/colombia-la-guajira-3/p1080446-1600x1200.jpg",
+      "https://www.colprensa.com/wp-content/uploads/2025/10/CATARDECERES-CABO-DE-LA-VELA1-scaled.jpg"
+    ]
+  }
+}

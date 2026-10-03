@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🛶 Río Fonce — Rafting y Aventura en San Gil",
+    "content": "<p>🎯 <strong>¿Por qué vivir la aventura en el Río Fonce?</strong></p><p>El <strong>Río Fonce</strong> es el epicentro de los deportes extremos en Santander 🛶. Es famoso por ser el primer río en Colombia donde se practicó el canotaje comercial, ofreciendo una experiencia emocionante pero segura, ideal para familias y principiantes que buscan adrenalina pura.</p><p>🌊 <strong>La Experiencia de Rafting</strong></p><p>El recorrido habitual tiene una longitud de unos 11 kilómetros y dura aproximadamente una hora y media. Navegarás por rápidos de niveles II y III, rodeado de paisajes espectaculares, aves tropicales y una vegetación exuberante que bordea el cauce del río hasta llegar al Parque El Gallineral.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🛶 <strong>Canotaje (Rafting)</strong>: Desciende por los rápidos guiado por expertos certificados.</li><li>🏊 <strong>Nado en río</strong>: En las zonas de aguas tranquilas, podrás saltar del bote y dejarte llevar por la corriente.</li><li>🦅 <strong>Observación de aves</strong>: Durante los tramos calmados, es común ver garzas y martines pescadores.</li></ul><p>🕐 <strong>Mejor momento para ir</strong></p><p>📅 <strong>Época de lluvias</strong>: El río lleva más caudal y los rápidos son más emocionantes.<br>📅 <strong>Época seca</strong>: El agua es más cristalina y el recorrido es más tranquilo.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Costo</strong>: Entre 50.000 COP y 70.000 COP por persona (incluye equipo y seguro).</li><li>👕 <strong>Ropa</strong>: Usa ropa que se pueda mojar y calzado ajustado (no chanclas).</li><li>🧴 <strong>Protección</strong>: Usa protector solar biodegradable para proteger el ecosistema.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El punto de encuentro suele ser el <strong>Malecón de San Gil</strong>, desde donde las operadoras te transportan en camionetas hasta el sitio de embarque río arriba.</p><p><em>📸 Créditos: posadasrurales.co, xplorercolombia.com</em></p>",
+    "keywords": "Rio Fonce, Rafting San Gil, Canotaje Colombia, deportes extremos, aventura Santander, San Gil, turismo aventura",
+    "address": "Malecón de San Gil, Santander, Colombia",
+    "lat": 6.5099,
+    "lng": -73.1613,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://posadasrurales.co/10179-large_default/rafting-rio-fonce-san-gil-santander.jpg",
+      "https://images.mnstatic.com/b6/d6/b6d67b7e402c48a351e30ca76f02e9ac.jpg",
+      "https://xplorercolombia.com/wp-content/uploads/2021/06/canotaje-RAFTING-FONCE-1.jpg"
+    ]
+  }
+}

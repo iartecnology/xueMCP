@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏖️ Playa Blanca — El Paraíso de Arena Blanca en Barú",
+    "content": "<p>🎯 <strong>¿Por qué visitar Playa Blanca?</strong></p><p><strong>Playa Blanca</strong> es, sin duda, la playa más famosa y hermosa de la Isla de Barú 🏖️. Conocida por sus arenas blancas y aguas cristalinas de un azul turquesa vibrante, es el destino de pasadía preferido para quienes buscan el sol del Caribe sin alejarse demasiado de Cartagena.</p><p>🌊 <strong>Sol, Arena y Mar</strong></p><p>Con kilómetros de costa bordeada de palmeras y restaurantes locales, Playa Blanca ofrece una experiencia caribeña auténtica. Puedes disfrutar de deportes acuáticos, relajarte en una cama balinesa o simplemente nadar en sus aguas tranquilas y poco profundas. Al atardecer, la playa se transforma en un lugar sereno donde puedes presenciar puestas de sol inolvidables.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🏊 <strong>Natación y Relajación</strong>: Disfruta de las mejores aguas de la zona continental de Cartagena.</li><li>🚤 <strong>Deportes Acuáticos</strong>: Alquila un kayak, haz jet sky o disfruta del 'banana boat'.</li><li>🦐 <strong>Gastronomía Costeña</strong>: Prueba el arroz con coco, pescado frito y patacones en las cabañas frente al mar.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Temprano en la mañana</strong>: Llega antes de las 10 AM para asegurar un buen lugar y disfrutar de la tranquilidad antes de la llegada de los tours masivos.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso a la playa es libre, pero el transporte tiene un costo variable.</li><li>🚗 <strong>Transporte</strong>: Puedes llegar por tierra cruzando el puente de Barú o por mar en lancha desde Cartagena.</li><li>🧴 <strong>Protección</strong>: El sol es extremadamente fuerte; usa bloqueador solar biodegradable y lleva sombrero.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se ubica en la <strong>Isla de Barú</strong>, a unos 45-60 minutos de Cartagena por tierra o 35 minutos en lancha rápida desde el Muelle de la Bodeguita.</p><p><em>📸 Créditos: cartagenatoursexp.com, tutourencartagena.com</em></p>",
+    "keywords": "Playa Blanca, Baru, Cartagena, playa arena blanca, Caribe colombiano, turismo Cartagena, pasadia Baru, vacaciones mar",
+    "address": "Playa Blanca, Isla de Barú, Cartagena, Bolívar, Colombia",
+    "lat": 10.2311,
+    "lng": -75.6133,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://cartagenatoursexp.com/wp-content/uploads/2022/09/Playa_Blanca_Baru.jpg",
+      "https://tutourencartagena.com/wp-content/uploads/2023/05/Baru-Playa-Blanca-Cartagena.jpg",
+      "https://viajesbengala.com/wp-content/uploads/2025/03/BARU-PLAYA-BLANCA-1024.webp"
+    ]
+  }
+}

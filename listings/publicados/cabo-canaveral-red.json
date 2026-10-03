@@ -1,0 +1,17 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Cabo Cañaveral - Prueba Red",
+      "content": "Probando si el servidor puede descargar cualquier cosa de internet.",
+      "status": "publish",
+      "type": "service",
+      "address": "Tayrona",
+      "image_urls": [
+        "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+      ],
+      "id": 6340,
+      "link": "https://xueturismo.com/-/cabo-canaveral-prueba-red/"
+    }
+  }
+]

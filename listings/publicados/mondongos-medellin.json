@@ -1,0 +1,34 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Mondongo's Medellín - Sopas y Comida Paisa Tradicional en Restaurante Emblemático",
+    "content": "<p><strong>Mondongo's</strong> es una institución culinaria en Medellín. Este restaurante se ha convertido en parada obligatoria para turistas y locales que buscan probar las <strong>sopas y caldos tradicionales antioqueños</strong> en su forma más auténtica y reconfortante. El nombre viene del mondongo, esa sopa espesa que es el alma de la cocina paisa.</p>
+
+<p><strong>El mondongo como tradición</strong></p>
+
+<p>El <strong>mondongo</strong> es una sopa hecha con callo (panza de res), verduras, especias y hierbas aromáticas que se cocina lentamente durante horas. En Mondongo's lo preparan siguiendo la receta tradicional que ha pasado de generación en generación. El resultado es un plato que reconforta el alma y conecta directamente con la <strong>memoria gastronómica de Antioquia</strong>.</p>
+
+<p><strong>Más que mondongo</strong></p>
+
+<p>Aunque el mondongo es la estrella, la carta incluye una variedad impresionante de <strong>sopas colombianas</strong>: el sancocho de gallina, la changua bogotana, el ajiaco santafereño, además de bandejas paisas, almuerzos ejecutivos con sopa del día, y postres como el arroz con leche y las natillas. Todo preparado con ingredientes frescos y el cariño de la cocina de casa.</p>
+
+<p><strong>Ambiente popular y acogedor</strong></p>
+
+<p>Con varias sedes en Medellín, Mondongo's mantiene un ambiente <strong>familiar y accesible</strong>. La decoración rústica con paredes de ladrillo, manteles a cuadros y música de fondo crea la atmósfera perfecta para disfrutar de una comida paisa de verdad. Es el tipo de lugar donde se come bien, se paga poco y se sale con el corazón lleno.</p>
+
+<p><strong>Cómo llegar</strong></p>
+
+<p>Con sedes en Laureles y El Poblado, Mondongo's es fácilmente accesible. La sede de Laureles está cerca de la estación Circular 1 del Metroplús. La sede de El Poblado está en zona de fácil acceso en taxi. Ambos son barrios centrales de Medellín.</p>
+
+<p><em>Créditos de imágenes: medellinguru.com, willflyforfood.net, magicalchefs.net - Imágenes referenciales de Mondongo's en Medellín.</em></p>",
+    "keywords": "Mondongos Medellín, sopa mondongo Medellín, restaurante sopa paisa, comida tradicional Medellín, sancocho Medellín, almuerzo económico Medellín, restaurante familiar paisa",
+    "address": "Laureles / El Poblado, Medellín, Antioquia, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://medellinguru.com/wp-content/uploads/2019/01/mondongo-1024x341.jpg",
+      "https://www.willflyforfood.net/wp-content/uploads/2022/12/medellin-restaurants-mondongos1.jpg",
+      "https://magicalchefs.net/wp-content/uploads/2023/01/mondongo-1339.png"
+    ]
+  }
+}

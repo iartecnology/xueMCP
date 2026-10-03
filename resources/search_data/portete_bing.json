@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Bahia Portete Guajira Colombia playa"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://lacgeo.com/bahia-portete-kaurrele-national-park&quot;,&quot;murl&quot;:&quot;https://lacgeo.com/sites/default/files/cabo_de_la_vela_colombia_opt.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.istockphoto.com/es/foto/paisaje-de-playa-en-el-parque-nacional-natural-bahía-portete-guajira-colombia-gm1445582626-483945364&quot;,&quot;murl&quot;:&quot;https://media.istockphoto.com/id/1445582626/es/foto/paisaje-de-playa-en-el-parque-nacional-natural-bahía-portete-guajira-colombia.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://lacgeo.com/bahia-portete-kaurrele-national-park&quot;,&quot;murl&quot;:&quot;https://lacgeo.com/sites/default/files/cabo_de_la_vela_colombia_opt.jpg"
+  },
+  {
+    "image_url": "https://www.istockphoto.com/es/foto/paisaje-de-playa-en-el-parque-nacional-natural-bahía-portete-guajira-colombia-gm1445582626-483945364&quot;,&quot;murl&quot;:&quot;https://media.istockphoto.com/id/1445582626/es/foto/paisaje-de-playa-en-el-parque-nacional-natural-bahía-portete-guajira-colombia.jpg"
+  }
+]

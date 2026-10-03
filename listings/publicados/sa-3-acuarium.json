@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Restaurante Acuarium | Mariscos y Langosta, San Andres",
+    "content": "<p><strong>Restaurante Acuarium</strong> es el templo de los mariscos y la langosta en San Andres, un lugar donde los frutos del Mar Caribe se sirven en su maxima expresion: frescos, abundantes y preparados con la maestria de quien conoce cada secreto del oceano.</p>\n\n<p><strong>El mar como despensa:</strong> Acuarium trabaja con los pescadores locales de San Andres para ofrecer los productos mas frescos del Caribe: langostas del archipielago (en temporada, de junio a noviembre), camarones gigantes, caracoles, cangrejos, pargos rojos y una variedad de pescados que llegan del mar a la mesa en cuestion de horas. La filosofia es simple: producto fresco, preparacion honesta, sabor autentico.</p>\n\n<p><strong>Platos estrella:</strong> La <strong>langosta a la parrilla con mantequilla de ajo</strong> es la estrella indiscutible, el <strong>camaron al ajillo con arroz blanco</strong> es un clasico reconfortante, el <strong>mix de mariscos fritos</strong> con patacon y ensalada es abundante y festivo, el <strong>pargo rojo entero frito</strong> con salsa criolla es tradicion pura, y la <strong>sopa de caracol</strong> con leche de coco y especias caribenas es un viaje al corazon del Caribe.</p>\n\n<p><strong>Ambiente:</strong> Espacioso y luminoso, con decoracion marina que incluye redes, conchas y fotografias submarinas del arrecife de coral de San Andres (Seaflower). El salon tiene vista al mar y la terraza es ideal para comer al aire libre sintiendo la brisa caribena. El servicio es eficiente y los meseros conocen cada especie del menu.</p>\n\n<p><strong>Como llegar:</strong> En zona turistica de San Andres, accesible desde El Centro y la Avenida Colombia. Taxistas y conductores de golf carts conocen el restaurante perfectamente.</p>\n\n<p><em>Creditos de imagenes: La Langosta Feliz / TripAdvisor</em></p>",
+    "keywords": "Restaurante Acuarium San Andres, langosta San Andres, mariscos Caribe colombiano, pargo rojo frito San Andres, sopa de caracol Caribe, camaron al ajillo isleño, restaurante mariscos isleño, Seaflower San Andres",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://langostafeliz.com/wp-content/uploads/2019/10/restaurante-de-mariscos-y-langosta-en-puerto-vallarta-1024x681.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/15/e7/c4/83/photo1jpg.jpg",
+      "https://mexicorutamagica.mx/wp-content/uploads/2023/05/restaurantes-de-baja-california-casa-langosta.jpg"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "La Esmoraca | Desayunos y Almuerzos Costeños, Santa Marta",
+    "content": "<p><strong>La Esmoraca</strong> es el restaurante de Santa Marta donde el dia comienza con los sabores mas autenticos del Caribe colombiano. Especializado en desayunos y almuerzos costeños, es el lugar donde los locales vienen a alimentarse como en casa y los turistas descubren la verdadera cocina de la costa.</p>\n\n<p><strong>La cultura del almuerzo costeño:</strong> En la costa Caribe colombiana, el almuerzo es la comida principal del dia y el desayuno es un ritual sagrado. La Esmoraca honra ambas tradiciones con recetas que han pasado de generacion en generacion: las mismas que las abuelas costeñas preparaban antes del amanecer y que alimentaban a familias enteras al mediodia.</p>\n\n<p><strong>Platos estrella en desayuno:</strong> Los <strong>huevos pericos con arepa de maiz pelao</strong>, el <strong>cayeye con queso costeño y suero</strong>, el <strong>calentao</strong> (arroz y frijoles recalentados con huevo frito y chorizo), las <strong>empanadas de carne con ají costeño</strong> y el <strong>chocolate santafereño con queso y pan de bono</strong>. En almuerzos: el <strong>sancocho de pescado con arroz con coco</strong>, la <strong>bandeja costeña con arroz, frijoles, carne, maduro y ensalada</strong>, el <strong>arroz con pollo a la costeña</strong> y la <strong>ensalada de aguacate con tomate y cebolla morada</strong>.</p>\n\n<p><strong>Ambiente:</strong> Familiar, sencillo y acogedor. El aroma a cafe recién colado y a arepa en el fogon te recibe desde la puerta. Las paredes decoradas con fotos antiguas de Santa Marta y la musica de boleros y cumbias crean una atmosfera de nostalgia costeña. Es el tipo de lugar donde el mesero te llama por tu nombre desde la segunda visita.</p>\n\n<p><strong>Como llegar:</strong> En zona residencial de Santa Marta, cerca al centro historico. Ideal para ir por la mañana temprano o al mediodia, cuando los platos acaban de salir de la cocina.</p>\n\n<p><em>Creditos de imagenes: Multihomes / Hotel Edmar</em></p>",
+    "keywords": "La Esmoraca Santa Marta, desayunos costeños Santa Marta, almuerzos Santa Marta, cayeye con queso, calentao costeño, sancocho de pescado Santa Marta, comida tipica Santa Marta, restaurante familiar Caribe",
+    "address": "Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://multihomes.co/wp-content/uploads/2021/05/Arroz-con-coco-Comida-costena-768x576.jpg",
+      "http://viejaqueviaja.com/wp-content/uploads/2022/08/restaurantes_santa_marta_colombia.jpg",
+      "https://hoteledmarsantamarta.com/wp-content/uploads/2016/04/menu-mojarrafrita.jpg"
+    ]
+  }
+}

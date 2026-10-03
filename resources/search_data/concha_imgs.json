@@ -1,0 +1,40 @@
+🔍 Searching: "Bahia Concha Santa Marta"
+📊 Results: 2
+
+✅ Got VQD token: 4-78144402355471531373104451798936811548 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://santamartatrip.com/sites/default/files/cocoon/velero5.jpg
+   Source: https://santamartatrip.com/es/tour-bahia-concha
+   Title: Bahía Concha | Santa Marta Trip
+   Width: 1400 | Height: 1050
+====================================================================================================
+
+📸 Image 2:
+   URL: https://santamartatrip.com/sites/default/files/cocoon/bahia-concha_.jpg
+   Source: https://santamartatrip.com/en/post/top-5-best-beaches-city-santa-marta
+   Title: Top 5 of the best beaches in the city of Santa Marta | Santa Marta Trip
+   Width: 1100 | Height: 777
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://santamartatrip.com/sites/default/files/cocoon/velero5.jpg",
+    "source_url": "https://santamartatrip.com/es/tour-bahia-concha",
+    "title": "Bahía Concha | Santa Marta Trip",
+    "width": 1400,
+    "height": 1050
+  },
+  {
+    "image_url": "https://santamartatrip.com/sites/default/files/cocoon/bahia-concha_.jpg",
+    "source_url": "https://santamartatrip.com/en/post/top-5-best-beaches-city-santa-marta",
+    "title": "Top 5 of the best beaches in the city of Santa Marta | Santa Marta Trip",
+    "width": 1100,
+    "height": 777
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🤠 Villavicencio — La Puerta de Oro del Llano",
+    "content": "<p>🎯 <strong>¿Por qué visitar Villavicencio?</strong></p><p><strong>Villavicencio</strong>, cariñosamente llamada 'Villavo', es la ciudad donde comienza la aventura llanera 🤠. Es una mezcla vibrante de desarrollo urbano y profundas tradiciones campesinas, donde el joropo, la carne a la perra y los atardeceres de fuego son los protagonistas de una cultura orgullosa de su tierra.</p><p>🍖 <strong>Cultura y Gastronomía</strong></p><p>La capital del Meta ofrece una experiencia sensorial completa. Desde sus parques temáticos hasta su exquisita gastronomía basada en la 'Mamona' (carne a la llanera), Villavicencio invita a conocer el alma del llanero. Es el punto de partida perfecto para explorar la sabana, disfrutar de un buen parrando llanero y sentir la hospitalidad de una gente acostumbrada a la libertad del horizonte.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🎭 <strong>Parque Las Malocas</strong>: Vive la experiencia de una verdadera hacienda llanera con demostraciones de vaquería y joropo.</li><li>🍖 <strong>Ruta Gastronómica</strong>: Disfruta de la mejor carne a la llanera en los restaurantes típicos de la ciudad y sus alrededores.</li><li>🌅 <strong>Mirador de Buena Vista</strong>: Disfruta de una panorámica espectacular de la ciudad y el inicio de la llanura infinita.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Todo el año</strong>: La ciudad siempre tiene algo que ofrecer, pero el Torneo Internacional del Joropo (junio/julio) es la mejor época para vivir su cultura.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Acceso libre a la ciudad; los parques temáticos tienen costos moderados.</li><li>🚗 <strong>Transporte</strong>: La vía Bogotá-Villavicencio ofrece paisajes de montaña increíbles, pero consulta siempre el estado del tráfico.</li><li>🌞 <strong>Clima</strong>: Es cálido y húmedo; lleva ropa ligera y mantente hidratado.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a unos 120 kilómetros de <strong>Bogotá</strong>. Se puede llegar por una moderna autopista en aproximadamente 3 horas, o por vía aérea al Aeropuerto Vanguardia.</p><p><em>📸 Créditos: elviajerotricolor.com, blog.redbus.co</em></p>",
+    "keywords": "Villavicencio, Meta, Llanos Orientales, Mamona, Joropo, turismo Villavicencio, puerta del llano, cultura llanera, gastronomia Meta",
+    "address": "Villavicencio, Meta, Colombia",
+    "lat": 4.1420,
+    "lng": -73.6266,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://elviajerotricolor.com/wp-content/uploads/2018/05/que-hacer-en-villavicencio-meta.jpg",
+      "https://cdn.colombia.com/images/turismo/sitios-turisticos/villavicencio/panoramica-villavicencio.jpg",
+      "https://periodicodelmeta.com/wp-content/uploads/2022/09/308786771_789963258789784_3346324079280519478_n-1068x801.jpg"
+    ]
+  }
+}

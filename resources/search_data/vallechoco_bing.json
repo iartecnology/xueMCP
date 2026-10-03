@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Playa El Valle Bahia Solano Choco"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://miviajeporcolombia.com/el-valle-bahia-solano-costa-pacifica/&quot;,&quot;murl&quot;:&quot;https://miviajeporcolombia.com/wp-content/uploads/2018/10/el-valle-bahia-solano-costa-pacifica.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.youtube.com/watch?v=AbPXSTz74Vw&quot;,&quot;murl&quot;:&quot;https://i.ytimg.com/vi/AbPXSTz74Vw/maxresdefault.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://miviajeporcolombia.com/el-valle-bahia-solano-costa-pacifica/&quot;,&quot;murl&quot;:&quot;https://miviajeporcolombia.com/wp-content/uploads/2018/10/el-valle-bahia-solano-costa-pacifica.jpg"
+  },
+  {
+    "image_url": "https://www.youtube.com/watch?v=AbPXSTz74Vw&quot;,&quot;murl&quot;:&quot;https://i.ytimg.com/vi/AbPXSTz74Vw/maxresdefault.jpg"
+  }
+]

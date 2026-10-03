@@ -1,0 +1,21 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Pirámides de Teotihuacán — La Ciudad de los Dioses",
+    "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p><strong>Teotihuacán</strong> es una de las zonas arqueológicas más impresionantes del mundo y un testimonio asombroso del ingenio humano prehispánico 🏛️. Caminar por la Calzada de los Muertos y contemplar la inmensidad de las pirámides del Sol y la Luna es una experiencia que redefine tu perspectiva sobre la historia y la arquitectura antigua. Es un destino imprescindible para cualquier viajero que visite México.</p><p>📜 <strong>Historia y significancia</strong></p><p>Fundada alrededor del año 100 a.C., Teotihuacán llegó a ser una de las ciudades más grandes del mundo antiguo, con una población estimada de 150,000 habitantes. Aunque se desconoce quiénes fueron sus constructores originales, los Aztecas la descubrieron siglos después de su abandono y la llamaron \"El lugar donde los hombres se convierten en dioses\". Fue declarada Patrimonio de la Humanidad por la UNESCO en 1987.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>☀️ <strong>Pirámide del Sol:</strong> Con 65 metros de altura, es la estructura más grande del sitio y un prodigio de la ingeniería antigua.</li><li>🌙 <strong>Pirámide de la Luna:</strong> Ubicada al final de la Calzada de los Muertos, ofrece la vista simétrica más perfecta de todo el complejo.</li><li>🐍 <strong>Templo de Quetzalcóatl:</strong> Admira las impresionantes esculturas de la Serpiente Emplumada y Tláloc.</li><li>🎨 <strong>Palacio de Quetzalpapálotl:</strong> Descubre los frescos y patios que muestran la vida de la élite teotihuacana.</li><li>🎈 <strong>Vuelo en Globo:</strong> Vive la experiencia mágica de sobrevolar las pirámides al amanecer (se requiere reserva previa).</li></ul><p>💡 <strong>Consejos para tu visita</strong></p><ul><li>☀️ <strong>Protección solar:</strong> El sol es intenso y hay poca sombra; lleva sombrero, bloqueador y mucha agua.</li><li>👟 <strong>Calzado:</strong> Usa tenis o botas cómodas, caminarás varios kilómetros sobre piedra y tierra.</li><li>🕒 <strong>Horario:</strong> Llega a las 8:00 AM para evitar las multitudes y el calor del mediodía.</li><li>🗣️ <strong>Guías:</strong> Contratar un guía certificado en la entrada enriquecerá enormemente tu comprensión del sitio.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Situada a 50 km al noreste de la Ciudad de México. Puedes llegar en auto por la autopista México-Pachuca o tomar un autobús directo desde la Terminal Central del Norte en CDMX (Andén 7).</p><p><em>📸 Créditos: Wikimedia Commons</em></p>",
+    "keywords": "Teotihuacan, piramides del sol y la luna, zona arqueologica mexico, calzada de los muertos, turismo mexico, cultura teotihuacana, patrimonio de la humanidad, piramide del sol, piramide de la luna",
+    "address": "Zona Arqueológica de Teotihuacán, 55800 San Juan Teotihuacán de Arista, Méx., México",
+    "lat": 19.6925,
+    "lng": -98.8438,
+    "category": "turismo",
+    "status": "publish",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Teotihuacan_Pyramid_of_the_Sun.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pyramid_of_the_Moon_Teotihuacan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Temple_of_the_Feathered_Serpent_Teotihuacan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6a/Avenue_of_the_Dead_Teotihuacan.jpg"
+    ],
+    "id": 6397,
+    "link": "http://xueturismo.com/turismo/piramides-de-teotihuacan-la-ciudad-de-los-dioses-2/"
+  }
+}

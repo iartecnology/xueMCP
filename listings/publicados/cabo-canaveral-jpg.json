@@ -1,0 +1,17 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Cabo Cañaveral - Prueba Final JPG",
+      "content": "Probando si el problema es Unsplash o el formato JPG.",
+      "status": "publish",
+      "type": "service",
+      "address": "Tayrona",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tayrona_National_Park_Cabo_San_Juan.jpg"
+      ],
+      "id": 6342,
+      "link": "https://xueturismo.com/-/cabo-canaveral-prueba-final-jpg/"
+    }
+  }
+]

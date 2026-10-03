@@ -1,0 +1,122 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🍧 Salpicón de Frutas — El Cóctel Tropical de Colombia",
+      "content": "<p>El <strong>Salpicón</strong> es la mezcla perfecta de frutas tropicales picadas en un jugo de sandía o gaseosa roja 🍧. Es el snack saludable y refrescante que se encuentra en cada esquina del país.</p><p>📸 <strong>Experiencias</strong>: Pídelo con una bola de helado de vainilla encima para transformarlo en un postre espectacular.</p>",
+      "address": "Toda Colombia",
+      "lat": 4.57,
+      "lng": -74.29,
+      "keywords": "Salpicon de frutas, postre colombiano, frutas tropicales, snack saludable, comida callejera",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Salpicon.JPG"
+      ],
+      "id": 6378,
+      "link": "https://xueturismo.com/listado/%f0%9f%8d%a7-salpicon-de-frutas-el-coctel-tropical-de-colombia-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🍨 Cholado Valluno — El Oasis de Hielo y Fruta de Cali",
+      "content": "<p>El <strong>Cholado</strong> es una mezcla explosiva de hielo raspado, almíbares dulces, fruta fresca picada, leche condensada y galleta 🍨. Es el símbolo refrescante del Valle del Cauca.</p><p>📸 <strong>Experiencias</strong>: Los mejores se encuentran en Jamundí y en las 'canchas de cholado' en Cali. Es la cura definitiva para el calor del Pacífico.</p>",
+      "address": "Cali, Valle del Cauca, Colombia",
+      "lat": 3.4516,
+      "lng": -76.532,
+      "keywords": "Cholado, Cali gastronomia, postre valluno, hielo raspado, frutas Cali",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Cholado_en_Jamund%C3%AD.jpg"
+      ],
+      "id": 6379,
+      "link": "https://xueturismo.com/listado/%f0%9f%8d%a8-cholado-valluno-el-oasis-de-hielo-y-fruta-de-cali-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🥤 Champús Valluno — La Bebida Ancestral de Maíz y Frutas",
+      "content": "<p>El <strong>Champús</strong> es una bebida densa y aromática hecha a base de maíz quebrado, lulo, piña, canela y hojas de naranjo agrio 🥤. Es una herencia indígena que sobrevive con fuerza en el suroccidente colombiano.</p><p>📸 <strong>Experiencias</strong>: Se sirve muy frío y es el acompañante tradicional de las empanadas vallunas.</p>",
+      "address": "Cali, Valle del Cauca, Colombia",
+      "lat": 3.45,
+      "lng": -76.53,
+      "keywords": "Champus, bebida tipica Cali, maiz y lulo, tradicion indigena, gastronomia Valle",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Champ%C3%BAs_valluno.jpg"
+      ],
+      "id": 6380,
+      "link": "https://xueturismo.com/listado/%f0%9f%a5%a4-champus-valluno-la-bebida-ancestral-de-maiz-y-frutas-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🥤 Lulada — La Refrescancia Cítrica del Valle",
+      "content": "<p>La <strong>Lulada</strong> es una bebida única donde el lulo se machaca manualmente (no se licúa) para conservar su textura, mezclándose con agua, azúcar y mucho hielo 🥤.</p><p>📸 <strong>Experiencias</strong>: La diferencia con un jugo de lulo es la textura de la fruta picada que se siente en cada sorbo. Es ácida, dulce y extremadamente refrescante.</p>",
+      "address": "Cali, Valle del Cauca, Colombia",
+      "lat": 3.46,
+      "lng": -76.54,
+      "keywords": "Lulada, lulo, bebida Cali, refresco colombiano, gastronomia Valle",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Lulada.jpg"
+      ],
+      "id": 6381,
+      "link": "https://xueturismo.com/listado/%f0%9f%a5%a4-lulada-la-refrescancia-citrica-del-valle-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🍚 Arroz con Leche — El Dulce Consuelo del Hogar",
+      "content": "<p>El <strong>Arroz con Leche</strong> es el postre casero por excelencia en Colombia 🍚. Cremoso, con aroma a canela y clavos, y a menudo enriquecido con pasas y leche condensada.</p><p>📸 <strong>Experiencias</strong>: Cada región tiene su variante, pero el secreto siempre es la cocción lenta para lograr la máxima cremosidad del grano.</p>",
+      "address": "Toda Colombia",
+      "lat": 4.58,
+      "lng": -74.3,
+      "keywords": "Arroz con leche, postre tipico, dulce colombiano, cocina casera, tradicion familiar",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/Arroz_con_leche_colombiano.jpg"
+      ],
+      "id": 6382,
+      "link": "https://xueturismo.com/listado/%f0%9f%8d%9a-arroz-con-leche-el-dulce-consuelo-del-hogar-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "☁️ Merengón Colombiano — Nubes de Azúcar y Fruta",
+      "content": "<p>El <strong>Merengón</strong> es un postre etéreo hecho de capas de merengue (suspiro), crema batida y abundantes frutas frescas como fresas, guanábana o durazno ☁️.</p><p>📸 <strong>Experiencias</strong>: Es muy popular en las carreteras de la sabana de Bogotá, donde se venden versiones gigantes que son el deleite de los viajeros.</p>",
+      "address": "Sabana de Bogotá, Colombia",
+      "lat": 4.85,
+      "lng": -74.05,
+      "keywords": "Merengon, postre de merengue, fresas con crema, dulce bogotano, gastronomia Cundinamarca",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Mereng%C3%B3n_de_guan%C3%A1bana.jpg"
+      ],
+      "id": 6383,
+      "link": "https://xueturismo.com/listado/%e2%98%81%ef%b8%8f-merengon-colombiano-nubes-de-azucar-y-fruta-2/"
+    }
+  }
+]

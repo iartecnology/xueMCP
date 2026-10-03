@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏞️ Serranía de la Macarena — El Puente entre los Mundos",
+    "content": "<p>🎯 <strong>¿Por qué explorar la Serranía de la Macarena?</strong></p><p>La <strong>Serranía de la Macarena</strong> es uno de los tesoros biológicos más importantes de Colombia 🏞️. Ubicada en el punto de encuentro de los Andes, la Amazonía y la Orinoquía, esta formación geológica es un laboratorio natural de biodiversidad, hogar de especies que no se encuentran en ningún otro lugar del planeta.</p><p>🌿 <strong>Biodiversidad y Geología</strong></p><p>Con sus tepuyes milenarios y su densa selva, la serranía ofrece paisajes que parecen sacados de un sueño. Además de ser el hogar de Caño Cristales, la región alberga una red de ríos, cascadas y formaciones rocosas únicas. Es un destino para los amantes de la aventura real, el avistamiento de aves y la inmersión en la naturaleza más salvaje y auténtica de los Llanos Orientales.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🦅 <strong>Birdwatching</strong>: Observa cientos de especies de aves en un entorno donde convergen tres ecosistemas.</li><li>🚶 <strong>Caminatas de Selva</strong>: Explora los senderos que conducen a lugares menos conocidos pero igualmente mágicos como Caño Cristalitos o el Raudal de Angosturas.</li><li>🛶 <strong>Navegación por el Guayabero</strong>: Siente la fuerza de los ríos llaneros mientras navegas rodeado de caimanes y tortugas.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Temporada de lluvias (Junio a Noviembre)</strong>: Es cuando la selva está más vibrante y los ríos fluyen con toda su energía.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Ingreso</strong>: Se requiere la contratación de guías locales y el pago de tasas ambientales administradas por Parques Nacionales.</li><li>🦟 <strong>Salud</strong>: Es obligatorio tener la vacuna contra la fiebre amarilla (mínimo 10 días antes del viaje).</li><li>🧥 <strong>Ropa</strong>: Lleva ropa ligera de secado rápido y botas con buen agarre para terrenos húmedos.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El centro de operaciones es el municipio de <strong>La Macarena, Meta</strong>. Se puede acceder por vía aérea desde las principales ciudades de Colombia.</p><p><em>📸 Créditos: parquesnacionales.gov.co, colombia.travel</em></p>",
+    "keywords": "Serrania de la Macarena, La Macarena, Meta, biodiversidad Colombia, tepuyes, turismo aventura, Andes Amazonia Orinoquia, parque nacional natural",
+    "address": "Serranía de la Macarena, Meta, Colombia",
+    "lat": 2.1833,
+    "lng": -73.8000,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.parquesnacionales.gov.co/wp-content/uploads/2025/06/Parque-Nacional-Natural-Sierra-de-la-Macarena-Foto-Danilo-Arenas-2-scaled.jpg",
+      "https://colombia.travel/sites/default/files/sierra-de-la-macarena.jpg",
+      "https://cdn.colombia.com/sdi/2014/03/13/parque-nacional-natural-sierra-de-la-macarena-853791.jpg"
+    ]
+  }
+}

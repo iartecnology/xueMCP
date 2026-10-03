@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "El Santoral - Comida Típica Barranquillera Auténtica en el Corazón de Barranquilla",
+    "content": "<p><strong>El Santoral</strong> es uno de los restaurantes más emblemáticos de <strong>Barranquilla</strong> cuando se trata de saborear la auténtica <strong>comida típica barranquillera</strong>. Este restaurante se ha ganado un lugar especial en el corazón de los locales y visitantes que buscan los sabores tradicionales de la costa Caribe colombiana.</p>\n\n<p><strong>Historia y tradición</strong></p>\n\n<p>El Santoral nació con la misión de preservar y celebrar la <strong>gastronomía costeña</strong> en su forma más pura. Cada plato cuenta una historia de generaciones de cocineras barranquilleras que transmitieron sus recetas de madre a hija, manteniendo viva la esencia del sabor del Caribe colombiano.</p>\n\n<p><strong>Platos estrella</strong></p>\n\n<p>La carta del Santoral es un festín de la cocina barranquillera: <strong>arroz con coco y pescado frito</strong>, el emblemático <strong>suero atollabuey</strong> con bollo limpio, <strong>cazuela de mariscos</strong> con leche de coco, <strong>carimañolas</strong> rellenas de queso costeño, y el infaltable <strong> arroz con pollo y costeñas</strong>. Los fines de semana, el <strong>caldillo de bocachico</strong> se convierte en el protagonista indiscutible de las mesas.</p>\n\n<p><strong>Ambiente y experiencia</strong></p>\n\n<p>El ambiente es cálido y familiar, con decoración que evoca las <strong>casonas coloniales del Caribe</strong>. Música de cumbia y porro suena de fondo, creando la atmósfera perfecta para sentirte en plena costa. Es ideal para almuerzos familiares y para quienes quieren experimentar la verdadera comida barranquillera.</p>\n\n<p><strong>Cómo llegar</strong></p>\n\n<p>El Santoral se encuentra en Barranquilla, Atlántico. Se puede acceder fácilmente en taxi o bus urbano desde cualquier punto de la ciudad. El restaurante está ubicado en una zona céntrica y accesible, con estacionamiento cercano disponible.</p>\n\n<p><em>Créditos de imágenes: agendacolombia.com, colombia.com, likebarranquilla.com - Imágenes referenciales de comida típica barranquillera.</em></p>",
+    "keywords": "El Santoral Barranquilla, comida típica Barranquilla, restaurante costeño, gastronomía Caribe colombiano, arroz con coco Barranquilla, carimañolas, cazuela de mariscos, restaurante tradicional Barranquilla",
+    "address": "Barranquilla, Atlántico, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://agendacolombia.com/wp-content/uploads/2021/07/Comida-tipica-barranquilla.jpg",
+      "https://cdn.colombia.com/sdi/2025/02/20/los-10-platos-tipicos-de-barranquilla-1274577.jpg",
+      "https://likebarranquilla.com/wp-content/uploads/2021/04/Mojarra-frita.jpeg"
+    ]
+  }
+}

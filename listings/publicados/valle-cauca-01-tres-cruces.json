@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "⛰️ Cerro de las Tres Cruces — El Mirador de Cali",
+    "content": "<p>🎯 <strong>¿Por qué subir al Cerro de las Tres Cruces?</strong></p><p>El <strong>Cerro de las Tres Cruces</strong> es el destino deportivo y de peregrinación más importante de Cali ⛰️. Con una altura de 1.480 msnm, ofrece una de las mejores vistas panorámicas de la 'Sucursal del Cielo' y es el lugar preferido por los caleños para hacer ejercicio al aire libre.</p><p>🏃 <strong>Deporte y Tradición</strong></p><p>La subida es un reto físico que recompensa con una brisa fresca y una vista inigualable. En la cima, las tres cruces monumentales (construidas para proteger a la ciudad según la leyenda local) vigilan el valle. Es común encontrar puestos de jugo de naranja y fruta fresca para recargar energías al llegar a la cima.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🥾 <strong>Senderismo</strong>: Una caminata exigente pero gratificante de aproximadamente 45 a 60 minutos.</li><li>🌅 <strong>Vista Panorámica</strong>: Fotografía toda la ciudad de Cali desde el norte hasta el sur.</li><li>🥤 <strong>Cultura Caleña</strong>: Disfruta del ambiente deportivo y familiar que se vive cada mañana en el cerro.</li></ul><p>🕐 <strong>Horario recomendado</strong></p><p>📅 <strong>Mañanas</strong>: 5 AM - 9 AM (para evitar el calor intenso).<br>📅 <strong>Fines de semana</strong>: Es cuando hay más seguridad y afluencia de personas.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Acceso libre.</li><li>👟 <strong>Calzado</strong>: Usa tenis con buen agarre, el terreno puede ser resbaladizo.</li><li>💧 <strong>Hidratación</strong>: Lleva agua, aunque encontrarás vendedores en el camino.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>El ascenso principal comienza en el barrio <strong>Normandía</strong> (sector Juanambú), en el noroeste de Cali. Es fácil llegar en taxi o transporte público hasta el pie del cerro.</p><p><em>📸 Créditos: hablemosdeculturas.com, alamy.com</em></p>",
+    "keywords": "Cerro de las Tres Cruces, Cali, senderismo Cali, mirador Cali, turismo Valle del Cauca, deporte aire libre, tres cruces, que hacer en Cali",
+    "address": "Barrio Normandía, Cali, Valle del Cauca, Colombia",
+    "lat": 3.4683,
+    "lng": -76.5414,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "http://hablemosdeculturas.com/wp-content/uploads/2018/12/cerro-de-las-tres-cruces-en-cali.jpg",
+      "https://c8.alamy.com/comp/J7E9PJ/hill-of-three-crosses-cerro-de-las-tres-cruces-and-cali-city-view-J7E9PJ.jpg",
+      "https://l13.alamy.com/360/R0763K/cerro-de-las-tres-cruces-cali-colombia-R0763K.jpg",
+      "https://hablemosdeculturas.com/wp-content/uploads/2018/12/cerro-de-las-tres-cruces-en-cali-1.jpeg"
+    ]
+  }
+}

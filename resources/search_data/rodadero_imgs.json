@@ -1,0 +1,40 @@
+🔍 Searching: "Playa El Rodadero Santa Marta"
+📊 Results: 2
+
+✅ Got VQD token: 4-35355441674617075019580232805068381122 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://cdn.colombia.com/sdi/2014/01/26/playa-el-rodadero-927099.jpg
+   Source: https://www.colombia.com/turismo/sitios-turisticos/santa-marta/atractivos-turisticos/sdi469/80132/playa-el-rodadero
+   Title: Playa El Rodadero: Símbolo de consolidación de un inigualable destino ...
+   Width: 1200 | Height: 650
+====================================================================================================
+
+📸 Image 2:
+   URL: https://playasdecolombia.net/wp-content/uploads/2023/04/playa-rodadero-1024x576.jpg
+   Source: https://playasdecolombia.net/playa-rodadero-en-santa-marta-y-su-increible-vida-noctura/
+   Title: Playa Rodadero en Santa Marta y su increíble vida noctura
+   Width: 1024 | Height: 576
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://cdn.colombia.com/sdi/2014/01/26/playa-el-rodadero-927099.jpg",
+    "source_url": "https://www.colombia.com/turismo/sitios-turisticos/santa-marta/atractivos-turisticos/sdi469/80132/playa-el-rodadero",
+    "title": "Playa El Rodadero: Símbolo de consolidación de un inigualable destino ...",
+    "width": 1200,
+    "height": 650
+  },
+  {
+    "image_url": "https://playasdecolombia.net/wp-content/uploads/2023/04/playa-rodadero-1024x576.jpg",
+    "source_url": "https://playasdecolombia.net/playa-rodadero-en-santa-marta-y-su-increible-vida-noctura/",
+    "title": "Playa Rodadero en Santa Marta y su increíble vida noctura",
+    "width": 1024,
+    "height": 576
+  }
+]

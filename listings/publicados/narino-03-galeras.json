@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🌋 Volcán Galeras — El Centinela de Pasto",
+    "content": "<p>🎯 <strong>¿Por qué admirar el Volcán Galeras?</strong></p><p>El <strong>Volcán Galeras</strong> es uno de los volcanes más activos y emblemáticos de Colombia 🌋. Con su silueta imponente dominando el horizonte de San Juan de Pasto, este gigante andino es un símbolo de la fuerza de la naturaleza y un destino fascinante para quienes buscan paisajes de alta montaña y biodiversidad.</p><p>🏔️ <strong>Naturaleza y Paisaje Andino</strong></p><p>Ubicado en el Santuario de Flora y Fauna Galeras, el volcán está rodeado de páramos, lagunas y bosques andinos que albergan especies únicas como el oso de anteojos y diversas aves de alta montaña. Su actividad constante ha moldeado la geografía y la cultura de la región, convirtiéndolo en un punto de referencia obligatorio para cualquier viajero en Nariño.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🌄 <strong>Miradores</strong>: Disfruta de vistas espectaculares del cráter y de la ciudad de Pasto desde los puntos permitidos por las autoridades.</li><li>🥾 <strong>Senderismo</strong>: Recorre los senderos del Santuario de Flora y Fauna (siempre verificando el estado de alerta volcánica).</li><li>🧤 <strong>Clima Frío</strong>: Siente la pureza del aire andino en las faldas del volcán.</li></ul><p>🕐 <strong>Mejor momento para ver</strong></p><p>📅 <strong>Mañanas despejadas</strong>: Es el mejor momento para apreciar la cumbre y las posibles fumarolas.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El acceso al Santuario suele requerir registro y pago en los centros de visitantes.</li><li>⚠️ <strong>Seguridad</strong>: El acceso a la cima suele estar restringido por ser un volcán activo. Consulta siempre el nivel de alerta antes de ir.</li><li>🧥 <strong>Ropa</strong>: Lleva abrigo para alta montaña, el viento puede ser muy fuerte y frío.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a pocos kilómetros de la ciudad de <strong>Pasto</strong>. Se puede acceder a sus faldas por la carretera que conduce al municipio de Consacá.</p><p><em>📸 Créditos: flickr.com, blog.redbus.co</em></p>",
+    "keywords": "Volcan Galeras, Pasto, Nariño, volcan activo, senderismo Nariño, turismo naturaleza, montaña Colombia, Santuario Flora y Fauna Galeras",
+    "address": "Santuario de Flora y Fauna Galeras, Pasto, Nariño, Colombia",
+    "lat": 1.2208,
+    "lng": -77.3592,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://c2.staticflickr.com/4/3322/3241836769_c374c9f490_b.jpg",
+      "https://blog.redbus.co/wp-content/uploads/2019/12/77045473_o-e1576856232718.jpg",
+      "https://i.pinimg.com/originals/99/99/49/999949cde91c35c9eb2b7704a6aa9816.jpg"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Nahua | Cocina Ancestral Sierra Nevada, Santa Marta",
+    "content": "<p><strong>Nahua</strong> es un restaurante unico en Santa Marta que rinde homenaje a la cocina ancestral de las comunidades indigenas de la Sierra Nevada de Santa Marta: Kogui, Arhuaco, Wiwa y Kankuamo. Cada plato es un viaje a las raices mas profundas del Caribe colombiano.</p>\n\n<p><strong>Herencia ancestral:</strong> El nombre Nahua evoca las lenguas y tradiciones de los pueblos originarios de la Sierra Nevada. La filosofia del restaurante se basa en rescatar y valorar las tecnicas culinarias milenarias de estas comunidades: coccion en piedra, ahumado con lena de arboles nativos, fermentacion natural y el uso de ingredientes que la Sierra ha producido por siglos.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>chivo guisado al estilo Kogui</strong> con especias de la Sierra, el <strong>cazon ahumado con salsa de corozo</strong>, la <strong>yuca brava con hogao costeño</strong>, el <strong>sancocho de gallina criolla con raices de la Sierra</strong> y las <strong>arepas de maiz pilado</strong>. Las bebidas incluyen <strong>chicha de maiz</strong> y <strong>agua de panela con limon</strong>, bebidas tradicionales que acompanaban las comidas de los pueblos indigenas.</p>\n\n<p><strong>Ambiente:</strong> La decoracion incorpora tejidos indigenas, cesteria artesanal y elementos de las culturas de la Sierra Nevada. El espacio es calido, con iluminacion tenue y musica ambiental que incluye cantos tradicionales de las comunidades originarias. Es una experiencia que va mas alla de lo gastronomico.</p>\n\n<p><strong>Como llegar:</strong> En Santa Marta, puerta de entrada a la Sierra Nevada. Se accede facilmente desde el centro historico. El restaurante ofrece informacion sobre visitas a comunidades indigenas para quienes quieran profundizar en la experiencia.</p>\n\n<p><em>Creditos de imagenes: Alamy / La Palestra</em></p>",
+    "keywords": "Nahua Santa Marta, cocina ancestral Sierra Nevada, comunidad Kogui, restaurante indigena Santa Marta, gastronomia indigena Colombia, chivo guisado Kogui, cultura Sierra Nevada, turismo etnico Santa Marta",
+    "address": "Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://c8.alamy.com/comp/2SXHJM4/view-of-the-restaurant-at-el-dorado-ecolodge-sierra-nevada-de-santa-marta-magdalena-department-colombia-2SXHJM4.jpg",
+      "https://www.lapalestra.com.co/wp-content/uploads/2024/12/espere-el-gran-especial-de-la-palestra-desde-la-sierra-nevada-de-santa-marta.-los-kogui-sabiduria-ancestral-1-1024x538.png",
+      "https://www.lapalestra.com.co/wp-content/uploads/2024/12/espere-el-gran-especial-de-la-palestra-desde-la-sierra-nevada-de-santa-marta.-los-kogui-sabiduria-ancestral-2-1024x538.png"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "La Mar — La Mejor Cebichería Peruana en el Corazón de Bogotá 🐟🍋",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p><strong>La Mar</strong> es la embajada oficial de la gastronomía peruana en Bogotá. Bajo el sello del legendario chef <strong>Gastón Acurio</strong>, este restaurante ofrece una explosión de frescura marina en medio de la Cordillera de los Andes. Es el lugar ideal para quienes buscan sabores cítricos, mariscos de calidad premium y una atmósfera vibrante que te transporta directamente a la costa del Pacífico.</p>\n\n<p>🌊 <strong>Experiencia Marina</strong></p><p>Aunque Bogotá está lejos del mar, La Mar garantiza la frescura de sus insumos mediante una logística impecable. El restaurante destaca por su diseño abierto y moderno, donde la barra de cebiches es el centro de atención. Es un lugar ruidoso, alegre y lleno de vida, perfecto para un almuerzo de negocios o una cena con amigos.</p>\n\n<p>🍽️ <strong>Recomendaciones del Chef</strong></p><ul><li>🍋 <strong>Cebiche Clásico:</strong> La pesca del día en su forma más pura, marinada en limón, ají y cebolla roja. Imprescindible.</li><li>🐙 <strong>Super Pulpo:</strong> Un pulpo a la parrilla con chimichurri peruano que se deshace en la boca.</li><li>🥩 <strong>Lomo Saltado:</strong> El plato reconfortante por excelencia, salteado al wok con cebolla, tomate y papas fritas.</li><li>🍱 <strong>Arroz Aeropuerto:</strong> Un festín para compartir que mezcla lo mejor de la cocina chifa (chino-peruana).</li></ul>\n\n<p>💡 <strong>Consejos para tu visita</strong></p><ul><li>🍹 <strong>Pisco Sour:</strong> No puedes irte sin probar su versión clásica; es considerada una de las mejores de la ciudad.</li><li>👨‍👩‍👧‍👦 <strong>Grupos:</strong> Los platos de La Mar son generosos y muchos están diseñados para ser compartidos al centro de la mesa.</li><li>🌞 <strong>Terraza:</strong> Si el clima de Bogotá lo permite, pide una mesa en la terraza para disfrutar de la brisa de la Zona T.</li></ul>\n\n<p>🚶 <strong>Cómo llegar</strong></p><p>Situado en la Carrera 13 # 83-56, en la exclusiva Zona T de Bogotá. Es un área peatonal rodeada de tiendas, bares y centros comerciales, muy segura y fácil de acceder.</p>\n\n<p><em>📸 Créditos imágenes: Restaurant Guru, La Mar Cebichería</em></p>",
+      "keywords": "La Mar Bogota, Gaston Acurio, comida peruana, ceviche Bogota, Zona T, mejores mariscos, pisco sour",
+      "address": "Carrera 13 # 83-56, Zona T, Bogotá, Colombia",
+      "category": "gastronomia",
+      "status": "publish",
+      "image_urls": [
+        "https://img3.restaurantguru.com/c8a5-La-Mar-Cebicheria-Peruana-meals-8.jpg",
+        "https://img3.restaurantguru.com/c74e-La-Mar-Cebicheria-Peruana-food-8.jpg",
+        "https://img.restaurantguru.com/cd4e-Restaurant-La-Mar-Cebicheria-Peruana-meals-9.jpg"
+      ]
+    }
+  }
+]

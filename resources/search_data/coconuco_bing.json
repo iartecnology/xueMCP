@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Termales de Coconuco Cauca"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://baquianos.com/es/tour/termales-de-coconuco&quot;,&quot;murl&quot;:&quot;https://cdn.baquianos.com/img/tours/2023/16/termales-de-coconuco-pasadia-5yy1543.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.youtube.com/watch?v=80GSzgpwM7c&quot;,&quot;murl&quot;:&quot;https://i.ytimg.com/vi/80GSzgpwM7c/maxresdefault.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://baquianos.com/es/tour/termales-de-coconuco&quot;,&quot;murl&quot;:&quot;https://cdn.baquianos.com/img/tours/2023/16/termales-de-coconuco-pasadia-5yy1543.jpg"
+  },
+  {
+    "image_url": "https://www.youtube.com/watch?v=80GSzgpwM7c&quot;,&quot;murl&quot;:&quot;https://i.ytimg.com/vi/80GSzgpwM7c/maxresdefault.jpg"
+  }
+]

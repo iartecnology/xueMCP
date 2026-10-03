@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Pangea | Cocina Internacional con Toques Colombianos, Santa Marta",
+    "content": "<p><strong>Pangea</strong> es el restaurante de alta cocina contemporanea de Santa Marta que une lo mejor de la gastronomia internacional con ingredientes y sabores colombianos del Caribe. Un lugar donde cada plato es una declaracion de que la cocina colombiana merece estar en cualquier mapa gastronomico del mundo.</p>\n\n<p><strong>Filosofia culinaria:</strong> Pangea toma su nombre del antiguo supercontinente para reflejar su mision: unir todas las cocinas del mundo en un solo lugar. El equipo chef viaja por las regiones del Caribe colombiano buscando ingredientes unicos —especias de la Sierra Nevada, pescados del Atlantico, frutas tropicales del Magdalena— y los transforma con tecnicas de la cocina francesa, italiana y japonesa.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>tartar de atun rojo con aguacate de la Sierra y sésamo</strong>, el <strong>risotto de langosta con azafran y coco</strong>, el <strong>magret de pato con salsa de gulupa</strong>, el <strong>pulpo al碳 con pure de platano ahumado</strong> y el <strong>postre de chocolate del Pacifico con helado de corozo</strong>. La carta de vinos es extensa y el sommelier recomienda maridajes con vinos sudamericanos y colombianos.</p>\n\n<p><strong>Ambiente:</strong> Sofisticado con una terraza espectacular que ofrece vistas de la ciudad y el mar. El diseno interior combina elegancia contemporanea con toques caribenos —maderas tropicales, telas artesanales, iluminacion calida—. El servicio es de primer nivel, con meseros que conocen cada detalle del menu.</p>\n\n<p><strong>Como llegar:</strong> En zona exclusiva de Santa Marta, con servicio de valet parking. Reservacion esencial, especialmente los fines de semana. Se recomienda llegar al atardecer para disfrutar la terraza.</p>\n\n<p><em>Creditos de imagenes: Restaurante Pangea / Players of Life</em></p>",
+    "keywords": "Pangea Santa Marta, alta cocina Santa Marta, restaurante gourmet Santa Marta, cocina contemporanea Caribe, restaurante terraza Santa Marta, menu degustacion Santa Marta, gastronomia internacional Colombia, restaurante elegante Caribe colombiano",
+    "address": "Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://restaurantepangea.com/wp-content/uploads/2023/11/EspacioTerraza1_3-1280x1920.jpg",
+      "https://restaurantepangea.com/wp-content/uploads/2023/11/1-2.png",
+      "https://playersoflife.com/wp-content/uploads/2024/07/Diseno-sin-titulo-2024-07-31T101703.604.jpg"
+    ]
+  }
+}

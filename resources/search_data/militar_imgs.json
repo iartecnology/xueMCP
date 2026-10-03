@@ -1,0 +1,40 @@
+🔍 Searching: "Museo Militar de Colombia Bogota"
+📊 Results: 2
+
+✅ Got VQD token: 4-155425368947651953727611066304502070930 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://thumbs.dreamstime.com/z/la-candelaria-bogota-colombia-de-museo-militar-114146356.jpg
+   Source: https://pt.dreamstime.com/la-candelaria-bogota-colombia-de-museo-militar-image114146356
+   Title: La Candelaria Bogota Colombia De Museo Militar Foto de Stock - Imagem ...
+   Width: 1057 | Height: 1690
+====================================================================================================
+
+📸 Image 2:
+   URL: https://viajandox.com.co/uploads/attractive_118.jpg
+   Source: https://viajandox.com.co/bogota/museo-militar-de-colombia-A2981
+   Title: Info Museo Militar de Colombia | Bogotá - Colombia
+   Width: 800 | Height: 533
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://thumbs.dreamstime.com/z/la-candelaria-bogota-colombia-de-museo-militar-114146356.jpg",
+    "source_url": "https://pt.dreamstime.com/la-candelaria-bogota-colombia-de-museo-militar-image114146356",
+    "title": "La Candelaria Bogota Colombia De Museo Militar Foto de Stock - Imagem ...",
+    "width": 1057,
+    "height": 1690
+  },
+  {
+    "image_url": "https://viajandox.com.co/uploads/attractive_118.jpg",
+    "source_url": "https://viajandox.com.co/bogota/museo-militar-de-colombia-A2981",
+    "title": "Info Museo Militar de Colombia | Bogotá - Colombia",
+    "width": 800,
+    "height": 533
+  }
+]

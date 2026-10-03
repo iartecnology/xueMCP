@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Musichi Manaure flamencos"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://laguajirahoy.com/medio-ambiente/tres-flamencos-rosados-rescatados-en-bogota-fueron-liberados-en-musichi.html&quot;,&quot;murl&quot;:&quot;https://laguajirahoy.com/wp-content/uploads/2022/08/Los-flamencos-rosados-fueron-liberados-en-Musichi-una-zona-rural-de-Manaure-2.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://laguajirahoy.com/medio-ambiente/avanzan-trabajos-de-plan-de-compensacion-para-conservacion-de-musichi.html&quot;,&quot;murl&quot;:&quot;https://laguajirahoy.com/wp-content/uploads/2022/02/Los-flamencos-llegan-en-epocas-especificas-en-el-area-protegida-de-Musichi.jpeg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://laguajirahoy.com/medio-ambiente/tres-flamencos-rosados-rescatados-en-bogota-fueron-liberados-en-musichi.html&quot;,&quot;murl&quot;:&quot;https://laguajirahoy.com/wp-content/uploads/2022/08/Los-flamencos-rosados-fueron-liberados-en-Musichi-una-zona-rural-de-Manaure-2.jpg"
+  },
+  {
+    "image_url": "https://laguajirahoy.com/medio-ambiente/avanzan-trabajos-de-plan-de-compensacion-para-conservacion-de-musichi.html&quot;,&quot;murl&quot;:&quot;https://laguajirahoy.com/wp-content/uploads/2022/02/Los-flamencos-llegan-en-epocas-especificas-en-el-area-protegida-de-Musichi.jpeg"
+  }
+]

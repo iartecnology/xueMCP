@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "La Regatta | Cocina Internacional y Mariscos, San Andres",
+    "content": "<p><strong>La Regatta</strong> es un restaurante consolidado en San Andres que combina la cocina internacional con los mejores mariscos del Caribe colombiano, ofreciendo una experiencia gastronomica refinada en un ambiente que evoca la vida marinera del archipielago.</p>\n\n<p><strong>Tradicion y elegancia:</strong> La Regatta lleva anos siendo uno de los restaurantes de referencia en San Andres para quienes buscan calidad consistente, servicio profesional y un menu que satisface tanto al viajero que busca sabores familiares como al aventurero gastronomico que quiere explorar lo caribeno. Su nombre —la regata, la competencia de veleros— evoca la conexion de la isla con el mar y la navegacion.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>filete de mignon con salsa de hongos y pure de papa</strong> satisface a los amantes de la carne, la <strong>paella marinera con mariscos del Caribe</strong> es abundante y festiva, el <strong>salmón al grill con vegetales tropicales</strong> es la opcion saludable, la <strong>langosta thermidor</strong> (en temporada) es el plato de lujo, y el <strong>tiramisu de la casa</strong> demuestra que la cocina italiana tambien tiene cabida en el Caribe. La carta de vinos es una de las mas completas de la isla.</p>\n\n<p><strong>Ambiente:</strong> Elegante pero no formal. El salon principal tiene mesas con mantel blanco, iluminacion calida y decoracion nautica refinada. La terraza ofrece vista parcial al mar y es ideal para cenas al aire libre. El servicio es profesional y atento, con meseros bilingües que conocen cada detalle del menu. Es el restaurante ideal para una cena especial en la isla.</p>\n\n<p><strong>Como llegar:</strong> En zona turistica de San Andres, con facil acceso desde los principales hoteles. Cuenta con estacionamiento y servicio de taxi puerta a puerta.</p>\n\n<p><em>Creditos de imagenes: Koray Hotel / TripAdvisor</em></p>",
+    "keywords": "La Regatta San Andres, restaurante internacional San Andres, paella marinera Caribe, langosta thermidor San Andres, restaurante elegante isleño, carta vinos San Andres, cena especial San Andres, restaurante nautico Caribe",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://korayhotel.com/wp-content/uploads/2024/10/La-Regatta-San-Andres-3.webp",
+      "https://img.restaurantguru.com/c9a5-Restaurant-La-Regatta-dishes-4.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/04/23/5d/fe/restaurante-la-regatta.jpg"
+    ]
+  }
+}

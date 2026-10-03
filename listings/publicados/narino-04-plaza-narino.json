@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏛️ Plaza de Nariño — El Corazón de San Juan de Pasto",
+    "content": "<p>🎯 <strong>¿Por qué visitar la Plaza de Nariño?</strong></p><p>La <strong>Plaza de Nariño</strong> es el epicentro social, histórico y cultural de la ciudad de Pasto 🏛️. Nombrada en honor al prócer Antonio Nariño, cuya estatua preside el parque, esta plaza es el lugar donde convergen la tradición, el comercio y la calidez de la gente nariñense bajo la sombra del volcán Galeras.</p><p>🏢 <strong>Historia y Entorno Urbano</strong></p><p>Rodeada de edificios históricos, templos religiosos y locales comerciales tradicionales, la plaza es el escenario principal del Carnaval de Negros y Blancos. Es un espacio vibrante donde puedes disfrutar de un café, observar la arquitectura republicana y sentir el pulso de una ciudad orgullosa de sus raíces y su historia.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🎭 <strong>Espíritu del Carnaval</strong>: Imagina la plaza llena de carrozas y música durante el mes de enero.</li><li>🍦 <strong>Gastronomía Local</strong>: Prueba un helado de paila o unos quimbolitos en las cafeterías cercanas.</li><li>🚶 <strong>Paseo Peatonal</strong>: Camina por sus alrededores y descubre la Catedral de Pasto y el Templo de San Juan.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Tardes</strong>: Cuando el sol comienza a bajar y la plaza se llena de gente disfrutando de la brisa andina.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Acceso libre.</li><li>☕ <strong>Café Nariñense</strong>: Busca una cafetería de origen para probar uno de los mejores cafés de altura de Colombia.</li><li>📸 <strong>Fotografía</strong>: Capta la estatua de Nariño con el Galeras de fondo en un día despejado.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en el **centro histórico de Pasto**. Es el punto de referencia principal y se puede llegar fácilmente caminando, en taxi o en bus desde cualquier lugar de la ciudad.</p><p><em>📸 Créditos: situr.narino.gov.co, tripadvisor.cl</em></p>",
+    "keywords": "Plaza de Nariño, Pasto, Nariño, centro histórico, turismo urbano, Carnaval de Negros y Blancos, Antonio Nariño, que hacer en Pasto",
+    "address": "Plaza de Nariño, Pasto, Nariño, Colombia",
+    "lat": 1.2136,
+    "lng": -77.2811,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://situr.narino.gov.co/storage/Clientes/situr_narino/principal/imagenes/contenidos/3925-9_Parque_de_Nariño_Monumento_Nariño.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/36/3b/2f/plaza-de-narino.jpg",
+      "https://i.pinimg.com/originals/57/fc/a3/57fca3ff3865566ec5f6af66ac3bb0a9.jpg"
+    ]
+  }
+}

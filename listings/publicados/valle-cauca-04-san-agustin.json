@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🗿 Parque Arqueológico de San Agustín — Misterio en Piedra",
+    "content": "<p>🎯 <strong>¿Por qué visitar San Agustín?</strong></p><p>El <strong>Parque Arqueológico de San Agustín</strong> es uno de los sitios arqueológicos más importantes del mundo y Patrimonio de la Humanidad por la UNESCO 🗿. Aquí se encuentra la mayor necrópolis del planeta, con cientos de estatuas de piedra talladas por una cultura misteriosa que habitó la región hace siglos.</p><p>📜 <strong>Historia y Arqueología</strong></p><p>Caminar por el parque es retroceder en el tiempo. Descubrirás enormes esculturas antropomorfas y zoomorfas que custodian tumbas y santuarios en medio de un paisaje verde y montañoso. La Fuente de Lavapatas, un complejo sistema de canales y figuras talladas directamente en el lecho de piedra del río, es una de las obras de ingeniería prehispánica más asombrosas de América.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🗿 <strong>Mesitas A, B y C</strong>: Los principales conjuntos de estatuas y montículos funerarios.</li><li>🌊 <strong>Fuente de Lavapatas</strong>: Un lugar sagrado tallado en piedra donde se realizaban ceremonias de purificación.</li><li>🌄 <strong>Bosque de las Estatuas</strong>: Un sendero rodeado de vegetación con decenas de esculturas recuperadas.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Todos los días</strong>: 8 AM - 4 PM (Excepto algunos martes del mes, verificar localmente).</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El pasaporte arqueológico tiene un costo aproximado de 50.000 COP y da acceso a varios parques de la zona.</li><li>🥾 <strong>Calzado</strong>: Usa botas de montaña o zapatos cómodos para caminar largas distancias.</li><li>🧣 <strong>Clima</strong>: Puede ser cambiante; lleva una chaqueta ligera y bloqueador solar.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en el municipio de <strong>San Agustín, Huila</strong>, aunque históricamente vinculado a las rutas desde Popayán. Puedes llegar por tierra desde Neiva o Popayán.</p><p><em>📸 Créditos: elterminalneiva.com, senalcolombia.tv</em></p>",
+    "keywords": "San Agustin, Parque Arqueologico, estatuas de piedra, UNESCO, arqueologia Colombia, turismo Huila, misterio prehispanico, patrimonio humanidad",
+    "address": "San Agustín, Huila, Colombia",
+    "lat": 1.8883,
+    "lng": -76.2958,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.elterminalneiva.com/images/articulos/turismo/parquearqueologicosanagustin1.jpg",
+      "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/estatuas-san-agustin-antiguedad-portada.jpg",
+      "https://i.pinimg.com/originals/c1/09/b7/c109b753a3a7aa286060490af1a81dcc.jpg"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Cabo Cañaveral - Parque Tayrona (Final Fix)",
+      "content": "Cabo Cañaveral es el refugio perfecto en el Tayrona. Esta playa destaca por su belleza natural intacta, senderos ecológicos y la posibilidad de avistar fauna local en un entorno caribeño único.",
+      "status": "publish",
+      "type": "service",
+      "address": "Parque Nacional Natural Tayrona, Santa Marta, Colombia",
+      "image_urls": [
+        "https://images.pexels.com/photos/100701/pexels-photo-100701.jpeg?auto=compress&cs=tinysrgb&w=1000",
+        "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=1000"
+      ],
+      "category": [
+        26
+      ],
+      "region": [
+        35
+      ],
+      "id": 6343,
+      "link": "https://xueturismo.com/26/cabo-canaveral-parque-tayrona-final-fix/"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Zaguan de las Flores | Cocina Colonial en Casona Historica, Cali",
+    "content": "<p><strong>Zaguan de las Flores</strong> es un restaurante que parece haber detenido el tiempo. Ubicado en una casona colonial restaurada del barrio San Antonio, ofrece una experiencia gastronomica envuelta en la arquitectura y el encanto de la Cali de siglos pasados.</p>\n\n<p><strong>Historia del lugar:</strong> La casona que alberga el restaurante es una joya de la arquitectura colonial caleña, con su zaguan de entrada, patios interiores con fuentes de piedra y balcones de madera tallada. El edificio ha sido restaurado cuidadosamente para preservar su esencia historica mientras ofrece comodidades modernas. Su nombre evoca la tradicion de los zaguanes coloniales, esa entrada amplia que anunciaba la hospitalidad de las casas grandes.</p>\n\n<p><strong>Platos estrella:</strong> La cocina honra la tradicion colonial y valluna con platos como el <strong>filete de pescado en salsa de coco</strong>, el <strong>fricas de pollo caleño</strong>, la <strong>sopa de tortillas</strong> y los <strong>postres de la abuela</strong> como la natilla y el manjar blanco. Las <strong>bebidas de frutas exoticas</strong> como el chontaduro, el lulo y el feijoa son parte esencial de la experiencia.</p>\n\n<p><strong>Ambiente:</strong> El patio interior con vegetacion abundante, la musica instrumental de fondo y la luz filtrada por las tejas crean una atmosfera de paz y elegancia rustica. Es ideal para una comida romantica o una reunion especial donde el entorno es tan importante como la comida.</p>\n\n<p><strong>Como llegar:</strong> En el barrio San Antonio, la colina mas emblematica de Cali. Se sube por calles empedradas que ofrecen vistas panoramicas de la ciudad. El barrio en si es una atraccion turistica con sus casas coloridas y su atmosfera bohemia.</p>\n\n<p><em>Creditos de imagenes: TripAdvisor / Restaurant Guru</em></p>",
+    "keywords": "Zaguan de las Flores Cali, restaurante colonial Cali, casona historica Cali, San Antonio Cali, cocina valluna, restaurante romantico Cali, comida tradicional Cali, turismo gastronomico Cali",
+    "address": "Barrio San Antonio, Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/04/6b/48/b5/el-zaguan-de-san-antonio.jpg",
+      "https://img.restaurantguru.com/c725-image-El-Zaguan-de-San-Antonio.jpg",
+      "https://i.pinimg.com/originals/41/e7/d3/41e7d33f294332e78beb134e296d7084.jpg"
+    ]
+  }
+}

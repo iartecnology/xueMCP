@@ -1,0 +1,17 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏝️ Isla Grande — El Corazón Natural de las Islas del Rosario",
+    "content": "<p>🎯 <strong>¿Por qué explorar Isla Grande?</strong></p><p><strong>Isla Grande</strong> es la más extensa y diversa del Archipiélago de las Islas del Rosario 🏝️. Es un santuario de naturaleza protegida donde los arrecifes de coral, las lagunas internas y los bosques de manglar crean un ecosistema único de belleza incalculable.</p><p>🌿 <strong>Naturaleza y Silencio</strong></p><p>A diferencia de otras zonas más turísticas, Isla Grande ofrece rincones de paz absoluta. Puedes caminar por sus senderos ecológicos, descubrir lagunas encantadas donde el plancton brilla por la noche (Laguna Encantada) y disfrutar de playas escondidas de arena blanca y aguas transparentes. Es el lugar ideal para quienes buscan una experiencia de inmersión total en el Caribe salvaje.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🤿 <strong>Snorkel en Arrecifes</strong>: Descubre la colorida vida marina en uno de los parques naturales nacionales más importantes de Colombia.</li><li>🛶 <strong>Tour por Manglares</strong>: Navega en kayak a través de los túneles naturales que forman los bosques de manglar.</li><li>✨ <strong>Plancton Bioluminiscente</strong>: Vive la magia del agua que brilla en la oscuridad en una experiencia nocturna inolvidable.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>De diciembre a abril</strong>: La temporada seca ofrece las aguas más claras y cielos despejados.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Se debe pagar un impuesto de salida del muelle (tasa portuaria) de aprox. 26.000 COP.</li><li>🧴 <strong>Sostenibilidad</strong>: No toques el coral ni uses bloqueadores que no sean biodegradables.</li><li>🔌 <strong>Servicios</strong>: La energía eléctrica y el agua dulce pueden ser limitadas en algunos alojamientos de la isla.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se accede por vía marítima en lancha rápida desde el <strong>Muelle de la Bodeguita</strong> en Cartagena. El trayecto dura aproximadamente 45 a 60 minutos.</p><p><em>📸 Créditos: triviantes.com, flickr.com</em></p>",
+    "keywords": "Isla Grande, Islas del Rosario, Cartagena, Parque Natural Corales del Rosario, snorkel Colombia, plancton bioluminiscente, ecoturismo Caribe, vacaciones islas",
+    "address": "Isla Grande, Archipiélago de las Islas del Rosario, Cartagena, Bolívar, Colombia",
+    "lat": 10.1764,
+    "lng": -75.7417,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.triviantes.com/wp-content/uploads/2021/11/Islas-del-Rosario-11-1-870x555.jpg",
+      "https://c1.staticflickr.com/3/2900/14440870330_c1796189ea_b.jpg"
+    ]
+  }
+}

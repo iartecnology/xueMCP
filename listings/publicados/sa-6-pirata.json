@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "El Pirata | Cocina Caribena Vista al Mar, San Andres",
+    "content": "<p><strong>El Pirata</strong> es un restaurante con vista al mar en San Andres donde la cocina caribena se disfruta con un panorama que parece sacado de una novela de aventuras: el Oceano Atlantico infinito, los cayos a lo lejos y el cielo pintandose de colores cada atardecer.</p>\n\n<p><strong>Espiritu caribeno:</strong> El nombre El Pirata no es casualidad: San Andres fue durante siglos refugio de piratas, corsarios y bucaneros que navegaban el Caribe. El restaurante evoca esa epoca de aventura con una cocina que celebra la herencia pirata del archipielago: pescados del mar, especias del comercio colonial y la mezcla de culturas que define la identidad de la isla.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>pargo rojo al horno con especias caribenas</strong> es el buque insignia, los <strong>camarones empanizados con salsa de mango picante</strong> son adictivos, la <strong>ensalada de pulpo con aguacate y tomate</strong> refresca los dias calurosos, el <strong>rice and beans con pollo jerk</strong> fusiona lo raizal con lo jamaicano, y el <strong>ron punch</strong> —coctel de ron con jugos tropicales y nuez moscada— es la bebida que todo pirata mereceria. El <strong>postre de platano maduro con helado de vainilla</strong> cierra con dulzura caribena.</p>\n\n<p><strong>Ambiente:</strong> Decoracion tematica de epoca pirata —mapas antiguos, timones de barco, barriles de madera— combinada con una terraza abierta al mar donde la brisa salada es parte de la experiencia. Al atardecer, el cielo se convierte en el espectaculo principal y las fotos se vuelven obligatorias. La musica de reggae y calipso acompana cada puesta de sol.</p>\n\n<p><strong>Como llegar:</strong> En la costa de San Andres, con vista al mar Caribe. Accesible en taxi desde El Centro. Se recomienda reservar mesa en la terraza para el atardecer.</p>\n\n<p><em>Creditos de imagenes: TripAdvisor / Agenda Colombia</em></p>",
+    "keywords": "El Pirata San Andres, cocina caribena vista al mar, restaurante atardecer San Andres, pargo rojo al horno Caribe, ron punch San Andres, restaurante tematico pirata, calipso San Andres, terraza mar Caribe",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/5d/c2/62/gastronomia-caribena.jpg?w=800&h=500&s=1",
+      "https://i0.wp.com/agendacolombia.com/wp-content/uploads/2023/07/restaurantes-san-andres.jpg?w=800&ssl=1",
+      "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1115105913962122"
+    ]
+  }
+}

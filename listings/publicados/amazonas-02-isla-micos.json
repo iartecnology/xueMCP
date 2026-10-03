@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🐒 Isla de los Micos — Encuentro con Primates en el Amazonas",
+    "content": "<p>🎯 <strong>¿Por qué visitar la Isla de los Micos?</strong></p><p>La <strong>Isla de los Micos</strong> es uno de los atractivos turísticos más divertidos y curiosos de los alrededores de Leticia 🐒. Se trata de una isla selvática habitada por miles de monos ardilla (*Saimiri sciureus*) que viven en total libertad y que han desarrollado una relación amistosa e interactiva con los visitantes.</p><p>🐒 <strong>Una Experiencia Divertida</strong></p><p>Al llegar a la isla y desembarcar, serás recibido por cientos de estos pequeños y ágiles primates. Es una oportunidad única para verlos de cerca, alimentarlos (con supervisión de los guías) y dejar que se suban a tus hombros o cabeza, lo que garantiza fotos inolvidables. La isla también ofrece senderos por el bosque donde puedes aprender sobre la flora amazónica y otras especies de primates menos sociables.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🐒 <strong>Interacción Directa</strong>: Siente la agilidad de los monos ardilla mientras saltan entre los árboles y los visitantes.</li><li>🚶 <strong>Senderismo de Bosque</strong>: Recorre los caminos de la isla para descubrir la densa vegetación amazónica.</li><li>🛶 <strong>Paisaje del Río</strong>: Disfruta de la vista panorámica del río Amazonas mientras te acercas a la isla en lancha.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Todos los días</strong>: 8 AM - 4 PM (Los monos suelen estar más activos por la mañana).</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: El ingreso suele estar incluido en los tours organizados desde Leticia.</li><li>🎒 <strong>Seguridad</strong>: Mantén tus pertenencias (gafas, cámaras, sombreros) bien sujetas; los monos son muy curiosos y rápidos.</li><li>🍌 <strong>Alimentación</strong>: Solo usa el alimento proporcionado por los guías para no dañar la dieta de los animales.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en el cauce del río Amazonas, a unos 20-30 minutos en lancha rápida desde el muelle turístico de <strong>Leticia</strong>.</p><p><em>📸 Créditos: delamazonas.com, sitiosturisticoscolombia.com</em></p>",
+    "keywords": "Isla de los Micos, Leticia, Amazonas, monos ardilla, turismo familiar Amazonas, fauna Colombia, experiencia primates, rio Amazonas",
+    "address": "Isla de los Micos, Río Amazonas, Amazonas, Colombia",
+    "lat": -4.1333,
+    "lng": -70.0333,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://delamazonas.com/wp-content/uploads/2020/11/800px-Un_mono_ardilla_posa_sobre_la_cabeza_de_una_turista-LOW.jpg",
+      "https://encuentradestinos.com/wp-content/uploads/2024/05/isla-de-los-micos-1024x576.jpg",
+      "https://www.sitiosturisticoscolombia.com/wp-content/uploads/monos-ardilla-isla-de-los-mico.jpg"
+    ]
+  }
+}

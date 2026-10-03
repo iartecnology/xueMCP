@@ -1,0 +1,12 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "💧 Cascadas Los Chorros - San Pablo de Borbur",
+    "content": "<p>Las <strong>Cascadas Los Chorros</strong> son un balneario natural a 5 minutos del casco urbano. Un espectáculo de agua en la montaña.</p><p>📍 <strong>Ubicación:</strong> Vía hacia Otanche, parte alta del municipio.</p><p>⭐ <strong>Qué hacer:</strong></p><ul><li>🚿 Bañarse en aguas frías</li><li>📸 Fotos naturales</li><li>🍽️ Restaurantes típicos cercanos</li></ul><p>💡 <strong>Recomendaciones:</strong></p><ul><li>👟 Calzado antideslizante</li><li>No arrojar basura</li></ul>",
+    "keywords": "Cascadas, Los Chorros, San Pablo de Borbur, Boyaca",
+    "address": "Via Otanche, San Pablo de Borbur, Boyaca, Colombia",
+    "category": "turismo",
+    "status": "publish",
+    "image_urls": []
+  }
+}

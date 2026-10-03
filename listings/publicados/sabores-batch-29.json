@@ -1,0 +1,122 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🐟 Pirarucú — El Gigante Gastronómico del Amazonas",
+      "content": "<p>El <strong>Pirarucú</strong> es el pez de agua dulce más grande de Sudamérica y la joya de la corona de la cocina amazónica 🐟. Su carne blanca, firme y sin espinas es apreciada por su versatilidad y sabor delicado.</p><p>📸 <strong>Experiencias</strong>: Pruébalo en 'chicharrón' o sellado a la plancha. Es una proteína sostenible gracias a los proyectos de zoocría en el Amazonas.</p>",
+      "address": "Leticia, Amazonas, Colombia",
+      "lat": -4.2153,
+      "lng": -69.9406,
+      "keywords": "Pirarucu, pescado Amazonas, gastronomia Leticia, pez gigante, comida selva Colombia",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/be/Arapaima_gigas.jpg"
+      ],
+      "id": 6366,
+      "link": "https://xueturismo.com/listado/%f0%9f%90%9f-pirarucu-el-gigante-gastronomico-del-amazonas-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🍃 Pescado Moqueado — El Secreto Ancestral Indígena",
+      "content": "<p>El <strong>Pescado Moqueado</strong> es una técnica de cocción ancestral de las comunidades indígenas del Amazonas 🍃. El pescado se envuelve en hojas de bijao y se ahuma bajo tierra durante horas con maderas especiales.</p><p>📸 <strong>Experiencias</strong>: El sabor ahumado penetra la carne del pescado, creando una textura suave y un aroma único que no se encuentra en ninguna otra cocina.</p>",
+      "address": "Comunidades Indígenas, Amazonas, Colombia",
+      "lat": -3.8167,
+      "lng": -70.15,
+      "keywords": "Pescado moqueado, cocina indigena, técnica ancestral, gastronomia Amazonas, comida ahumada",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://i.ytimg.com/vi/qY_3m_I2mB0/maxresdefault.jpg"
+      ],
+      "id": 6367,
+      "link": "https://xueturismo.com/listado/%f0%9f%8d%83-pescado-moqueado-el-secreto-ancestral-indigena-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🫓 Casabe — El Pan Milenario de la Selva",
+      "content": "<p>El <strong>Casabe</strong> es una tortilla delgada y crujiente hecha a base de yuca brava 🫓. Es el acompañamiento básico de casi todos los platos en el Amazonas y ha sido el sustento de las tribus indígenas por milenios.</p><p>📸 <strong>Experiencias</strong>: Su sabor neutro lo hace perfecto para acompañar caldos de pescado o para untar con mermeladas de frutas exóticas.</p>",
+      "address": "Amazonas, Colombia",
+      "lat": -4.21,
+      "lng": -69.94,
+      "keywords": "Casabe, yuca brava, pan indigena, comida Amazonas, acompañamiento tipico",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Casabe_de_Yuca.jpg"
+      ],
+      "id": 6368,
+      "link": "https://xueturismo.com/listado/%f0%9f%ab%93-casabe-el-pan-milenario-de-la-selva-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🥤 Jugo de Copoazú — El Cacao Blanco del Amazonas",
+      "content": "<p>El <strong>Copoazú</strong> es una fruta exótica de la familia del cacao, conocida por su pulpa blanca, cremosa y con un sabor que mezcla notas de piña y chocolate 🥤.</p><p>📸 <strong>Experiencias</strong>: Disfrútalo en jugos con leche o en postres como mousses y helados artesanales en las calles de Leticia.</p>",
+      "address": "Leticia, Amazonas, Colombia",
+      "lat": -4.215,
+      "lng": -69.941,
+      "keywords": "Copoazu, fruta amazonas, jugo exótico, cacao blanco, gastronomia Leticia",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Theobroma_grandiflorum_Flower.JPG"
+      ],
+      "id": 6369,
+      "link": "https://xueturismo.com/listado/%f0%9f%a5%a4-jugo-de-copoazu-el-cacao-blanco-del-amazonas-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🐕 Carne a la Perra — Tradición Llanera de Cocción Lenta",
+      "content": "<p>La <strong>Carne a la Perra</strong> es una variante tradicional de la carne llanera que se cocina deshuesada y dentro de su propio cuero, enterrada o en hornos de barro 🐕. El resultado es una carne extremadamente jugosa y tierna.</p><p>📸 <strong>Experiencias</strong>: Es el plato estrella de los festivales en el Meta, servido con yuca, plátano y un buen ají llanero.</p>",
+      "address": "Villavicencio, Meta, Colombia",
+      "lat": 4.142,
+      "lng": -73.626,
+      "keywords": "Carne a la perra, comida llanera, tradicion Meta, carne asada, Villavicencio gastronomia",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://periodicodelmeta.com/wp-content/uploads/2021/08/Carne-a-la-perra.jpg"
+      ],
+      "id": 6370,
+      "link": "https://xueturismo.com/listado/%f0%9f%90%95-carne-a-la-perra-tradicion-llanera-de-coccion-lenta-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🫔 Hayaca Llanera — El Envuelto Maestro del Llano",
+      "content": "<p>La <strong>Hayaca</strong> es la versión llanera del tamal, pero con una personalidad propia 🫔. Se distingue por su masa de maíz aliñada con guiso de carne de res, cerdo y pollo, envuelta en hojas de plátano que le dan un aroma inconfundible.</p><p>📸 <strong>Experiencias</strong>: A diferencia del tamal andino, la hayaca suele tener un sabor más intenso por las carnes de monte y el proceso de ahumado llanero.</p>",
+      "address": "Los Llanos Orientales, Colombia",
+      "lat": 4.15,
+      "lng": -73.63,
+      "keywords": "Hayaca, tamal llanero, comida Meta, envueltos colombianos, tradicion Llanos",
+      "category": [
+        "Sabores"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hallaca.jpg"
+      ],
+      "id": 6371,
+      "link": "https://xueturismo.com/listado/%f0%9f%ab%94-hayaca-llanera-el-envuelto-maestro-del-llano-2/"
+    }
+  }
+]

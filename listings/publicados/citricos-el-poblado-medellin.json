@@ -1,0 +1,34 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Cítricos El Poblado Medellín - Restaurante Gourmet de Cocina Colombiana Contemporánea",
+    "content": "<p><strong>Cítricos</strong> es un restaurante gourmet ubicado en la exclusiva zona de <strong>El Poblado</strong> en Medellín. Una propuesta culinaria que celebra los sabores frescos y vibrantes de Colombia, con especial énfasis en ingredientes cítricos y tropicales que dan nombre al restaurante y definen su identidad gastronómica.</p>
+
+<p><strong>Cocina fresca y vibrante</strong></p>
+
+<p>El concepto de Cítricos se centra en la <strong>frescura de los ingredientes colombianos</strong>. El menú aprovecha la riqueza de frutas tropicales, pescados frescos del Caribe y del Pacífico, y verduras de las tierras altas antioqueñas para crear platos que son ligeros, sabrosos y visualmente espectaculares. Cada creación busca resaltar los sabores naturales de Colombia con mínima intervención y máximo respeto por el producto.</p>
+
+<p><strong>Delicias del trópico</strong></p>
+
+<p>Entre los platos destacados se encuentran los <strong>ceviches con frutas tropicales</strong>, los tiradinos con salsas de maracuyá y lulo, los pescados a la parrilla con salsas cítricas, y las ensaladas que son verdaderas obras de arte con ingredientes como el aguacate hass colombiano, el corazón de palma y las flores comestibles. Los postres incorporan limón mandarina, tamarindo y gulupa en creaciones que refrescan el paladar.</p>
+
+<p><strong>Elegancia tropical</strong></p>
+
+<p>El restaurante combina un <strong>diseño elegante con toques tropicales</strong>: vegetación interior, materiales naturales y una iluminación que evoca la luz dorada del atardecer antioqueño. Es el lugar perfecto para una cena romántica, un almuerzo de negocios o cualquier ocasión que merezca una experiencia gastronómica de calidad en un ambiente sofisticado pero relajado.</p>
+
+<p><strong>Cómo llegar</strong></p>
+
+<p>En El Poblado, la zona más exclusiva de Medellín. Fácil acceso en taxi desde cualquier punto de la ciudad. La zona es segura y transitada incluso de noche. Metro más cercano: Estación Poblado. Hay zonas de parqueo disponibles en el área.</p>
+
+<p><em>Créditos de imágenes: visitarmedellin.com, vivirenelpoblado.com, elextramedios.com - Imágenes referenciales de restaurantes gourmet en El Poblado, Medellín.</em></p>",
+    "keywords": "Cítricos El Poblado, restaurante gourmet El Poblado, cocina colombiana contemporánea Medellín, ceviche tropical Medellín, restaurante romántico Poblado, comida fresca gourmet Antioquia, restaurante exclusivo Medellín",
+    "address": "El Poblado, Medellín, Antioquia, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://visitarmedellin.com/wp-content/uploads/2024/01/NopodemostraertelaplaytaalaciudadPeropodemosofrecerteunmaravillosoespaciotranquiloytropicalperfectoparatusreunionescelebracionesymomentosespeciales.Reservaen3225435589restaurant-1536x1536.jpg",
+      "https://vivirenelpoblado.com/wp-content/uploads/2024/04/Medellin-gourmet-2.jpg",
+      "https://elextramedios.com/wp-content/uploads/2023/09/rebelion-sabores-salvajes-medellin-gourmet-8-2-1536x1024.jpg"
+    ]
+  }
+}

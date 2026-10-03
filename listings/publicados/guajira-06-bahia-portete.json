@@ -1,0 +1,17 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏜️ Bahía Portete — El Santuario Marino de la Alta Guajira",
+    "content": "<p>🎯 <strong>¿Por qué visitar Bahía Portete?</strong></p><p><strong>Bahía Portete</strong> es uno de los secretos mejor guardados de la Alta Guajira 🌊. Declarado Parque Nacional Natural en 2014, este ecosistema marino-costero es el hogar de la mayor biodiversidad de manglares, corales y pastos marinos en la península. Es un destino para quienes buscan la naturaleza en su estado más puro y silencioso.</p><p>🌿 <strong>Un Ecosistema Vital</strong></p><p>La bahía es un criadero natural de especies marinas y un punto clave para la seguridad alimentaria de las comunidades Wayuu que habitan sus alrededores. Sus aguas tranquilas, protegidas por la formación geográfica de la bahía, contrastan con la inmensidad del desierto guajiro que la rodea.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🦩 <strong>Avistamiento de Aves</strong>: Un lugar privilegiado para observar aves migratorias y locales en los manglares.</li><li>🚣 <strong>Navegación Silenciosa</strong>: Explora los canales de manglar y descubre la vida que se oculta bajo el agua.</li><li>🧶 <strong>Cultura Wayuu</strong>: Aprende sobre la relación sagrada que tienen las comunidades locales con el mar y la tierra.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Todo el año</strong>: La Guajira mantiene un clima seco, aunque los vientos son más fuertes entre diciembre y marzo.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Al ser Parque Nacional, se recomienda coordinar con guías autorizados y respetar las zonas de conservación.</li><li>🧴 <strong>Protección</strong>: Lleva bloqueador biodegradable para no afectar los ecosistemas marinos.</li><li>💧 <strong>Suministros</strong>: No hay infraestructura comercial; lleva tu propia agua y snacks.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se accede en vehículos 4x4 desde Uribia o Puerto Bolívar, atravesando caminos de desierto que requieren un guía experimentado.</p><p><em>📸 Créditos: lacgeo.com, istockphoto.com</em></p>",
+    "address": "Bahía Portete, Uribia, La Guajira, Colombia",
+    "lat": 12.1158,
+    "lng": -71.9333,
+    "keywords": "Bahia Portete, La Guajira, Parque Nacional Natural, manglares Guajira, turismo naturaleza Colombia, Wayuu, biodiversidad marina",
+    "category": "playas",
+    "status": "publish",
+    "image_urls": [
+      "https://lacgeo.com/sites/default/files/cabo_de_la_vela_colombia_opt.jpg",
+      "https://media.istockphoto.com/id/1445582626/es/foto/paisaje-de-playa-en-el-parque-nacional-natural-bahía-portete-guajira-colombia.jpg"
+    ]
+  }
+}

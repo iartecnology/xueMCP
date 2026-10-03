@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Don Fidel | Pescados y Mariscos del Caribe, Santa Marta",
+    "content": "<p><strong>Don Fidel</strong> es un clasico de Santa Marta cuando se trata de pescados y mariscos frescos del Caribe colombiano. Un lugar donde la tradicion se come en cada bocado y el mar llega directamente del puerto a la mesa.</p>\n\n<p><strong>Tradicion marinera:</strong> Don Fidel lleva años alimentando a locales y turistas con los mejores productos del mar que ofrece la costa Caribe de Colombia. La relacion directa con los pescadores artesanales de la region garantiza que cada platillo lleva ingredientes que llegaron esa misma mañana del mar.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>arroz con camaraones al ajillo</strong>, la <strong>mojarra roja frita con patacon</strong>, el <strong>cazon en salsa de coco</strong>, la <strong>langosta del Caribe</strong> (en temporada) y el <strong>mix de mariscos fritos</strong> con suero costeño. El <strong>caldo de camaron</strong> es legendario entre los locales, y el <strong>pargo rojo al horno con verduras</strong> es la opcion para quienes buscan algo mas ligero.</p>\n\n<p><strong>Ambiente:</strong> Sencillo, autentico y sin pretensiones. Mesas de madera, ventiladores de techo y un ambiente de restaurante de puerto pesquero donde lo unico que importa es que la comida sea fresca, abundante y sabrosa. El servicio es rapido y amable.</p>\n\n<p><strong>Como llegar:</strong> En zona central de Santa Marta, cerca al mercado publico y la zona portuaria. Facil acceso en taxi o caminando desde el centro historico.</p>\n\n<p><em>Creditos de imagenes: Opinion Caribe / Food and Travel</em></p>",
+    "keywords": "Don Fidel Santa Marta, pescados mariscos Santa Marta, mojarra frita Santa Marta, restaurante mariscos Caribe, arroz con camaron Santa Marta, pargo rojo Santa Marta, comida de mar Colombia, donde comer mariscos Santa Marta",
+    "address": "Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.opinioncaribe.com/wp-content/uploads/2025/12/Plazoleta-de-Pescados-y-Mariscos-tradicion-y-sabor-para-la-Navidad-en-Santa-Marta.jpg",
+      "https://media.foodandtravel.mx/wp-content/uploads/2025/04/Santa_Martha_caribe_colombiano_pescado_frito_con_salpicon.jpg",
+      "https://radionacional-v3.s3.amazonaws.com/s3fs-public/inline-images/Pescado%20frito%20con%20arroz%20de%20coco.jpeg"
+    ]
+  }
+}

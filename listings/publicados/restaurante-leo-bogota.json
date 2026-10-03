@@ -1,0 +1,18 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Leo — El Arte de la Gastronomía Ancestral Colombiana por Leonor Espinosa 🍃🏺",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Elegido consistentemente entre los mejores del mundo, <strong>Leo</strong> no es solo un restaurante; es un centro de investigación gastronómica. Bajo la visión de la chef <strong>Leonor Espinosa</strong> (Mejor Chef del Mundo 2022), Leo ofrece un viaje sensorial por los ecosistemas menos explorados de Colombia. Es el lugar para quienes buscan una experiencia intelectual y sensorial profunda, donde cada ingrediente cuenta una historia de biodiversidad y cultura indígena.</p>\n\n<p>📜 <strong>Concepto: Ciclobioma</strong></p><p>La propuesta de Leo se basa en el <strong>Ciclobioma</strong>, un concepto que integra la investigación científica con la culinaria. Leonor, junto a su hija la sommelier Laura Hernández-Espinosa, recorren las selvas, desiertos y montañas de Colombia para rescatar productos como hormigas culonas, mieles de abejas nativas y tubérculos olvidados, transformándolos en alta cocina de vanguardia.</p>\n\n<p>🍽️ <strong>Platos Emblemáticos</strong></p><ul><li>🐜 <strong>Atún en costra de hormiga culona:</strong> Una mezcla audaz de texturas y sabores que honra la tradición santafereña.</li><li>🐚 <strong>Pulpo con Corozo:</strong> La acidez de la fruta caribeña eleva la frescura del pulpo a niveles sorprendentes.</li><li>🍷 <strong>Maridaje Ancestral:</strong> No te pierdas la propuesta de bebidas fermentadas locales diseñadas para complementar cada paso del menú.</li></ul>\n\n<p>💡 <strong>Consejos para tu visita</strong></p><ul><li>📅 <strong>Reserva con Meses:</strong> Debido a su fama mundial, conseguir mesa requiere una planeación considerable.</li><li>🧪 <strong>Mente Abierta:</strong> Prepárate para sabores nuevos y técnicas experimentales. No es una comida convencional, es una narrativa del territorio.</li><li>👔 <strong>Dress Code:</strong> Smart casual a formal. El ambiente es sofisticado y minimalista.</li></ul>\n\n<p>🚶 <strong>Cómo llegar</strong></p><p>Ubicado en la Calle 70 # 9-63, en el vibrante barrio de Chapinero Alto. Es una zona segura y llena de encanto arquitectónico, ideal para llegar en taxi premium o transporte privado.</p>\n\n<p><em>📸 Créditos imágenes: Colombia Travel, El Tiempo, Coolt</em></p>",
+      "keywords": "Leo, Leonor Espinosa, mejor chef del mundo, alta cocina colombiana, ciclobioma, restaurante Bogota, 50 best restaurants",
+      "address": "Calle 70 # 9-63, Chapinero, Bogotá, Colombia",
+      "category": "gastronomia",
+      "status": "publish",
+      "image_urls": [
+        "https://www.coolt.com/uploads/s1/55/45/3/cerdo-sabanero-frijol-diablito.jpeg",
+        "https://colombia.travel/sites/default/files/Plato%20de%20Restaurante%20Leonor%20Espinosa.jpg",
+        "https://imagenes.eltiempo.com/files/image_1200_600/uploads/2021/07/29/6103262fac031.jpeg"
+      ]
+    }
+  }
+]

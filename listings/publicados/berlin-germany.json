@@ -1,0 +1,20 @@
+[
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Berlín - La Capital Alemana que Fusiona Historia y Modernidad",
+    "content": "<p><strong>Berlín</strong> es la capital de <strong>Alemania</strong> y una de las ciudades más fascinantes de Europa. Combinando una rica historia con una escena cultural vibrante y una arquitectura impresionante, Berlín atrae a millones de visitantes cada año.</p>\n\n<p><strong>Historia y significancia</strong></p>\n\n<p>Berlín ha sido testigo de momentos históricos fundamentales: la caída del Muro de Berlín en 1989 marcó el fin de la Guerra Fría y la reunificación de Alemania. Hoy, fragmentos del muro permanecen como memorial, recordándonos los capítulos más oscuros de la historia del siglo XX. La ciudad es sede del Bundestag y centro político de Alemania.</p>\n\n<p><strong>Atracciones icónicas</strong></p>\n\n<p>La <strong>Puerta de Brandeburgo</strong> (Brandenburger Tor) es el símbolo más reconocible de Berlín. Este arco neoclásico, construido en el siglo XVIII, fue una vez dividido por el Muro de Berlín y hoy representa la unidad alemana. Cerca se encuentra la <strong>Columna de la Victoria</strong> (Siegessäule), que ofrece vistas panorámicas de la ciudad.</p>\n\n<p>El <strong>Reichstag</strong>, sede del parlamento alemán, es famoso por su cúpula de cristal diseñada por Norman Foster. Los visitantes pueden subir gratuitamente y disfrutar de vistas espectaculares de la ciudad.</p>\n\n<p>La <strong>Isla de los Museos</strong> (Museumsinsel) es Patrimonio de la Humanidad por la UNESCO y alberga cinco museos world-class, incluyendo el Neues Museum y el Pergamonmuseum.</p>\n\n<p><strong>Cultura y vida nocturna</strong></p>\n\n<p>Berlín es conocida por su escena de arte contemporáneo, música electrónica y vida nocturna legendaria. El East Side Gallery, el fragmento más largo del Muro de Berlín conservado, es una galería de arte al aire libre con murales pintado por artistas de todo el mundo.</p>\n\n<p>La ciudad también alberga la <strong>Filarmónica de Berlín</strong>, considerada una de las mejores orquestas del mundo, y escena teatral variada.</p>\n\n<p><strong>Cómo llegar</strong></p>\n\n<p>Berlín cuenta con dos aeropuertos principales: el <strong>Aeropuerto de Berlín-Brandeburgo</strong> (BER) y el <strong>Aeropuerto de Tempelhof</strong> (limitado actualmente). La ciudad está bien conectada por tren ICE a otras ciudades alemanas y europeas. El metro (U-Bahn) y tren ligero (S-Bahn) son formas eficientes de moverse por la ciudad.</p>\n\n<p><em>Créditos de imágenes: delveintoeurope.com, alamy.com, getyourguide.com, bertlintraveltips.com</em></p>",
+    "keywords": "Berlín, Alemania, Brandenburger Tor, Puerta de Brandeburgo, Reichstag, turismo Alemania, viaje Europa, monumentos Berlín, historia alemana, ciudad europea",
+    "address": "Berlín, Alemania",
+    "category": "tourist_attraction",
+    "status": "publish",
+    "image_urls": [
+      "https://delveintoeurope.com/wp-content/uploads/2021/04/landmarks-berlin-brandenburg-gate.jpg",
+      "https://a.cdn-hotels.com/gdcs/production154/d1887/471414c9-f456-4041-83f5-d7b61063d287.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+      "https://c8.alamy.com/comp/2FN653R/brandenburger-gate-is-one-of-most-iconic-landmarks-in-german-capital-city-berlin-2FN653R.jpg",
+      "https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/bltf558fed64069d587/64e0b61e66f1ff4e952f40d1/1_-_BCC-2023-BERLIN-LANDMARKS-1.webp?auto=webp&quality=80&width=2500&disable=upscale",
+      "https://berlintraveltips.com/wp-content/uploads/2023/03/Brandenburg-Gate-Berlin-at-sunset-768x576.jpg"
+    ]
+  }
+}
+]

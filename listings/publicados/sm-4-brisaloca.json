@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "La Brisa Loca | Mariscos Frente al Mar, Santa Marta",
+    "content": "<p><strong>La Brisa Loca</strong> es ese lugar en Santa Marta donde comes mariscos con los pies en la arena y la brisa del Caribe en la cara. Un restaurante frente al mar que combina la frescura del oceano con la calidez de la hospitalidad costeña.</p>\n\n<p><strong>La experiencia frente al mar:</strong> Ubicado con vista directa al Oceano Atlantico, La Brisa Loca ofrece lo que pocos restaurantes pueden: el espectaculo infinito del mar Caribe como telon de fondo. Las mesas en la terraza permiten ver el oleaje mientras se disfruta de una comida recién salida de la cocina, con el atardecer pintando el cielo de naranja y rosa.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>coctel de camaron con salsa rosada</strong> es el aperitivo clasico, seguido de un <strong>pargo rojo a la parrilla con arroz con coco</strong>, <strong>camarones a la plancha con ajo y mantequilla</strong>, <strong>pulpo al grill con vinagreta tropical</strong> y una <strong>limonada de coco</strong> que sabe a paraiso. Las <strong>ostras frescas</strong> con limon y salsa picante son imperdibles para los amantes del mar.</p>\n\n<p><strong>Ambiente:</strong> Informal, relajado y con esa vibra de playa que te hace olvidar el mundo. La musica tropical suena a volumen perfecto, las hamacas invitan a la siesta digestiva y el servicio es tan calido como el clima. Ideal para tardes largas donde el tiempo se mide en atardeceres, no en horas.</p>\n\n<p><strong>Como llegar:</strong> En la zona de playa de Santa Marta, accesible desde El Rodadero y el centro. Se recomienda llegar al atardecer para la mejor experiencia visual.</p>\n\n<p><em>Creditos de imagenes: Restaurant Guru / Colombia My Way</em></p>",
+    "keywords": "La Brisa Loca Santa Marta, mariscos frente al mar Santa Marta, restaurante playa Santa Marta, pargo rojo a la parrilla Caribe, limonada de coco, atardecer Santa Marta, donde comer en la playa Santa Marta, restaurante romantico Caribe",
+    "address": "Zona de Playa, Santa Marta, Magdalena, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://img.restaurantguru.com/c02f-Pub-and-bar-Brisa-Loca-interior.jpg",
+      "https://naarcolombia.com/wp-content/uploads/2023/11/La-Brisa-loca_hostel_rooftop_terras_Santa_Marta_party.jpeg",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151251538.jpg?k=42f0a5b8d57eab874940978bf1976da2ed7b9b24b338e2a67ed414d52acc1a92&o=&hp=1"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🌊 Río Cauca — El Patrón del Valle y los Cañones",
+    "content": "<p>🎯 <strong>Por que visitar el Rio Cauca?</strong></p><p>El <strong>Rio Cauca</strong> es uno de los rios mas importantes de Colombia, atravesando el pais de sur a norte 🌊. Con 1,180 km de longitud, es el segundo rio mas largo del pais despues del Magdalena. Su valle es el corazon agricola del Valle del Cauca y ofrece paisajes spectaculars.</p><p>📜 <strong>Historia y Significado</strong></p><p>El rio Cauca fue fundamental para el desarrollo de las civilizaciones prehispanicas en el valle del Cauca. Los Quillacingas y otras comunidades indigenas habitaron sus orillas. Hoy, el rio es vital para la agricultura, la generacion de energia hidroelectrica y el turismo de aventura.</p><p>🚣 <strong>Que Hacer</strong></p><ul><li>🚣 <strong>Rafting</strong>: Aguas bravas en ciertos tramos</li><li>🦜 <strong>Observacion de aves</strong>: Gran diversidad de especies</li><li>🏞️ <strong>Cañon del Cauca</strong>: Paisajes impresionantes</li><li>🚵 <strong>Rutas ribereñas</strong>: Para cycling y senderismo</li></ul><p>🕐 <strong>Mejor Epoca</strong></p><p>☀️ <strong>Diciembre a abril</strong>: Menos lluvia, ideal para actividades.<br>🌧️ <strong>Mayo a noviembre</strong>: Mas agua para deportes acuaticos.</p><p>💡 <strong>Consejos Practicos</strong></p><ul><li>🧴 <strong>Protector solar</strong>: El sol en el valle es intenso</li><li>🦟 <strong>Repelente</strong>: Especialmente en areas rurales</li><li>📷 <strong>Camara</strong>: Atardeceres inmejorables</li><li>🚗 <strong>Transporte</strong>: Mejor con vehiculo propio</li></ul><p>🚶 <strong>Como Llegar</strong></p><p>El rio Cauca atraviesa varios departamentos. Puedes acceder desde <strong>Cali</strong>, <strong>Medellin</strong>, <strong>Manizales</strong> o <strong>Cartago</strong>. Las mejores vistas son desde la via que conecta el Eje Cafetero con el Valle del Cauca.</p><p><em>📸 Creditos imagenes: adobe.com, lifeder.com</em></p>",
+    "keywords": "Rio Cauca, Valle del Cauca, rio Colombia, naturaleza, turismo, rafting, canon",
+    "address": "Rio Cauca, Valle del Cauca, Colombia",
+    "category": "turismo",
+    "status": "publish",
+    "image_urls": [
+      "https://riosdelplaneta.com/wp-content/uploads/2017/11/rio-cauca-1.jpg"
+    ]
+  }
+}

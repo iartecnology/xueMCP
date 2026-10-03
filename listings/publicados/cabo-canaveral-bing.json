@@ -1,0 +1,25 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Cabo Cañaveral - Parque Tayrona",
+      "content": "Descubre la serenidad de Cabo Cañaveral, una joya escondida en el Parque Nacional Natural Tayrona. Con sus arenas blancas y aguas cristalinas, es el destino perfecto para la aventura y el descanso en el Caribe colombiano.",
+      "status": "publish",
+      "type": "service",
+      "address": "Parque Tayrona, Magdalena, Colombia",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.G68Vz9Xp_N3k0UqK-Yv8WAHaE8?rs=1&pid=ImgDetMain",
+        "https://th.bing.com/th/id/OIP.uJ9xYk8_K2-MvW0_zR3g5AHaFj?rs=1&pid=ImgDetMain"
+      ],
+      "category": [
+        26
+      ],
+      "region": [
+        35
+      ],
+      "keywords": "playa, tayrona, colombia, bing, turismo",
+      "id": 6339,
+      "link": "https://xueturismo.com/26/cabo-canaveral-parque-tayrona/"
+    }
+  }
+]

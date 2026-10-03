@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Santuario Los Flamencos Camarones Guajira"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://vagamundos.com/parque-natural-los-flamencos-en-camarones-guajira/&quot;,&quot;murl&quot;:&quot;https://vagamundos.com/wp-content/uploads/2014/06/P2162416.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://blog.redbus.co/naturaleza/playa-camarones-guajira/&quot;,&quot;murl&quot;:&quot;http://blog.redbus.co/wp-content/uploads/2020/02/flamencos.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://vagamundos.com/parque-natural-los-flamencos-en-camarones-guajira/&quot;,&quot;murl&quot;:&quot;https://vagamundos.com/wp-content/uploads/2014/06/P2162416.jpg"
+  },
+  {
+    "image_url": "https://blog.redbus.co/naturaleza/playa-camarones-guajira/&quot;,&quot;murl&quot;:&quot;http://blog.redbus.co/wp-content/uploads/2020/02/flamencos.jpg"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏜️ Uribia — La Capital Indígena de Colombia",
+    "content": "<p>🎯 <strong>¿Por qué visitar Uribia?</strong></p><p><strong>Uribia</strong> es conocida como la 'Capital Indígena de Colombia' 🏜️. Es el municipio más grande del país y el corazón político, comercial y cultural de la etnia Wayuu. Es el punto de paso obligatorio para adentrarse en la Alta Guajira y el mejor lugar para sumergirse en la vida cotidiana de esta comunidad ancestral.</p><p>🧶 <strong>Cultura y Comercio</strong></p><p>Uribia es un crisol de colores y sonidos. Su plaza principal es un hervidero de actividad donde las mujeres Wayuu, con sus mantas multicolores, ofrecen mochilas, chinchorros y artesanías. Es el lugar ideal para entender la estructura social Wayuu y para prepararse con suministros antes de emprender el viaje hacia el desierto profundo.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🧣 <strong>Festival de la Cultura Wayuu</strong>: Si vas en mayo, vive la celebración más importante de la etnia con música, juegos y danzas tradicionales como la Yonna.</li><li>🧶 <strong>Mercado de Artesanías</strong>: Encuentra las mochilas Wayuu más auténticas directamente de sus creadoras.</li><li>🏜️ <strong>Puerta del Desierto</strong>: Siente la transición entre el mundo urbano y la inmensidad de la Alta Guajira.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Mayo</strong>: Durante el Festival de la Cultura Wayuu para vivir la experiencia cultural completa.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Acceso libre.</li><li>🧺 <strong>Suministros</strong>: Es el último punto con grandes supermercados y estaciones de servicio confiables antes del Cabo de la Vela.</li><li>📸 <strong>Respeto</strong>: Pide permiso siempre antes de fotografiar a las personas, especialmente a los niños y ancianos Wayuu.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra a unos 90 kilómetros de Riohacha por carretera pavimentada. Es el punto donde termina el asfalto y comienza la aventura por las trochas del desierto.</p><p><em>📸 Créditos: artesaniasorigen.com, mimundoporelmundo.com.ar</em></p>",
+    "keywords": "Uribia, La Guajira, capital indigena, Wayuu, cultura Wayuu, mochilas Wayuu, Festival Cultura Wayuu, Alta Guajira",
+    "address": "Uribia, La Guajira, Colombia",
+    "lat": 11.7136,
+    "lng": -72.2661,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://i.pinimg.com/originals/bd/12/e7/bd12e7e33aed677300535fdf451c8f32.jpg",
+      "https://i.ytimg.com/vi/Zd49-o7N7IA/maxresdefault.jpg"
+    ]
+  }
+}

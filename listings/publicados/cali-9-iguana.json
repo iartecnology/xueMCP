@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "La Iguana | Cocina Fusion Caleña, Cali",
+    "content": "<p><strong>La Iguana</strong> es un restaurante de fusion que toma las raices culinarias del Valle del Cauca y las mezcla con influencias del Caribe, Asia y Europa, creando platos que sorprenden sin perder la esencia de la cocina caleña.</p>\n\n<p><strong>El concepto de fusion:</strong> La Iguana nace de la idea de que la gastronomia colombiana puede dialogar con cocinas del mundo sin perder su identidad. Cada plato es una conversacion entre lo local y lo global: ingredientes del Valle del Cauca preparados con tecnicas internacionales, salsas que mezclan lo tropical con lo umami, y presentaciones que demuestran que la comida colombiana merece estar en cualquier mesa del mundo.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>tartar de atun con salsa de maracuya y aguacate</strong>, el <strong>risotto de camaron con coco y cilantro</strong>, el <strong>curry de pescado del Pacifico con leche de coco</strong>, los <strong>tacos de pulled pork con ensalada de mango</strong> y el <strong>cheesecake de lulo</strong> como postre insignia. Los cocteles de autor con frutas tropicales colombianas son un capitulo aparte.</p>\n\n<p><strong>Ambiente:</strong> Moderno, con decoracion que mezcla elementos tropicales con diseno contemporaneo. La musica es ecléctica —desde electronica suave hasta jazz latino— y el espacio tiene una barra donde los cocteleros crean obras de arte liquidas.</p>\n\n<p><strong>Como llegar:</strong> En zona gastronomica de Cali, con buen acceso desde los principales sectores de la ciudad. El area cuenta con zona T y opciones de transporte.</p>\n\n<p><em>Creditos de imagenes: Scribd / Visit Valle Travel</em></p>",
+    "keywords": "La Iguana Cali, restaurante fusion Cali, cocina fusion Colombia, restaurante moderno Cali, gastronomia internacional Cali, cocteles Cali, que comer en Cali, restaurante trendy Cali",
+    "address": "Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://visitvalle.travel/wp-content/uploads/2024/12/restaurantes-20-cali-banner.webp",
+      "https://imgv2-2-f.scribdassets.com/img/document/918705810/original/be1cf3a833/1?v=1",
+      "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/22/c1/03/iguana-s-pub.jpg"
+    ]
+  }
+}

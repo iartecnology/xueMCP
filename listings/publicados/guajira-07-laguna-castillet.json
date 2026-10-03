@@ -1,0 +1,17 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🦩 Laguna de Castillet — Flamencos Rosados y Paz en el Desierto",
+    "content": "<p>🎯 <strong>¿Por qué visitar la Laguna de Castillet?</strong></p><p>La <strong>Laguna de Castillet</strong>, ubicada cerca de Punta Gallinas, es un oasis de vida en medio de la aridez extrema de la Alta Guajira 🦩. Es uno de los mejores lugares de Colombia para observar flamencos rosados en su hábitat natural, donde estas majestuosas aves se alimentan en las aguas poco profundas de la laguna.</p><p>🏜️ <strong>Espejismos y Realidad</strong></p><p>El paisaje es surrealista: el rosa de las aves contrasta con el azul del agua y el ocre del desierto circundante. Es un sitio de paz absoluta, donde solo se escucha el viento y el canto de las aves migratorias que encuentran refugio en este rincón del extremo norte de Sudamérica.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🔭 <strong>Observación de Flamencos</strong>: Mira de cerca a estas elegantes aves (siempre manteniendo una distancia respetuosa).</li><li>🌅 <strong>Atardeceres Únicos</strong>: La laguna refleja los colores del cielo, creando un espectáculo visual inolvidable al final del día.</li><li>🚶 <strong>Caminatas por el Desierto</strong>: Explora los alrededores de la laguna y descubre la flora y fauna adaptada al desierto.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Septiembre a Enero</strong>: Es la temporada donde se suele ver una mayor concentración de flamencos migratorios.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>📸 <strong>Teleobjetivo</strong>: Si te gusta la fotografía, lleva un buen zoom para captar a los flamencos sin asustarlos.</li><li>👟 <strong>Calzado</strong>: Usa sandalias cerradas o zapatos que se puedan mojar, ya que el terreno puede ser fangoso cerca del agua.</li><li>🤐 <strong>Silencio</strong>: Mantén el tono de voz bajo para no ahuyentar a la fauna silvestre.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Suele incluirse en los tours que van hacia <strong>Punta Gallinas</strong>. El acceso es en 4x4 o lancha desde Bahía Hondita.</p><p><em>📸 Créditos: vagamundos.com, blog.redbus.co</em></p>",
+    "address": "Laguna de Castillet, Punta Gallinas, La Guajira, Colombia",
+    "lat": 12.4411,
+    "lng": -71.7247,
+    "keywords": "Laguna de Castillet, flamencos rosados, Punta Gallinas, La Guajira, avistamiento aves Colombia, desierto y mar, turismo ecologico",
+    "category": "naturales",
+    "status": "publish",
+    "image_urls": [
+      "https://vagamundos.com/wp-content/uploads/2014/06/P2162416.jpg",
+      "http://blog.redbus.co/wp-content/uploads/2020/02/flamencos.jpg"
+    ]
+  }
+}

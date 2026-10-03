@@ -1,0 +1,40 @@
+🔍 Searching: "Museo del Oro Nariño Pasto"
+📊 Results: 2
+
+✅ Got VQD token: 4-27739983897284012751546332439338282836 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/pasto-museo-del-oro-narino-640x400.jpg
+   Source: https://www.banrepcultural.org/pasto/museo-del-oro-nari%C3%B1o/bienvenidos
+   Title: Museo del Oro Nariño | La Red Cultural del Banco de la República
+   Width: 640 | Height: 400
+====================================================================================================
+
+📸 Image 2:
+   URL: https://museosnacionales.com/wp-content/uploads/2023/04/image-20.png
+   Source: https://museosnacionales.com/colombia/museo-del-oro-narino/
+   Title: Museo del Oro Nariño
+   Width: 1000 | Height: 617
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/pasto-museo-del-oro-narino-640x400.jpg",
+    "source_url": "https://www.banrepcultural.org/pasto/museo-del-oro-nari%C3%B1o/bienvenidos",
+    "title": "Museo del Oro Nariño | La Red Cultural del Banco de la República",
+    "width": 640,
+    "height": 400
+  },
+  {
+    "image_url": "https://museosnacionales.com/wp-content/uploads/2023/04/image-20.png",
+    "source_url": "https://museosnacionales.com/colombia/museo-del-oro-narino/",
+    "title": "Museo del Oro Nariño",
+    "width": 1000,
+    "height": 617
+  }
+]

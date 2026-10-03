@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "La Ventana de Sofia | Cocina Vallecaucana de Autor, Cali",
+    "content": "<p><strong>La Ventana de Sofia</strong> es un restaurante que eleva la cocina tradicional del Valle del Cauca a una categoria de autor, reinterpretando recetas ancestrales con tecnicas contemporaneas y una presentacion que enamora tanto la vista como el paladar.</p>\n\n<p><strong>Historia y concepto:</strong> Nacio de la vision de chefs vallecaucanos apasionados por honrar las raices culinarias de su tierra. El nombre rinde homenaje a la nostalgia y a la memoria gastronomica, evocando aquellas tardes de infancia donde los aromas de la cocina de la abuela anunciaban banquetes inolvidables.</p>\n\n<p><strong>Platos estrella:</strong> Cada plato es una obra de arte culinario. El <strong>sanchocho de gallina criolla</strong> se sirve con una presentacion impecable, la <strong>abadejada vallecaucana</strong> se reinventa con toques de autor, y el <strong>atun con salsa de lulo</strong> fusiona productos del Pacifico con frutas tropicales de la region. La <strong>ensalada de palmito con vinagreta de maracuya</strong> y el <strong>postre de tres leches con reduccion de cafe del Huila</strong> cierran una experiencia gastronomica excepcional.</p>\n\n<p><strong>Ambiente:</strong> El restaurante ocupa una casona republicana restaurada, con ventanales amplios que dan a un jardin interior. La decoracion mezcla lo rustico con lo elegante, creando un espacio intimo y sofisticado donde cada detalle invita a quedarse.</p>\n\n<p><strong>Como llegar:</strong> Situado en el sector de San Fernando, uno de los barrios mas tradicionales de Cali. Se llega facilmente desde cualquier punto de la ciudad. El area es tranquila y arbolada, ideal para una comida con calma.</p>\n\n<p><em>Creditos de imagenes: The Gourmet Journal / Tulio Recomienda</em></p>",
+    "keywords": "La Ventana de Sofia Cali, cocina de autor Cali, alta cocina Valle del Cauca, restaurante San Fernando Cali, gastronomia vallecaucana, restaurante casona Cali, cocina contemporanea Cali, que comer en Cali",
+    "address": "San Fernando, Cali, Valle del Cauca, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://www.thegourmetjournal.com/wp-content/uploads/2024/12/Platillos-Voladores-Cali-Bogota.jpg",
+      "https://i0.wp.com/tuliorecomienda.com/wp-content/uploads/2018/12/main-3.jpg?w=1280&ssl=1",
+      "https://digital.ihg.com/is/image/ihg/intercontinental-sofia-9563226634-3x2"
+    ]
+  }
+}

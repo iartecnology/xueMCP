@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Caribbean Grill | Cocina Gourmet del Caribe Insular, San Andres",
+    "content": "<p><strong>Caribbean Grill</strong> es el restaurante gourmet de San Andres que lleva la cocina del Caribe insular a un nivel de sofisticacion que demuestra que la gastronomia del archipielago puede competir con cualquier restaurante del mundo.</p>\n\n<p><strong>Alta cocina caribena:</strong> Caribbean Grill toma los ingredientes mas nobles del Caribe —langostas, pargos, camarones gigantes, frutas tropicales, especias isleñas— y los transforma con tecnicas de alta cocina internacional. El equipo chef combina formacion culinaria internacional con un profundo conocimiento de los sabores caribenos, creando platos que son artisticos en presentacion pero autenticos en sabor.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>tartar de langosta con aguacate y citrus</strong> es una entrada que deslumbra, el <strong>pargo rojo en costra de hierbas con salsa de maracuya</strong> fusiona lo clasico con lo tropical, el <strong>risotto de camaron con azafran y coco</strong> une Italia con el Caribe, el <strong>filete mignon con reduccion de ron y especias</strong> satisface a los carnivoros mas exigentes, y el <strong>postre de coco y chocolate del Pacifico con sorbete de guanabana</strong> cierra una experiencia que es pura indulgencia caribena. La carta de cocteles incluye creaciones con ron añejo y frutas exoticas.</p>\n\n<p><strong>Ambiente:</strong> Sofisticado caribeno: elegante pero tropical. Mesa con mantel blanco pero centro de mesa con flores tropicales. Iluminacion tenue con velas y farolitos. La musica es jazz latino y bossa nova suave, creando una atmosfera de refinamiento relajado. El servicio es de primer nivel, con meseros que explican cada plato con conocimiento y pasion.</p>\n\n<p><strong>Como llegar:</strong> En zona exclusiva de San Andres, con servicio de valet parking. Reservacion esencial. Ideal para cenas especiales y celebraciones donde la experiencia gastronomica es el evento principal.</p>\n\n<p><em>Creditos de imagenes: Caribbean Grill Facebook / Eldorado Spa Resorts</em></p>",
+    "keywords": "Caribbean Grill San Andres, restaurante gourmet San Andres, alta cocina Caribe insular, tartar langosta San Andres, pargo rojo costra hierbas, restaurante lujo San Andres, cena romantica Caribe, gastronomia gourmet archipielago",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=882660190646325",
+      "http://www.eldoradosparesorts.com.mx/img/maroma/maroma-caribbean-grill-restaurant-HiRes.jpg",
+      "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/5/8a/58af3845-bf4c-5c8c-b64e-489302166c0f/64de2f2708173.image.jpg?resize=375%2C500"
+    ]
+  }
+}

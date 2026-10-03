@@ -1,0 +1,13 @@
+{
+  "ability": "wp/update-post",
+  "args": {
+    "id": 4768,
+    "image_urls": [
+      "https://i.pinimg.com/originals/00/09/36/000936f057cff042f17472ba548dd452.jpg",
+      "https://mediaim.expedia.com/localexpert/824645/083e0265-be3a-4ca5-a00b-b1993243a052.jpg",
+      "https://thumbs.dreamstime.com/z/people-enjoying-aquatic-park-water-parkin-hacienda-napoles-pablo-escobar-th-doradal-colombia-march-people-126056850.jpg",
+      "https://c8.alamy.com/comp/KXAYT5/the-entrance-gate-reads-hacienda-napoles-colombia-07-december-2017-KXAYT5.jpg",
+      "https://medellinguru.com/wp-content/uploads/2018/11/savage-river-1024x673.jpg"
+    ]
+  }
+}

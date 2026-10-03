@@ -1,0 +1,24 @@
+🔍 Bing Images Search: "Playa Castillogrande Cartagena Colombia"
+📊 Results: 2
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.urtrips.com/en/playa-castillo-grande-cartagena/&quot;,&quot;murl&quot;:&quot;https://www.urtrips.com/wp-content/uploads/2023/11/Playa-Castillo-Grande-Cartagena1.jpg
+====================================================================================================
+
+📸 Image 2:
+   URL: https://viajandox.com.co/cartagena-de-indias/playa-castillo-grande-A2965&quot;,&quot;murl&quot;:&quot;https://viajandox.com.co/uploads/attractive_92.jpg
+====================================================================================================
+
+📋 JSON format:
+[
+  {
+    "image_url": "https://www.urtrips.com/en/playa-castillo-grande-cartagena/&quot;,&quot;murl&quot;:&quot;https://www.urtrips.com/wp-content/uploads/2023/11/Playa-Castillo-Grande-Cartagena1.jpg"
+  },
+  {
+    "image_url": "https://viajandox.com.co/cartagena-de-indias/playa-castillo-grande-A2965&quot;,&quot;murl&quot;:&quot;https://viajandox.com.co/uploads/attractive_92.jpg"
+  }
+]

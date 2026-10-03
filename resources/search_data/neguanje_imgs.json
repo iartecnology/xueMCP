@@ -1,0 +1,40 @@
+🔍 Searching: "Playa Neguanje Tayrona"
+📊 Results: 2
+
+✅ Got VQD token: 4-192779443100081588469443366765118245361 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://live.staticflickr.com/7038/6853091009_3060a8eff1_b.jpg
+   Source: https://www.flickr.com/photos/haquintero/6853091009/
+   Title: Playa Neguanje Parque Tayrona (II) | Playa Neguanje Parque T… | Flickr
+   Width: 1024 | Height: 768
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.parquetayrona.com/wp-content/webp-express/webp-images/uploads/2019/02/Pagina-178.-Playa-Cristal-Neguanje.-juan-Bonilla.jpg.webp
+   Source: https://www.parquetayrona.com/es/playas/neguanje/
+   Title: Playa Neguanje - Parque Tayrona
+   Width: 2000 | Height: 1328
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://live.staticflickr.com/7038/6853091009_3060a8eff1_b.jpg",
+    "source_url": "https://www.flickr.com/photos/haquintero/6853091009/",
+    "title": "Playa Neguanje Parque Tayrona (II) | Playa Neguanje Parque T… | Flickr",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "image_url": "https://www.parquetayrona.com/wp-content/webp-express/webp-images/uploads/2019/02/Pagina-178.-Playa-Cristal-Neguanje.-juan-Bonilla.jpg.webp",
+    "source_url": "https://www.parquetayrona.com/es/playas/neguanje/",
+    "title": "Playa Neguanje - Parque Tayrona",
+    "width": 2000,
+    "height": 1328
+  }
+]

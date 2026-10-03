@@ -1,0 +1,16 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "Miss Chola | Fusion Raizal-Internacional, San Andres",
+    "content": "<p><strong>Miss Chola</strong> es un restaurante de San Andres que toma la cocina raizal tradicional y la fusiona con influencias internacionales, creando una propuesta gastronomica tan unica y diversa como la propia cultura isleña.</p>\n\n<p><strong>La fusion como identidad:</strong> San Andres es por naturaleza un lugar de fusion: britanicos, africanos, espanoles y caribenos se mezclaron para crear la cultura raizal. Miss Chola lleva ese principio a la cocina, tomando las recetas ancestrales de la isla y dialogando con tecnicas e ingredientes de la gastronomia internacional. El resultado es un menu que sorprende por su creatividad sin perder la esencia raizal.</p>\n\n<p><strong>Platos estrella:</strong> El <strong>tartar de atun con salsa de coco y jengibre</strong> fusiona lo japones con lo caribeno, la <strong>langosta teriyaki con arroz de coco</strong> une Japon y el Caribe en un solo plato, el <strong>curry de cangrejo con especias indias y leche de coco isleña</strong> es una explosion de sabores, los <strong>tacos de pescado con slaw de mango</strong> llevan lo mexicano al Caribe, y el <strong>cheesecake de maracuya con base de coco</strong> cierra con un postre que podria ser de cualquier parte del mundo pero sabe a San Andres.</p>\n\n<p><strong>Ambiente:</strong> Moderno y vibrante, con colores tropicales, arte local en las paredes y una atmosfera que mezcla lo chic con lo caribeno. La musica es eclecticica —desde reggae hasta electronica suave— y la barra de cocteles ofrece creaciones que mezclan ron isleño con frutas tropicales y hierba buena fresca.</p>\n\n<p><strong>Como llegar:</strong> En zona gastronomica de San Andres, cerca al sector turistico. Facil acceso en taxi o golf cart desde cualquier punto de la isla.</p>\n\n<p><em>Creditos de imagenes: El Tiempo</em></p>",
+    "keywords": "Miss Chola San Andres, fusion raizal internacional, restaurante fusion Caribe, langosta teriyaki San Andres, tartar atun coco, curry cangrejo Caribe, cocteles tropicales San Andres, gastronomia isleña moderna",
+    "address": "San Andres Isla, Colombia",
+    "category": "restaurant",
+    "status": "publish",
+    "image_urls": [
+      "https://imagenes.eltiempo.com/uploads/2023/06/22/6494b52bbcf75.jpeg",
+      "https://imagenes.eltiempo.com/uploads/2023/06/22/6494b4fb42e42.jpeg",
+      "https://imagenes.eltiempo.com/uploads/2023/06/22/6494b4c438920.jpeg"
+    ]
+  }
+}

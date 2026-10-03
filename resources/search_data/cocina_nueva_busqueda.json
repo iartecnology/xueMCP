@@ -1,0 +1,82 @@
+🔍 Searching: "clase de cocina cartagena colombia tradicional"
+📊 Results: 5
+
+✅ Got VQD token: 4-3401785901367409427033724015881748950 
+
+✅ Found 5 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.civitatis.com/f/colombia/cartagena-de-indias/galeria/cocina-colombiana1.jpg
+   Source: https://www.civitatis.com/es/cartagena-de-indias/clase-cocina-colombiana
+   Title: Clase de cocina colombiana en Cartagena, Cartagena de Indias - Civitatis
+   Width: 780 | Height: 521
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.civitatis.com/f/colombia/cartagena-de-indias/galeria/cocina-colombiana2.jpg
+   Source: https://www.civitatis.com/mx/cartagena-de-indias/clase-cocina-colombiana/
+   Title: Clase de cocina colombiana en Cartagena, Cartagena de Indias ...
+   Width: 780 | Height: 521
+====================================================================================================
+
+📸 Image 3:
+   URL: https://cartagenacookingschool.com/wp-content/uploads/2022/01/25-682x1024.jpeg
+   Source: https://cartagenacookingschool.com/
+   Title: Cartagena Cooking School - Clases de cocina en Cartagena
+   Width: 682 | Height: 1024
+====================================================================================================
+
+📸 Image 4:
+   URL: https://www.tangol.com/Fotos/Tours/clase-de-cocina-colombiana_36559_202409051525380.JPG
+   Source: https://www.tangol.com/esp/colombia/cartagena/excursiones/gastronomicos/clase-de-cocina-colombiana_t_36559
+   Title: Clase de Cocina Colombiana en Cartagena | ¡Reserva tu Experiencia ...
+   Width: 1280 | Height: 720
+====================================================================================================
+
+📸 Image 5:
+   URL: https://cartagena.tips/wp-content/uploads/2023/11/IMG_8279.jpeg
+   Source: https://cartagena.tips/tour/clase-de-cocina/
+   Title: Clase de cocina - Cartagena Tips
+   Width: 1600 | Height: 1200
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://www.civitatis.com/f/colombia/cartagena-de-indias/galeria/cocina-colombiana1.jpg",
+    "source_url": "https://www.civitatis.com/es/cartagena-de-indias/clase-cocina-colombiana",
+    "title": "Clase de cocina colombiana en Cartagena, Cartagena de Indias - Civitatis",
+    "width": 780,
+    "height": 521
+  },
+  {
+    "image_url": "https://www.civitatis.com/f/colombia/cartagena-de-indias/galeria/cocina-colombiana2.jpg",
+    "source_url": "https://www.civitatis.com/mx/cartagena-de-indias/clase-cocina-colombiana/",
+    "title": "Clase de cocina colombiana en Cartagena, Cartagena de Indias ...",
+    "width": 780,
+    "height": 521
+  },
+  {
+    "image_url": "https://cartagenacookingschool.com/wp-content/uploads/2022/01/25-682x1024.jpeg",
+    "source_url": "https://cartagenacookingschool.com/",
+    "title": "Cartagena Cooking School - Clases de cocina en Cartagena",
+    "width": 682,
+    "height": 1024
+  },
+  {
+    "image_url": "https://www.tangol.com/Fotos/Tours/clase-de-cocina-colombiana_36559_202409051525380.JPG",
+    "source_url": "https://www.tangol.com/esp/colombia/cartagena/excursiones/gastronomicos/clase-de-cocina-colombiana_t_36559",
+    "title": "Clase de Cocina Colombiana en Cartagena | ¡Reserva tu Experiencia ...",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "image_url": "https://cartagena.tips/wp-content/uploads/2023/11/IMG_8279.jpeg",
+    "source_url": "https://cartagena.tips/tour/clase-de-cocina/",
+    "title": "Clase de cocina - Cartagena Tips",
+    "width": 1600,
+    "height": 1200
+  }
+]

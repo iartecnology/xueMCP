@@ -1,0 +1,18 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🏡 Barrio San Antonio — El Corazón Bohemio de Cali",
+    "content": "<p>🎯 <strong>¿Por qué visitar San Antonio?</strong></p><p>El <strong>Barrio San Antonio</strong> es el rincón más encantador y tradicional de Cali 🏡. Con sus calles empedradas, casas coloniales de colores vibrantes y una atmósfera artística inigualable, este barrio es el epicentro de la cultura, la gastronomía y la bohemia en la ciudad.</p><p>🎨 <strong>Historia y Tradición</strong></p><p>Fundado en el siglo XVIII, San Antonio conserva la arquitectura clásica de la época con sus ventanas de madera y patios interiores. Es el hogar de numerosos artistas, artesanos y cuenteros que se reúnen en la famosa Colina de San Antonio, frente a su emblemática capilla blanca, para ver el atardecer y disfrutar de la brisa caleña.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🍦 <strong>Gastronomía</strong>: Explora una de las mejores ofertas gastronómicas de la ciudad, desde comida típica hasta platos de autor.</li><li>🎨 <strong>Talleres de Arte</strong>: Visita las pequeñas galerías y talleres de artesanía que se esconden en sus calles.</li><li>📖 <strong>Cuenteros</strong>: Los fines de semana, disfruta de las historias y leyendas contadas por locales en la colina.</li></ul><p>🕐 <strong>Mejor momento para visitar</strong></p><p>📅 <strong>Tardes y noches</strong>: A partir de las 4 PM, cuando el sol baja y el barrio se llena de vida y luces cálidas.</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Acceso libre al barrio.</li><li>👟 <strong>Caminata</strong>: Prepárate para subir y bajar cuestas empinadas; usa calzado cómodo.</li><li>🌬️ <strong>La Colina</strong>: Es el sitio ideal para 'ventear' (disfrutar de la brisa) mientras ves la ciudad.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Ubicado en el oeste de <strong>Cali</strong>, es fácilmente accesible a pie desde el centro histórico o en taxi desde cualquier punto de la ciudad.</p><p><em>📸 Créditos: orgullodecali.com, arriendo.com</em></p>",
+    "keywords": "Barrio San Antonio, Cali, colonial, bohemio, turismo Cali, gastronomia Cali, cultura caleña, colina de San Antonio, que visitar en Cali",
+    "address": "Barrio San Antonio, Cali, Valle del Cauca, Colombia",
+    "lat": 3.4475,
+    "lng": -76.5411,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://www.orgullodecali.com/wp-content/uploads/2022/01/BARRIO-SAN-ANTONIO-Orgullo-de-Cali-768x538.jpg",
+      "https://arriendo.com/co/blog/wp-content/uploads/2025/02/Guia-del-Barrio-San-Antonio-Cali.jpg",
+      "https://www.orgullodecali.com/wp-content/uploads/2022/01/BARRIO-SAN-ANTONIO-Cali.jpg"
+    ]
+  }
+}

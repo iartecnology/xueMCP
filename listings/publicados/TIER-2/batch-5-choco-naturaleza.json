@@ -1,0 +1,92 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Nuquí — Ballenas Jorobadas y Selva del Pacífico",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Nuquí es el epicentro de la naturaleza salvaje en Colombia 🐋. Es uno de los pocos lugares en el mundo donde la selva tropical húmeda se encuentra directamente con el Océano Pacífico. Es famoso mundialmente por el avistamiento de ballenas jorobadas, que llegan a sus aguas cálidas para dar a luz.</p><p>📜 <strong>Historia y significancia</strong></p><p>Habitado ancestralmente por comunidades indígenas Emberá y posteriormente por comunidades afrodescendientes, Nuquí ha mantenido su esencia gracias a su aislamiento geográfico. No hay carreteras que lleguen aquí, lo que ha preservado uno de los ecosistemas más biodiversos del planeta.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🐋 <strong>Avistamiento de Ballenas</strong>: De julio a octubre, un espectáculo natural inolvidable.</li><li>🏄 <strong>Playa Guachalito</strong>: Playas de arena oscura perfectas para el surf y el descanso profundo.</li><li>♨️ <strong>Termales de Arusí</strong>: Pozos naturales de agua caliente en medio de la selva.</li><li>🚶 <strong>Senderismo por la Selva</strong>: Caminatas guiadas para descubrir cascadas escondidas y aves exóticas.</li></ul><p>💡 <strong>Consejos para tu visita</strong></p><ul><li>🌧️ Lleva ropa impermeable y botas de caucho, llueve con frecuencia.</li><li>💵 No hay cajeros automáticos, lleva suficiente efectivo.</li><li>🦟 Usa repelente biodegradable para proteger el ecosistema.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>La única forma de llegar es por aire mediante vuelos desde Medellín (Aeropuerto Olaya Herrera) o Quibdó, o por mar desde Buenaventura en un viaje de varias horas.</p><p><em>📸 Créditos: colombiaturismo.com.co, aventurecolombia.com</em></p>",
+      "keywords": "Nuquí, Chocó, ballenas jorobadas, Pacífico, selva, surf, termales, ecoturismo",
+      "address": "Nuquí, Chocó, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://www.colombiaturismo.com.co/img/900/nuqui-choco-turismo.jpg",
+        "https://aventurecolombia.com/wp-content/uploads/2021/04/Nuqui-Choco-Pacifique-%C2%A9anonimo.jpg",
+        "https://www.novatours.com.co/wp-content/uploads/2022/11/Como-llegar-a-Nuqui.jpg",
+        "https://colombiatours.travel/wp-content/uploads/2017/07/nuqui-choco-colombia-768x576.jpg",
+        "https://cdn.colombia.com/sdi/2014/01/16/playa-guachalito-909482.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Bahía Solano — Avistamiento de Tortugas y Ballenas",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Bahía Solano es un santuario de vida silvestre donde el tiempo parece detenerse 🐢. Además de las ballenas, es famoso por el desove de tortugas marinas en sus extensas playas vírgenes y por ser uno de los mejores destinos de buceo y pesca deportiva en el Pacífico colombiano.</p><p>📜 <strong>Historia y significancia</strong></p><p>Originalmente llamado Jella por los indígenas, fue rebautizado en honor al explorador español José Solano. Es un punto estratégico para la conservación marina y un modelo de ecoturismo comunitario donde los habitantes locales son los guardianes de la selva y el mar.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🐢 <strong>Avistamiento de Tortugas</strong>: En la Playa El Almejal puedes participar en la liberación de tortugas golfinas.</li><li>🌊 <strong>Parque Nacional Natural Utría</strong>: Una ensenada espectacular que parece un espejo de agua rodeada de manglares.</li><li>🐯 <strong>Cascada del Tigre</strong>: Una caída de agua cristalina que desemboca directamente en el mar.</li><li>🤿 <strong>Buceo</strong>: Explora los arrecifes rocosos llenos de vida multicolor.</li></ul><p>💡 <strong>Consejos para tu visita</strong></p><ul><li>🐋 La mejor época para ballenas es agosto y septiembre.</li><li>📶 La señal de celular es intermitente, prepárate para una desconexión total.</li><li>🧴 Usa bloqueador solar amigable con los corales.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Vuelos diarios desde Medellín (Olaya Herrera) llegan al aeropuerto José Celestino Mutis. También es posible llegar en barco desde Buenaventura.</p><p><em>📸 Créditos: triviantes.com, expedia.es, colombia.travel</em></p>",
+      "keywords": "Bahía Solano, Chocó, ballenas, tortugas, El Almejal, cascadas, buceo, pesca deportiva",
+      "address": "Bahía Solano, Chocó, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://www.triviantes.com/wp-content/uploads/2023/06/Departamento-Choco-de-Colombia-2.jpg",
+        "http://1.bp.blogspot.com/-7GeDjaXl6zY/VhwmAPZzF_I/AAAAAAAAFtw/w6eKlE4rduk/s1600/bah%25C3%25ADa-solano3.jpg",
+        "https://mediaim.expedia.com/destination/1/98781dcc26b2cfcf5c2d8632ef76d25f.jpg",
+        "https://i.ytimg.com/vi/AbPXSTz74Vw/maxresdefault.jpg",
+        "https://colombia.travel/sites/default/files/atracciones_el_valle_0.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Capurganá — Paraíso Escondido entre Colombia y Panamá",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Capurganá es un tesoro escondido en el Caribe chocoano donde no circulan vehículos motorizados 🌴. Es el lugar ideal para quienes buscan playas de aguas cristalinas, selva espesa y la tranquilidad absoluta que solo se encuentra en el remoto Darién.</p><p>📜 <strong>Historia y significancia</strong></p><p>Su nombre significa \"Tierra de Ají\" en lengua Cuna. Fue un territorio casi inexplorado hasta los años 70. Su cercanía con Panamá lo convierte en un punto de intercambio cultural único, rodeado por la legendaria Selva del Darién.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>⛵ <strong>Sapzurro</strong>: El último pueblo de Colombia, una bahía tranquila y hermosa a solo 10 minutos en lancha.</li><li>🇵🇦 <strong>La Miel</strong>: Cruza la frontera a pie hacia Panamá para disfrutar de playas de arena blanca y duty-free.</li><li>🏊 <strong>La Coquerita</strong>: Piscinas naturales de agua dulce y salada frente al mar.</li><li>🥾 <strong>El Cielo</strong>: Una reserva natural con cascadas y senderos rodeados de monos aulladores.</li></ul><p>💡 <strong>Consejos para tu visita</strong></p><ul><li>🩴 Todo se hace caminando o en bicicleta, lleva calzado cómodo.</li><li>🦟 El repelente es obligatorio para las caminatas por la selva.</li><li>🛂 Si planeas visitar Panamá, lleva tu documento de identidad original.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se llega en lancha rápida desde los puertos de Turbo o Necoclí (Antioquia), un viaje emocionante de aproximadamente 1.5 a 2 horas.</p><p><em>📸 Créditos: ecoturismomacarena.com, colombiaturismo.com.co</em></p>",
+      "keywords": "Capurganá, Sapzurro, Chocó, Darién, Caribe, playas, snorkel, senderismo",
+      "address": "Capurganá, Acandí, Chocó, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://static.wixstatic.com/media/4b847c_ac48a1e2904243e98962c3a88001b129~mv2_d_5039_3456_s_4_2.jpg/v1/crop/x_0,y_26,w_5039,h_3405/fill/w_582,h_393,al_c,q_80,usm_0.66_1.00_0.01/4b847c_ac48a1e2904243e98962c3a88001b129~mv2_d_5039_3456_s_4_2.jpg",
+        "https://static.wixstatic.com/media/4b847c_7ff1fe8912d64a8b803273108f75a0d1~mv2.jpg/v1/fill/w_913,h_501,al_c,q_85,usm_0.66_1.00_0.01/4b847c_7ff1fe8912d64a8b803273108f75a0d1~mv2.jpg",
+        "https://live.staticflickr.com/65535/49974954641_9399376df0_b.jpg",
+        "https://mediaim.expedia.com/destination/1/3968eb4f60ddae722a285ee753275a11.jpg",
+        "https://www.colombiaturismo.com.co/img/900/playa-capurgana-sapzurro-colombia.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Providencia Isla — Mar de los Siete Colores y Arrecifes",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Providencia es la joya más pura del Caribe colombiano 🏝️. Menos concurrida que su vecina San Andrés, conserva la arquitectura caribeña tradicional, una cultura raizal vibrante y el tercer arrecife de coral más largo del mundo, ideal para el buceo de clase mundial.</p><p>📜 <strong>Historia y significancia</strong></p><p>Antiguo refugio de piratas como Henry Morgan, la isla tiene una historia fascinante de resistencia y cultura. Sus habitantes hablan creole (inglés criollo) y mantienen un fuerte vínculo con el mar. La isla es parte de la Reserva de la Biosfera Seaflower de la UNESCO.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🦀 <strong>Cayo Cangrejo</strong>: Un islote con las aguas más azules que jamás verás, perfecto para el snorkel.</li><li>🌉 <strong>Puente de los Enamorados</strong>: Un puente peatonal colorido que une Providencia con la isla de Santa Catalina.</li><li>🤿 <strong>Buceo y Snorkel</strong>: Explora corales intactos y una visibilidad submarina asombrosa.</li><li>⛰️ <strong>El Pico</strong>: Camina hasta el punto más alto de la isla para una vista de 360 grados del Mar de los Siete Colores.</li></ul><p>💡 <strong>Consejos para tu visita</strong></p><ul><li>🚜 Alquila una \"mula\" (carro de golf) para recorrer la isla a tu propio ritmo.</li><li>🦞 Prueba el \"Rondón\", el plato típico a base de pescado, caracol y leche de coco.</li><li>♻️ La isla es muy ecológica, sé extremadamente respetuoso con el entorno.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Puedes llegar desde San Andrés en un vuelo de 20 minutos en avioneta o en el catamarán en un trayecto de aproximadamente 3 horas.</p><p><em>📸 Créditos: providenciaexperience.com, worldmoments.org</em></p>",
+      "keywords": "Providencia, Isla, Caribe, arrecife, buceo, Santa Catalina, Puente de los Enamorados, Cayo Cangrejo",
+      "address": "Providencia, San Andrés y Providencia, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://providenciaexperience.com/wp-content/uploads/2024/03/isla-providencia-min-1.jpg",
+        "https://www.worldmoments.org/wp-content/uploads/2019/04/providencia_cayo_cangrejo1.jpg",
+        "https://miviaje.com/wp-content/uploads/2016/08/shutterstock_142880443.jpg",
+        "https://i.pinimg.com/originals/48/29/a7/4829a71dba1b75ab8ea32baf7fba7e20.jpg",
+        "https://www.olecolombia.com/wp-content/uploads/2019/11/Tour-Providencia-1024x512.jpg"
+      ]
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Guatapé — Piedra del Peñol y Embalse",
+      "content": "<p>🎯 <strong>¿Por qué visitar?</strong></p><p>Guatapé es conocido como el pueblo más colorido del mundo gracias a sus famosos \"zócalos\" artísticos que adornan cada casa 🎨. Es el hogar de la imponente Piedra del Peñol, un monolito de 220 metros de altura desde donde se aprecia una de las vistas más espectaculares de lagos y montañas.</p><p>📜 <strong>Historia y significancia</strong></p><p>En los años 70, parte del antiguo pueblo fue inundado para crear el embalse de El Peñol-Guatapé, que hoy genera gran parte de la energía de Colombia. Los zócalos surgieron como una tradición local que narra historias de las familias y oficios del pueblo.</p><p>🏛️ <strong>Qué ver y hacer</strong></p><ul><li>🧗 <strong>Piedra del Peñol</strong>: Sube los 740 escalones para alcanzar la cima y ver el embalse en todo su esplendor.</li><li>🏠 <strong>Plazoleta de los Zócalos</strong>: El lugar más vibrante y fotogénico del pueblo.</li><li>🚤 <strong>Deportes Náuticos</strong>: Paseos en lancha, kayak o moto de agua por el embalse.</li><li>☕ <strong>Calle del Recuerdo</strong>: Una de las calles más tradicionales donde puedes disfrutar de un café antioqueño premium.</li></ul><p>💡 <strong>Consejos para tu visita</strong></p><ul><li>👟 Usa calzado cómodo para subir la piedra y caminar por las calles empedradas.</li><li>🕙 Llega temprano los fines de semana para evitar las largas filas en la Piedra.</li><li>🥘 No te vayas sin probar una típica bandeja paisa en los restaurantes frente al malecón.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>A solo 2 horas de Medellín, puedes tomar un bus en la Terminal del Norte o contratar un tour privado.</p><p><em>📸 Créditos: abcmundial.com, elturismoencolombia.com</em></p>",
+      "keywords": "Guatapé, Piedra del Peñol, Antioquia, zócalos, embalse, deportes náuticos, senderismo",
+      "address": "Guatapé, Antioquia, Colombia",
+      "category": "turismo",
+      "status": "publish",
+      "image_urls": [
+        "https://abcmundial.com/sites/default/files/noticias/2021/03/23/penol%20guatape.jpg",
+        "https://i.pinimg.com/originals/7c/7a/61/7c7a617e3bbdbbdb6b3fc96527e70b2c.jpg",
+        "https://c8.alamy.com/comp/3ANGX48/aerial-view-of-el-penon-de-guatape-a-travel-destination-in-guatap-antioquia-an-andean-resort-town-in-northwest-colombia-3ANGX48.jpg",
+        "https://elturismoencolombia.com/wp-content/uploads/2023/01/aerial-view-landscape-rock-guatape-piedra-del-penol-colombia.jpg",
+        "https://hasanjasim.online/wp-content/uploads/2023/04/Piedra_y_Embalse_del_Penol_desde_dron_05-1.jpg"
+      ]
+    }
+  }
+]

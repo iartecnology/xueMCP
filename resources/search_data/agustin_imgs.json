@@ -1,0 +1,40 @@
+🔍 Searching: "Claustro de San Agustin Bogota UNAL"
+📊 Results: 2
+
+✅ Got VQD token: 4-234177991212964238976345963402059336068 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://patrimoniocultural.bogota.unal.edu.co/wp-content/uploads/2022/05/banner-visitas-claustro.jpg
+   Source: https://patrimoniocultural.bogota.unal.edu.co/claustro-san-agustin/
+   Title: Claustro de San Agustín UNAL - Dirección de Patrimonio Cultural UNAL
+   Width: 2000 | Height: 702
+====================================================================================================
+
+📸 Image 2:
+   URL: https://patrimoniocultural.bogota.unal.edu.co/wp-content/uploads/2024/10/banner-claustro.jpg
+   Source: https://patrimoniocultural.bogota.unal.edu.co/claustro-san-agustin/
+   Title: Claustro de San Agustín UNAL - Dirección de Patrimonio Cultural UNAL
+   Width: 2560 | Height: 1024
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://patrimoniocultural.bogota.unal.edu.co/wp-content/uploads/2022/05/banner-visitas-claustro.jpg",
+    "source_url": "https://patrimoniocultural.bogota.unal.edu.co/claustro-san-agustin/",
+    "title": "Claustro de San Agustín UNAL - Dirección de Patrimonio Cultural UNAL",
+    "width": 2000,
+    "height": 702
+  },
+  {
+    "image_url": "https://patrimoniocultural.bogota.unal.edu.co/wp-content/uploads/2024/10/banner-claustro.jpg",
+    "source_url": "https://patrimoniocultural.bogota.unal.edu.co/claustro-san-agustin/",
+    "title": "Claustro de San Agustín UNAL - Dirección de Patrimonio Cultural UNAL",
+    "width": 2560,
+    "height": 1024
+  }
+]

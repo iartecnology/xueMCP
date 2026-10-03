@@ -1,0 +1,102 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🪂 Bungee Jumping en San Gil — Adrenalina Pura sobre el Río",
+      "content": "<p>🎯 <strong>¿Por qué saltar en San Gil?</strong></p><p>San Gil es la capital de los deportes extremos en Colombia, y el <strong>Bungee Jumping</strong> es su prueba de fuego 🪂. Con plataformas que van desde los 70 hasta los 140 metros de altura, saltar sobre el cañón del río Fonce es una experiencia que redefine el concepto de adrenalina.</p><p>📸 <strong>Experiencias</strong>: Siente la caída libre y el rebote con vistas espectaculares de las montañas santandereanas. Es uno de los saltos más altos y seguros de Sudamérica.</p>",
+      "address": "San Gil, Santander, Colombia",
+      "lat": 6.559,
+      "lng": -73.137,
+      "keywords": "Bungee Jumping San Gil, deporte extremo Colombia, salto al vacio, aventura Santander, turismo de aventura",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://sangil-aventura.com/wp-content/uploads/2021/01/bungee-jumping-san-gil.jpg"
+      ],
+      "id": 6384,
+      "link": "https://xueturismo.com/listado/%f0%9f%aa%82-bungee-jumping-en-san-gil-adrenalina-pura-sobre-el-rio-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🤿 Buceo en San Andrés — El Jardín Submarino del Caribe",
+      "content": "<p>🎯 <strong>¿Por qué bucear en San Andrés?</strong></p><p>La Reserva de la Biosfera <strong>Seaflower</strong> alberga la tercera barrera de coral más grande del mundo 🤿. Bucear en San Andrés es sumergirse en un acuario natural de aguas cristalinas con visibilidad de hasta 30 metros, donde la fauna marina y los naufragios crean paisajes surrealistas.</p><p>📸 <strong>Experiencias</strong>: Explora puntos icónicos como 'El Blue Wall' o los barcos hundidos. La temperatura del agua es perfecta todo el año.</p>",
+      "address": "San Andrés Isla, Colombia",
+      "lat": 12.584,
+      "lng": -81.698,
+      "keywords": "Buceo San Andres, Seaflower, arrecifes de coral, buceo Colombia, submarinismo Caribe, fauna marina",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://www.sanandresislas.com.co/wp-content/uploads/2019/08/buceo-san-andres-isla.jpg"
+      ],
+      "id": 6385,
+      "link": "https://xueturismo.com/listado/%f0%9f%a4%bf-buceo-en-san-andres-el-jardin-submarino-del-caribe-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🧗 Canyoning en Nimaima — Aventura en Cascadas y Cañones",
+      "content": "<p>🎯 <strong>¿Por qué el Canyoning en Nimaima?</strong></p><p>Cerca de Bogotá, en el municipio de <strong>Nimaima</strong>, se vive una de las mejores experiencias de barranquismo o canyoning 🧗. Desciende por cascadas naturales, salta a pozos profundos y deslízate por toboganes de roca en medio de un cañón selvático espectacular.</p><p>📸 <strong>Experiencias</strong>: El descenso por la Cascada del Barandillas es el punto máximo de la ruta, combinando técnica de rappel con la fuerza del agua.</p>",
+      "address": "Nimaima, Cundinamarca, Colombia",
+      "lat": 5.127,
+      "lng": -74.388,
+      "keywords": "Canyoning Nimaima, barranquismo Colombia, aventura Cundinamarca, cascadas Nimaima, turismo cerca de Bogota",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://aventuracolombia.com/wp-content/uploads/2021/04/canyoning-nimaima-cascada.jpg"
+      ],
+      "id": 6386,
+      "link": "https://xueturismo.com/listado/%f0%9f%a7%97-canyoning-en-nimaima-aventura-en-cascadas-y-canones-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🪁 Kitesurf en el Cabo de la Vela — Viento y Libertad en el Desierto",
+      "content": "<p>🎯 <strong>¿Por qué hacer Kitesurf en La Guajira?</strong></p><p>El <strong>Cabo de la Vela</strong> es reconocido mundialmente como uno de los mejores spots para el kitesurf debido a sus vientos constantes y aguas planas 🪁. Es el lugar donde los colores del desierto se mezclan con el azul intenso del mar mientras te deslizas impulsado por la brisa guajira.</p><p>📸 <strong>Experiencias</strong>: Aprende desde cero en las escuelas locales Wayuu o vuela sobre las olas en un entorno de paz absoluta y paisajes alienígenas.</p>",
+      "address": "Cabo de la Vela, La Guajira, Colombia",
+      "lat": 12.203,
+      "lng": -72.145,
+      "keywords": "Kitesurf Cabo de la Vela, La Guajira aventura, deportes de viento, kitesurf Colombia, turismo Guajira",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://www.colombia.travel/sites/default/files/styles/image_800x600/public/kitesurf-cabo-de-la-vela.jpg"
+      ],
+      "id": 6387,
+      "link": "https://xueturismo.com/listado/%f0%9f%aa%81-kitesurf-en-el-cabo-de-la-vela-viento-y-libertad-en-el-desierto-2/"
+    }
+  },
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "🛶 Torrentismo en Curití — Desafío en las Cascadas de Santander",
+      "content": "<p>🎯 <strong>¿Por qué el Torrentismo en Curití?</strong></p><p>El pueblo de los tejedores, <strong>Curití</strong>, esconde cascadas impresionantes donde el torrentismo se convierte en un arte 🛶. Descender por paredes de roca bañadas por agua helada es una prueba de resistencia y equilibrio en medio de un paisaje de musgos y helechos gigantes.</p><p>📸 <strong>Experiencias</strong>: Las cascadas de Pescaderito son el escenario ideal para iniciarse o perfeccionar la técnica de descenso en cuerdas bajo la presión del agua.</p>",
+      "address": "Curití, Santander, Colombia",
+      "lat": 6.609,
+      "lng": -73.069,
+      "keywords": "Torrentismo Curiti, Santander aventura, cascadas Pescaderito, rappel en cascada, turismo San Gil",
+      "category": [
+        "Experiencias"
+      ],
+      "status": "publish",
+      "image_urls": [
+        "https://sangil-aventura.com/wp-content/uploads/2021/01/torrentismo-curiti.jpg"
+      ],
+      "id": 6388,
+      "link": "https://xueturismo.com/listado/%f0%9f%9b%b6-torrentismo-en-curiti-desafio-en-las-cascadas-de-santander-2/"
+    }
+  }
+]

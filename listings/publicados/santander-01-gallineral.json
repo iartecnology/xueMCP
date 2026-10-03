@@ -1,0 +1,19 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🌳 Parque Natural El Gallineral — El Corazón de San Gil",
+    "content": "<p>🎯 <strong>¿Por qué visitar El Gallineral?</strong></p><p>El <strong>Parque Natural El Gallineral</strong> es el lugar más emblemático de San Gil 🌳. Se trata de una isla de 4 hectáreas rodeada por las aguas del Río Fonce y la quebrada Curití, famosa por sus árboles centenarios cubiertos de 'barba de viejo', que crean un ambiente mágico y sombrío único en Colombia.</p><p>🌿 <strong>Naturaleza y Paisaje</strong></p><p>Caminar por sus senderos es sumergirse en un ecosistema fascinante donde el musgo cuelga de las ramas como cortinas naturales. Es el lugar perfecto para relajarse después de una jornada de deportes de aventura o para disfrutar de un paseo romántico entre puentes coloniales y pequeñas cascadas.</p><p>📸 <strong>Experiencias</strong></p><ul><li>🚶 <strong>Senderismo suave</strong>: Recorre sus caminos empedrados bajo la sombra de los gallineros.</li><li>🏊 <strong>Piscinas naturales</strong>: Disfruta de un baño refrescante en sus zonas habilitadas.</li><li>🛶 <strong>Punto de llegada</strong>: Mira cómo llegan los botes de rafting que bajan por el río Fonce.</li></ul><p>🕐 <strong>Horario</strong></p><p>📅 <strong>Todos los días</strong>: 8 AM - 5 PM</p><p>💡 <strong>Consejos prácticos</strong></p><ul><li>🎫 <strong>Entrada</strong>: Aproximadamente 6.000 COP - 10.000 COP.</li><li>📸 <strong>Fotografía</strong>: La luz que se filtra entre el musgo a media mañana es perfecta para fotos.</li><li>🧴 <strong>Repelente</strong>: Al estar junto al río, es recomendable llevar repelente de insectos.</li></ul><p>🚶 <strong>Cómo llegar</strong></p><p>Se encuentra en el casco urbano de <strong>San Gil</strong>, al final del Malecón. Puedes llegar caminando desde el centro de la ciudad.</p><p><em>📸 Créditos: sangilextremo.com.co, renunciamosyviajamos.com</em></p>",
+    "keywords": "Parque El Gallineral, San Gil, Santander, naturaleza, musgo barba de viejo, rio fonce, turismo santander, parque natural",
+    "address": "Malecón de San Gil, Santander, Colombia",
+    "lat": 6.5499,
+    "lng": -73.1281,
+    "category": "experiencias",
+    "status": "publish",
+    "image_urls": [
+      "https://sangilextremo.com.co/wp-content/uploads/2020/01/parque-el-gallineral-san-gil-4-820x410.jpg",
+      "https://www.renunciamosyviajamos.com/wp-content/uploads/2014/09/Parque-el-Gallineral-Renunciamos-y-Viajamos-18.jpg",
+      "https://medellinguru.com/wp-content/uploads/2018/11/Parque-El-Gallineral-San-Gil-1024x687.jpg",
+      "https://imgs-akamai.mnstatic.com/f6/45/f645276ae3696a33825925c5ebbf0d99.jpg"
+    ]
+  }
+}

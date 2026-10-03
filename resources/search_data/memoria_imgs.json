@@ -1,0 +1,40 @@
+🔍 Searching: "Museo Casa de la Memoria Medellin"
+📊 Results: 2
+
+✅ Got VQD token: 4-160785982270402260125915448571678624167 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.elespectador.com/resizer/g2SnHVu69NwBXLxViU4h9rYaqD4=/920x613/filters:quality(60):format(jpeg)/www.elespectador.com/resizer/vK9jMOsrkq6rv4fAngVJUx8Z4sA=/arc-anglerfish-arc2-prod-elespectador/public/IXJKSG4ERRCBVEJWC6JAJ74R7Y.jpg
+   Source: https://www.elespectador.com/el-magazin-cultural/museos-de-la-memoria-en-latinoamerica-y-el-caribe-la-importancia-de-no-olvidar/
+   Title: Museos de la memoria en Latinoamérica y el Caribe: la importancia de no ...
+   Width: 920 | Height: 613
+====================================================================================================
+
+📸 Image 2:
+   URL: https://images.adsttc.com/media/images/5dc9/fe7f/3312/fd94/f000/02b3/large_jpg/principal.jpg?1573518969
+   Source: https://www.archdaily.mx/mx/927413/como-se-diseno-la-fachada-ventilada-del-museo-casa-de-la-memoria-de-medellin/5dc9fe7f3312fd94f00002b3-como-se-diseno-la-fachada-ventilada-del-museo-casa-de-la-memoria-de-medellin-imagen
+   Title: Galería de Cómo se diseñó la fachada ventilada del 'Museo Casa de la ...
+   Width: 1140 | Height: 760
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://www.elespectador.com/resizer/g2SnHVu69NwBXLxViU4h9rYaqD4=/920x613/filters:quality(60):format(jpeg)/www.elespectador.com/resizer/vK9jMOsrkq6rv4fAngVJUx8Z4sA=/arc-anglerfish-arc2-prod-elespectador/public/IXJKSG4ERRCBVEJWC6JAJ74R7Y.jpg",
+    "source_url": "https://www.elespectador.com/el-magazin-cultural/museos-de-la-memoria-en-latinoamerica-y-el-caribe-la-importancia-de-no-olvidar/",
+    "title": "Museos de la memoria en Latinoamérica y el Caribe: la importancia de no ...",
+    "width": 920,
+    "height": 613
+  },
+  {
+    "image_url": "https://images.adsttc.com/media/images/5dc9/fe7f/3312/fd94/f000/02b3/large_jpg/principal.jpg?1573518969",
+    "source_url": "https://www.archdaily.mx/mx/927413/como-se-diseno-la-fachada-ventilada-del-museo-casa-de-la-memoria-de-medellin/5dc9fe7f3312fd94f00002b3-como-se-diseno-la-fachada-ventilada-del-museo-casa-de-la-memoria-de-medellin-imagen",
+    "title": "Galería de Cómo se diseñó la fachada ventilada del 'Museo Casa de la ...",
+    "width": 1140,
+    "height": 760
+  }
+]

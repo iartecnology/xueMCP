@@ -1,0 +1,17 @@
+[
+  {
+    "ability": "listeo/create-listing",
+    "args": {
+      "title": "Cabo Cañaveral - Imagen Directa",
+      "content": "Probando con una URL de imagen directa sin parámetros.",
+      "status": "publish",
+      "type": "service",
+      "address": "Tayrona",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tayrona_National_Park_Cabo_San_Juan.jpg/1024px-Tayrona_National_Park_Cabo_San_Juan.jpg"
+      ],
+      "id": 6337,
+      "link": "https://xueturismo.com/-/cabo-canaveral-imagen-directa/"
+    }
+  }
+]

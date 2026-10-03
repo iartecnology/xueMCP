@@ -1,0 +1,11 @@
+{
+  "ability": "listeo/create-listing",
+  "args": {
+    "title": "🗼 París - La Ciudad de la Luz",
+    "content": "<p>🎯 <strong>Por qué visitar París?</strong></p><p><strong>París</strong>, la capital de Francia, es una de las ciudades más emblemáticas del mundo 🗼. Conocida como la \"Ciudad de la Luz\", encanta con su arquitectura, arte, gastronomía y romanticismo.</p><p>📜 <strong>Historia</strong></p><p>Fundada circa 250 a.C., París ha sido centro de cultura, arte y revolución durante milenios. Es hogar de la Revolución Francesa, el impresionismo y la moda mundial.</p><p>🗼 <strong>Imperdibles</strong></p><ul><li>🗼 <strong>Torre Eiffel</strong> - Símbolo de la ciudad</li><li>🏛️ <strong>Museo del Louvre</strong> - Mona Lisa</li><li>⛪ <strong>Notre-Dame</strong> - Arquitectura gótica</li><li>🌳 <strong>Jardín de las Tullerías</strong> - Parque central</li><li>🍷 <strong>Campos Elíseos</strong> - Shopping de lujo</li></ul><p>🎨 <strong>Museos recomendados</strong></p><ul><li>Museo del Louvre</li><li>Museo d'Orsay</li><li>Centro Pompidou</li></ul><p>🍽️ <strong>Gastronomía</strong></p><p>París es capital de la gastronomía francesa. No puedes perderte:</p><ul><li>🥐 Croissants auténticos</li><li>🥖 Baguettes</li><li>🍷 Vinos franceses</li><li>🍰 Pasteles</li></ul><p>🕐 <strong>Mejor época</strong></p><ul><li>🌸 <strong>Primavera</strong> - Abril-mayo</li><li>🍂 <strong>Otoño</strong> - Septiembre-octubre</li></ul><p>💡 <strong>Consejos</strong></p><ul><li>🎫 Reserva entradas a museos con anticipación</li><li>🚇 Obtén la tarjeta Paris Museum Pass</li><li>👟 Zapatos cómodos para caminar</li></ul><p>✈️ <strong>Cómo llegar</strong></p><p>Volando a <strong>Aeropuerto Charles de Gaulle</strong> o <strong>Orly</strong>. Metro y RER conectan al centro.</p><p>⭐ <strong>Por qué París es único</strong></p><ul><li>🏛️ <strong>Arquitectura</strong> - Gótica a neoclásica</li><li>🎨 <strong>Arte</strong> - Museos mundiales</li><li>🍷 <strong>Gastronomía</strong> - Francesa</li><li>💕 <strong>Romanticismo</strong> - Ciudad del amor</li></ul>",
+    "keywords": "Paris, Francia, Torre Eiffel, Louvre, turismo europeo, viajes",
+    "address": "París, Francia",
+    "category": "turismo",
+    "status": "publish"
+  }
+}

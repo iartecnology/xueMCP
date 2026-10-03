@@ -1,0 +1,40 @@
+🔍 Searching: "Casa Museo Rafael Nuñez Cartagena"
+📊 Results: 2
+
+✅ Got VQD token: 4-111645073009926713400344628351708898224 
+
+✅ Found 2 images:
+
+====================================================================================================
+
+📸 Image 1:
+   URL: https://www.gpsmycity.com/img/gd_sight/60751.jpg
+   Source: https://www.gpsmycity.com/attractions/casa-museo-rafael-nunez-(rafael-nunez-house-museum)-60751.html
+   Title: Casa Museo Rafael Nuñez (Rafael Nunez House Museum), Cartagena
+   Width: 1024 | Height: 678
+====================================================================================================
+
+📸 Image 2:
+   URL: https://www.terminaldecartagena.com/wp-content/uploads/2022/03/casa-del-museo-nunez-1.jpg
+   Source: https://www.terminaldecartagena.com/nuestra-ciudad/
+   Title: Nuestra ciudad - terminal
+   Width: 674 | Height: 478
+====================================================================================================
+
+📋 JSON format for ListeoMCP:
+[
+  {
+    "image_url": "https://www.gpsmycity.com/img/gd_sight/60751.jpg",
+    "source_url": "https://www.gpsmycity.com/attractions/casa-museo-rafael-nunez-(rafael-nunez-house-museum)-60751.html",
+    "title": "Casa Museo Rafael Nuñez (Rafael Nunez House Museum), Cartagena",
+    "width": 1024,
+    "height": 678
+  },
+  {
+    "image_url": "https://www.terminaldecartagena.com/wp-content/uploads/2022/03/casa-del-museo-nunez-1.jpg",
+    "source_url": "https://www.terminaldecartagena.com/nuestra-ciudad/",
+    "title": "Nuestra ciudad - terminal",
+    "width": 674,
+    "height": 478
+  }
+]
