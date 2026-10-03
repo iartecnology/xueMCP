@@ -343,3 +343,25 @@ node update.js mi-actualizacion.json
 ### 4. Contingencia de Red y Subida de Archivos:
 - **Sandbox Network:** Si hay problemas de resolución DNS hacia `xueturismo.com`, dirigir tráfico a la IP directa `69.10.33.22` con cabecera `Host: xueturismo.com`.
 - **Hotlinking Bloqueado:** Si la descarga externa en WordPress falla, descargar la imagen con `python3 search_images.py --download /tmp/images`, transferir vía FTP a `/xueturismo.com/wp-content/uploads/2026/09/` y asociar con script de sideload local.
+
+---
+
+## 📋 Módulo 5: Gestión y Sincronización del Inventario Maestro
+
+El repositorio cuenta con el archivo maestro [`sitios_publicados.md`](file:///Users/ric/Documents/RIC/ANTIGRAVITY/ListeoMCP/sitios_publicados.md), el cual contiene la totalidad de los listados en vivo con sus IDs oficiales, enlaces directos y categorías asignadas.
+
+### 1. Auditoría y Prevención de Duplicados:
+Antes de redactar o publicar un nuevo atractivo, restaurante, hotel o plato típico, el agente **debe consultar `sitios_publicados.md`** para verificar si ya existe un listado previo o si requiere una actualización de contenido/imágenes en lugar de crear un duplicado.
+
+### 2. Sincronización Automática del Inventario:
+El agente dispone del script automatizado para consultar la API REST de WordPress y refrescar el inventario maestro con todas las páginas activas:
+
+```bash
+python3 .agents/skills/xuemcp/scripts/sync_inventory.py
+```
+
+Este script:
+- Consulta de forma paginada `https://xueturismo.com/wp-json/wp/v2/listing`.
+- Extrae el ID, título limpio, enlace canónico y categorías numéricas de cada publicación.
+- Actualiza la cabecera con la fecha y hora exacta de sincronización y el total en vivo.
+
