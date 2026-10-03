@@ -1,6 +1,6 @@
-# Listeo MCP Server
+# XUÉ MCP Server (`xuemcp`)
 
-MCP server for the **Listeo WordPress Theme**. It allows interacting with listings, categories, and regions from any Listeo-powered site using the Model Context Protocol.
+Servidor y conector MCP (Model Context Protocol) para **XUÉ Turismo** y WordPress / Listeo. Permite a agentes de IA interactuar con listados, gastronomía, imágenes, taxonomías y contenidos turísticos de forma autónoma.
 
 ## Features
 
