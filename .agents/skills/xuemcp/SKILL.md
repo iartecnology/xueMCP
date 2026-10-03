@@ -292,15 +292,15 @@ python3 .agents/skills/xuemcp/scripts/search_images.py "<término de búsqueda>"
 
 ---
 
-## 🚀 Módulo 4: Publicación y Gestión vía API REST / MCP
+## 🚀 Módulo 4: Publicación, Edición y Eliminación vía API REST / MCP (Sin Contraseñas de Aplicación)
 
-### 1. Variables de Entorno:
-```bash
-export LISTEO_URL="https://xueturismo.com/wp-json/mcp-listeo/v1"
-export MCP_TOKEN="tu_token_de_acceso" # Opcional en llamadas públicas locales
-```
+> [!TIP]
+> **Autenticación sin Contraseñas:**
+> El endpoint `/call` de `mcp-listeo` está diseñado para operar de forma nativa sin requerir *Application Passwords* ni autenticación Basic de WordPress.
+> Internamente, el conector eleva el contexto del proceso para ejecutar las operaciones con permisos administrativos seguros.
 
-### 2. Creación de Listing (`listeo/create-listing`):
+### 1. Creación de Listing (`listeo/create-listing`):
+Ejemplo con payload JSON:
 ```json
 {
   "ability": "listeo/create-listing",
@@ -317,12 +317,14 @@ export MCP_TOKEN="tu_token_de_acceso" # Opcional en llamadas públicas locales
 }
 ```
 
-Comando de ejecución:
+Llamada directa vía cURL / Python:
 ```bash
-node publish.js mi-listing.json
+curl -X POST "https://xueturismo.com/wp-json/mcp-listeo/v1/call" \
+  -H "Content-Type: application/json" \
+  -d '{"ability": "listeo/create-listing", "args": {"title": "Nombre", "status": "publish"}}'
 ```
 
-### 3. Actualización de Listing (`listeo/update-listing`):
+### 2. Actualización de Listing (`listeo/update-listing`):
 ```json
 {
   "ability": "listeo/update-listing",
@@ -335,10 +337,25 @@ node publish.js mi-listing.json
 }
 ```
 
-Comando de ejecución:
-```bash
-node update.js mi-actualizacion.json
+### 3. Eliminación de Listing o Post (`wp/delete-post`):
+Para enviar a la papelera o eliminar permanentemente un listado o entrada sin contraseñas:
+```json
+{
+  "ability": "wp/delete-post",
+  "args": {
+    "id": 12345,
+    "force": true
+  }
+}
 ```
+
+Llamada directa vía cURL:
+```bash
+curl -X POST "https://xueturismo.com/wp-json/mcp-listeo/v1/call" \
+  -H "Content-Type: application/json" \
+  -d '{"ability": "wp/delete-post", "args": {"id": 12345, "force": true}}'
+```
+*(Usa `"force": false` para mover a la papelera o `"force": true` para eliminación definitiva).*
 
 ### 4. Contingencia de Red y Subida de Archivos:
 - **Sandbox Network:** Si hay problemas de resolución DNS hacia `xueturismo.com`, dirigir tráfico a la IP directa `69.10.33.22` con cabecera `Host: xueturismo.com`.
