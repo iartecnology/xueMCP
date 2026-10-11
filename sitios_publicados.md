@@ -1,13 +1,14 @@
 # Inventario Maestro de Sitios y Publicaciones — XUÉ Turismo
 
-> **Total de publicaciones en vivo:** 1165
-> **Última sincronización con la base de datos:** 2026-10-03 13:41
+> **Total de publicaciones en vivo:** 1164
+> **Última sincronización con la base de datos:** 2026-10-10 21:31
 > **Propósito:** Registro maestro centralizado para auditoría, control de calidad, actualización incremental y prevención de duplicados.
 
 ---
 
 | ID | Título de la Publicación | Enlace Directo | Categorías |
 | :--- | :--- | :--- | :--- |
+| `8914` | ⚽ Estadio Metropolitano Roberto Meléndez — El Coloso de la Ciudadela en Barranquilla | [Ver Listado](https://xueturismo.com/listado/%e2%9a%bd-estadio-metropolitano-roberto-melendez-el-coloso-de-la-ciudadela-en-barranquilla/) | `1548, 167` |
 | `8899` | 🥁 Palenque Cocina de Tradición — Herencia Afrocaribeña y Pescados en Barranquilla | [Ver Listado](https://xueturismo.com/listado/%f0%9f%a5%81-palenque-cocina-de-tradicion-herencia-afrocaribena-y-pescados-en-barranquilla/) | `21, 1651` |
 | `8897` | 🥩 Miura Steakhouse — Cortes Premium y Parrilla de Autor en Barranquilla | [Ver Listado](https://xueturismo.com/listado/%f0%9f%a5%a9-miura-steakhouse-cortes-premium-y-parrilla-de-autor-en-barranquilla/) | `21, 1651` |
 | `8895` | 🐊 El Caimán del Río — Mercado Gastronómico sobre el Gran Malecón del Magdalena | [Ver Listado](https://xueturismo.com/listado/%f0%9f%90%8a-el-caiman-del-rio-mercado-gastronomico-sobre-el-gran-malecon-del-magdalena/) | `21, 1651` |
@@ -176,8 +177,6 @@
 | `8769` | 🥚 Huevos al Vapor de Salamina — El Desayuno Insigne de la Ciudad Luz en Caldas | [Ver Listado](https://xueturismo.com/listado/%f0%9f%a5%9a-huevos-al-vapor-de-salamina-el-desayuno-insigne-de-la-ciudad-luz-en-caldas/) | `1481` |
 | `8767` | 🐟 Trucha Dorada de Alta Montaña — Frescura de Truchera y Sabor Paisa en Jardín | [Ver Listado](https://xueturismo.com/listado/%f0%9f%90%9f-trucha-dorada-de-alta-montana-frescura-de-truchera-y-sabor-paisa-en-jardin/) | `1481` |
 | `8766` | 🥩 Carne Oreada Santandereana — Tradición de Sol y Sabores Bravos en Barichara | [Ver Listado](https://xueturismo.com/listado/%f0%9f%a5%a9-carne-oreada-santandereana-tradicion-de-sol-y-sabores-bravos-en-barichara/) | `1481` |
-| `8672` | ♨️ Cascada Termal de Zetaquira — La Cascada de Agua Caliente más Alta de Colombia | [Ver Listado](https://xueturismo.com/listado/%e2%99%a8%ef%b8%8f-cascada-termal-de-zetaquira-la-cascada-de-agua-caliente-mas-alta-de-colombia/) | `1548, 1556, 167` |
-| `8685` | 🌭 Tradición Culinaria de las Génovas de Corrales — El Sabor Autóctono del Sugamuxi | [Ver Listado](https://xueturismo.com/listado/%f0%9f%8c%ad-tradicion-culinaria-de-las-genovas-de-corrales-el-sabor-autoctono-del-sugamuxi/) | `1481` |
 | `8554` | 🏛️ Casa Museo del Fundador Gonzalo Suárez Rendón — Joya Renacentista en Tunja | [Ver Listado](https://xueturismo.com/listado/%f0%9f%8f%9b%ef%b8%8f-casa-museo-del-fundador-gonzalo-suarez-rendon-joya-renacentista-en-tunja/) | `1548, 1543, 167` |
 | `8552` | ☀️ Cojines del Zaque — Observatorio Solar Muisca y Mirador en Tunja | [Ver Listado](https://xueturismo.com/listado/%e2%98%80%ef%b8%8f-cojines-del-zaque-observatorio-solar-muisca-y-mirador-en-tunja/) | `1548, 1543, 167` |
 | `8550` | 🚗 Túneles de Piedra de la Represa de Chivor — Proeza Vial y Miradores en Macanal | [Ver Listado](https://xueturismo.com/listado/%f0%9f%9a%97-tuneles-de-piedra-de-la-represa-de-chivor-proeza-vial-y-miradores-en-macanal/) | `1548, 167` |
