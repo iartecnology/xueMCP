@@ -1,13 +1,14 @@
 # Inventario Maestro de Sitios y Publicaciones — XUÉ Turismo
 
-> **Total de publicaciones en vivo:** 1164
-> **Última sincronización con la base de datos:** 2026-10-10 21:31
+> **Total de publicaciones en vivo:** 1165
+> **Última sincronización con la base de datos:** 2026-10-11 13:18
 > **Propósito:** Registro maestro centralizado para auditoría, control de calidad, actualización incremental y prevención de duplicados.
 
 ---
 
 | ID | Título de la Publicación | Enlace Directo | Categorías |
 | :--- | :--- | :--- | :--- |
+| `8929` | 🎸 Rock al Parque 2026 — Edición Especial 30 Años en Bogotá | [Ver Listado](https://xueturismo.com/listado/%f0%9f%8e%b8-rock-al-parque-2026-edicion-especial-30-anos-en-bogota/) | `36` |
 | `8914` | ⚽ Estadio Metropolitano Roberto Meléndez — El Coloso de la Ciudadela en Barranquilla | [Ver Listado](https://xueturismo.com/listado/%e2%9a%bd-estadio-metropolitano-roberto-melendez-el-coloso-de-la-ciudadela-en-barranquilla/) | `1548, 167` |
 | `8899` | 🥁 Palenque Cocina de Tradición — Herencia Afrocaribeña y Pescados en Barranquilla | [Ver Listado](https://xueturismo.com/listado/%f0%9f%a5%81-palenque-cocina-de-tradicion-herencia-afrocaribena-y-pescados-en-barranquilla/) | `21, 1651` |
 | `8897` | 🥩 Miura Steakhouse — Cortes Premium y Parrilla de Autor en Barranquilla | [Ver Listado](https://xueturismo.com/listado/%f0%9f%a5%a9-miura-steakhouse-cortes-premium-y-parrilla-de-autor-en-barranquilla/) | `21, 1651` |
